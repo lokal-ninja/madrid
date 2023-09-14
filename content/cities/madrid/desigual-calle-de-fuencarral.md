@@ -1,5 +1,5 @@
 ---
 title: "Desigual"
-url: /madrid/desigual/
+url: /madrid/desigual-calle-de-fuencarral/
 shop: ropa
 ---

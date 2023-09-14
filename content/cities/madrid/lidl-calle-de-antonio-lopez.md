@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /madrid/lidl/
+url: /madrid/lidl-calle-de-antonio-lopez/
 shop: supermercado
 ---

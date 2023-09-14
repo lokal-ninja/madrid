@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /mostoles/dia/
+url: /mostoles/dia-calle-pintor-miro/
 shop: supermercado
 ---

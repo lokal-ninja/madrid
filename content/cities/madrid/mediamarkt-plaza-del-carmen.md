@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /madrid/mediamarkt/
+url: /madrid/mediamarkt-plaza-del-carmen/
 shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alimentación"
-url: /getafe/alimentacion/
+url: /getafe/alimentacion-calle-zurbaran/
 shop: comodidad
 ---

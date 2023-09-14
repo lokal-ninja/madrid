@@ -1,5 +1,5 @@
 ---
 title: "Zara"
-url: /madrid/zara/
+url: /madrid/zara-plaza-de-espana/
 shop: ropa
 ---

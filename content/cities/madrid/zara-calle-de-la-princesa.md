@@ -1,5 +1,5 @@
 ---
 title: "Zara"
-url: /madrid/zara/
+url: /madrid/zara-calle-de-la-princesa/
 shop: ropa
 ---

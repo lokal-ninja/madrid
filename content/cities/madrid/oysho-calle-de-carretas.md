@@ -1,5 +1,5 @@
 ---
 title: "Oysho"
-url: /madrid/oysho/
+url: /madrid/oysho-calle-de-carretas/
 shop: ropa
 ---

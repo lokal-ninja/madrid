@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /madrid/dia/
+url: /madrid/dia-costanilla-de-los-angeles/
 shop: supermercado
 ---

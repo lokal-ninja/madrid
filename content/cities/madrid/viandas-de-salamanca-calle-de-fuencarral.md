@@ -1,5 +1,5 @@
 ---
 title: "Viandas de Salamanca"
-url: /madrid/viandas-de-salamanca/
+url: /madrid/viandas-de-salamanca-calle-de-fuencarral/
 shop: charcutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salvador Bachiller"
-url: /madrid/salvador-bachiller/
+url: /madrid/salvador-bachiller-calle-de-la-montera/
 shop: ropa
 ---

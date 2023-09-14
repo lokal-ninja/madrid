@@ -1,5 +1,5 @@
 ---
 title: "Jose"
-url: /madrid/jose/
+url: /madrid/jose-calle-de-serradilla/
 shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
-url: /madrid/ahorramas/
+url: /madrid/ahorramas-calle-de-jose-del-hierro/
 shop: supermercado
 ---

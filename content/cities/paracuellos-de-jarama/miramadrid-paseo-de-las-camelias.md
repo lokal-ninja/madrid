@@ -1,5 +1,5 @@
 ---
 title: "Miramadrid"
-url: /paracuellos-de-jarama/miramadrid/
+url: /paracuellos-de-jarama/miramadrid-paseo-de-las-camelias/
 shop: centro comercial
 ---

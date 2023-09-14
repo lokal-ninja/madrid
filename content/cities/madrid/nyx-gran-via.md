@@ -1,5 +1,5 @@
 ---
 title: "Nyx"
-url: /madrid/nyx/
+url: /madrid/nyx-gran-via/
 shop: cosméticos
 ---

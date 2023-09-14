@@ -1,5 +1,5 @@
 ---
 title: "Guerra"
-url: /alcorcon/guerra/
+url: /alcorcon/guerra-calle-del-mazo/
 shop: supermercado
 ---

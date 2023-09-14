@@ -1,5 +1,5 @@
 ---
 title: "Óscar"
-url: /madrid/oscar/
+url: /madrid/oscar-avenida-de-el-ferrol/
 shop: comodidad
 ---

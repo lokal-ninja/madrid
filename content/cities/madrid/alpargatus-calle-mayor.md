@@ -1,5 +1,5 @@
 ---
 title: "Alpargatus"
-url: /madrid/alpargatus/
+url: /madrid/alpargatus-calle-mayor/
 shop: regalo
 ---

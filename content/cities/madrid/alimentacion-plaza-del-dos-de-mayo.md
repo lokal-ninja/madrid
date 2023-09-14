@@ -1,5 +1,5 @@
 ---
 title: "Alimentación"
-url: /madrid/alimentacion/
+url: /madrid/alimentacion-plaza-del-dos-de-mayo/
 shop: comodidad
 ---

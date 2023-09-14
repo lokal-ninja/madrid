@@ -1,5 +1,5 @@
 ---
 title: "Aramayo"
-url: /madrid/aramayo/
+url: /madrid/aramayo-corredera-alta-de-san-pablo/
 shop: ropa
 ---

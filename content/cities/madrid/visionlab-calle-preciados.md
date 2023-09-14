@@ -1,5 +1,5 @@
 ---
 title: "Visionlab"
-url: /madrid/visionlab/
+url: /madrid/visionlab-calle-preciados/
 shop: óptico
 ---

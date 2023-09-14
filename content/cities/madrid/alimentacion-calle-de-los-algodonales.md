@@ -1,5 +1,5 @@
 ---
 title: "Alimentación"
-url: /madrid/alimentacion/
+url: /madrid/alimentacion-calle-de-los-algodonales/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papelería Librería La Tejonera"
-url: /la-cabrera/papeleria-libreria-la-tejonera/
+url: /la-cabrera/papeleria-libreria-la-tejonera-avenida-de-la-cabrera/
 shop: libros
 ---

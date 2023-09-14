@@ -1,5 +1,5 @@
 ---
 title: "Mammoth"
-url: /madrid/mammoth/
+url: /madrid/mammoth-plaza-de-valparaiso/
 shop: bicicleta
 ---

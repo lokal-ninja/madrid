@@ -1,5 +1,5 @@
 ---
 title: "La Despensa"
-url: /madrid/la-despensa/
+url: /madrid/la-despensa-calle-de-sanchez-barcaiztegui/
 shop: supermercado
 ---

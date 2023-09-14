@@ -1,5 +1,5 @@
 ---
 title: "Retoucherie"
-url: /madrid/retoucherie/
+url: /madrid/retoucherie-calle-de-argensola/
 shop: sastre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palazzo"
-url: /madrid/palazzo/
+url: /madrid/palazzo-calle-de-luchana/
 shop: helado
 ---

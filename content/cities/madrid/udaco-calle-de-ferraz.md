@@ -1,5 +1,5 @@
 ---
 title: "Udaco"
-url: /madrid/udaco/
+url: /madrid/udaco-calle-de-ferraz/
 shop: supermercado
 ---

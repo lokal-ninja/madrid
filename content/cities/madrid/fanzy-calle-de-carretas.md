@@ -1,5 +1,5 @@
 ---
 title: "Fanzy"
-url: /madrid/fanzy/
+url: /madrid/fanzy-calle-de-carretas/
 shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lush"
-url: /madrid/lush/
+url: /madrid/lush-calle-de-fuencarral/
 shop: cosméticos
 ---

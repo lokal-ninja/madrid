@@ -1,5 +1,5 @@
 ---
 title: "Supeco"
-url: /alcorcon/supeco/
+url: /alcorcon/supeco-avenida-de-leganes/
 shop: supermercado
 ---

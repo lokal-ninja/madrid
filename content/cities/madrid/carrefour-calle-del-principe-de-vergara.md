@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /madrid/carrefour/
+url: /madrid/carrefour-calle-del-principe-de-vergara/
 shop: supermercado
 ---

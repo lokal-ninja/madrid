@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /madrid/douglas/
+url: /madrid/douglas-calle-de-narvaez/
 shop: perfumería
 ---

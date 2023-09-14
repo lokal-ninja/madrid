@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Vizcaya"
-url: /madrid/tintoreria-vizcaya/
+url: /madrid/tintoreria-vizcaya-calle-de-valverde/
 shop: lavandería
 ---

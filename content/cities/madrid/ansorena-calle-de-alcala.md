@@ -1,5 +1,5 @@
 ---
 title: "Ansorena"
-url: /madrid/ansorena/
+url: /madrid/ansorena-calle-de-alcala/
 shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiehl's"
-url: /madrid/kiehls/
+url: /madrid/kiehls-calle-de-fuencarral/
 shop: cosméticos
 ---

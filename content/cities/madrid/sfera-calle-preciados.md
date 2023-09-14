@@ -1,5 +1,5 @@
 ---
 title: "Sfera"
-url: /madrid/sfera/
+url: /madrid/sfera-calle-preciados/
 shop: ropa
 ---

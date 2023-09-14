@@ -1,5 +1,5 @@
 ---
 title: "Hipercor"
-url: /madrid/hipercor/
+url: /madrid/hipercor-calle-de-margarita-de-parma/
 shop: supermercado
 ---

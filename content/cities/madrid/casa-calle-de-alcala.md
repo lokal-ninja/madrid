@@ -1,5 +1,5 @@
 ---
 title: "Casa"
-url: /madrid/casa/
+url: /madrid/casa-calle-de-alcala/
 shop: muebles
 ---

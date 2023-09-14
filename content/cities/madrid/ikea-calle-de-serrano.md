@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
-url: /madrid/ikea/
+url: /madrid/ikea-calle-de-serrano/
 shop: muebles
 ---

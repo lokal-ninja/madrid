@@ -1,5 +1,5 @@
 ---
 title: "Supercor"
-url: /madrid/supercor/
+url: /madrid/supercor-calle-de-alcala/
 shop: supermercado
 ---

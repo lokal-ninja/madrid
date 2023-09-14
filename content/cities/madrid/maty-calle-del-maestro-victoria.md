@@ -1,5 +1,5 @@
 ---
 title: "Maty"
-url: /madrid/maty/
+url: /madrid/maty-calle-del-maestro-victoria/
 shop: ropa
 ---

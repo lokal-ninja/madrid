@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /madrid/movistar/
+url: /madrid/movistar-calle-de-goya/
 shop: teléfono móvil
 ---

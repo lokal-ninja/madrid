@@ -1,5 +1,5 @@
 ---
 title: "Coeco"
-url: /madrid/coeco/
+url: /madrid/coeco-paseo-de-la-castellana/
 shop: cocina
 ---

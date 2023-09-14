@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
-url: /madrid/once/
+url: /madrid/once-calle-del-camino-de-los-vinateros/
 shop: lotería
 ---

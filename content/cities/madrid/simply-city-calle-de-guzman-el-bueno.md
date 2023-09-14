@@ -1,5 +1,5 @@
 ---
 title: "Simply City"
-url: /madrid/simply-city/
+url: /madrid/simply-city-calle-de-guzman-el-bueno/
 shop: comodidad
 ---

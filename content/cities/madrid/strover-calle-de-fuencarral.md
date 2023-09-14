@@ -1,5 +1,5 @@
 ---
 title: "Strover"
-url: /madrid/strover/
+url: /madrid/strover-calle-de-fuencarral/
 shop: zapatos
 ---

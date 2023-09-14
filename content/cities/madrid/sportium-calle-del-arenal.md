@@ -1,5 +1,5 @@
 ---
 title: "Sportium"
-url: /madrid/sportium/
+url: /madrid/sportium-calle-del-arenal/
 shop: corredor de apuestas
 ---

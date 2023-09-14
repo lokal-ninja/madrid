@@ -1,5 +1,5 @@
 ---
 title: "Dia Market"
-url: /madrid/dia-market/
+url: /madrid/dia-market-calle-de-cavanilles/
 shop: supermercado
 ---

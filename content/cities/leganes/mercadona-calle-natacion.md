@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /leganes/mercadona/
+url: /leganes/mercadona-calle-natacion/
 shop: supermercado
 ---

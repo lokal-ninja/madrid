@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /madrid/decathlon/
+url: /madrid/decathlon-calle-del-arenal/
 shop: deportes
 ---

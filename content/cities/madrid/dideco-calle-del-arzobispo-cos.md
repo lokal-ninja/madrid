@@ -1,5 +1,5 @@
 ---
 title: "Dideco"
-url: /madrid/dideco/
+url: /madrid/dideco-calle-del-arzobispo-cos/
 shop: juguetes
 ---

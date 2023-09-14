@@ -1,5 +1,5 @@
 ---
 title: "Eduardo Rivera"
-url: /madrid/eduardo-rivera/
+url: /madrid/eduardo-rivera-calle-de-sagasta/
 shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Redpiso"
-url: /madrid/redpiso/
+url: /madrid/redpiso-calle-del-pez/
 shop: agente inmobiliario
 ---

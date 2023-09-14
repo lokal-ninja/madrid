@@ -1,5 +1,5 @@
 ---
 title: "VERDECORA"
-url: /madrid/verdecora/
+url: /madrid/verdecora-calle-de-orense/
 shop: floristería
 ---

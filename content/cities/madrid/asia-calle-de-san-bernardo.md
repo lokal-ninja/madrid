@@ -1,5 +1,5 @@
 ---
 title: "Asia"
-url: /madrid/asia/
+url: /madrid/asia-calle-de-san-bernardo/
 shop: comodidad
 ---

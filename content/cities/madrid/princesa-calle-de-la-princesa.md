@@ -1,5 +1,5 @@
 ---
 title: "Princesa"
-url: /madrid/princesa/
+url: /madrid/princesa-calle-de-la-princesa/
 shop: ropa
 ---

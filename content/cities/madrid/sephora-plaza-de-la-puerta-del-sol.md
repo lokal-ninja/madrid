@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
-url: /madrid/sephora/
+url: /madrid/sephora-plaza-de-la-puerta-del-sol/
 shop: cosméticos
 ---

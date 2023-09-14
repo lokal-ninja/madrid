@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
-url: /madrid/parfois/
+url: /madrid/parfois-calle-de-goya/
 shop: tienda
 ---

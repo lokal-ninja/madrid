@@ -1,5 +1,5 @@
 ---
 title: "Camper"
-url: /madrid/camper/
+url: /madrid/camper-calle-de-fuencarral/
 shop: zapatos
 ---

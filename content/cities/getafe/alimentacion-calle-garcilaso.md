@@ -1,5 +1,5 @@
 ---
 title: "alimentación"
-url: /getafe/alimentacion/
+url: /getafe/alimentacion-calle-garcilaso/
 shop: comodidad
 ---

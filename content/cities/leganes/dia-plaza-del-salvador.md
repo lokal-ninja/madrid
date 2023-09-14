@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /leganes/dia/
+url: /leganes/dia-plaza-del-salvador/
 shop: supermercado
 ---

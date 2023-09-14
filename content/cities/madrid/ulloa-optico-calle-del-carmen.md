@@ -1,5 +1,5 @@
 ---
 title: "Ulloa Óptico"
-url: /madrid/ulloa-optico/
+url: /madrid/ulloa-optico-calle-del-carmen/
 shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hipercor"
-url: /madrid/hipercor/
+url: /madrid/hipercor-avenida-de-la-plaza-de-toros/
 shop: supermercado
 ---

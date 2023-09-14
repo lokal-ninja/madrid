@@ -1,5 +1,5 @@
 ---
 title: "Lotería"
-url: /madrid/loteria/
+url: /madrid/loteria-glorieta-marques-de-vadillo/
 shop: lotería
 ---

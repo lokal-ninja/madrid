@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
-url: /madrid/coviran/
+url: /madrid/coviran-calle-mayor/
 shop: supermercado
 ---

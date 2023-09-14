@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
-url: /leganes/ahorramas/
+url: /leganes/ahorramas-calle-futbol-sala/
 shop: supermercado
 ---

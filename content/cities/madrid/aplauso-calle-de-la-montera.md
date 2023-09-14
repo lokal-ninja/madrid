@@ -1,5 +1,5 @@
 ---
 title: "Aplauso"
-url: /madrid/aplauso/
+url: /madrid/aplauso-calle-de-la-montera/
 shop: zapatos
 ---

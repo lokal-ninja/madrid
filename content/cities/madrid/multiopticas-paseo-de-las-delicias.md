@@ -1,5 +1,5 @@
 ---
 title: "Multiópticas"
-url: /madrid/multiopticas/
+url: /madrid/multiopticas-paseo-de-las-delicias/
 shop: óptico
 ---

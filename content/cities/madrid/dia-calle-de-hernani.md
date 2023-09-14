@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /madrid/dia/
+url: /madrid/dia-calle-de-hernani/
 shop: supermercado
 ---

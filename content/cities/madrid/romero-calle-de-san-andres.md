@@ -1,5 +1,5 @@
 ---
 title: "Romero"
-url: /madrid/romero/
+url: /madrid/romero-calle-de-san-andres/
 shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BM"
-url: /madrid/bm/
+url: /madrid/bm-calle-de-los-cuatro-amigos/
 shop: copyshop
 ---

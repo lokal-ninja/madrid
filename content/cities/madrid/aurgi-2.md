@@ -1,5 +1,5 @@
 ---
 title: "Aurgi"
-url: /madrid/aurgi/
+url: /madrid/aurgi-2/
 shop: reparación de automóviles
 ---

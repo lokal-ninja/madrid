@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
-url: /madrid/once/
+url: /madrid/once-avenida-de-moratalaz/
 shop: lotería
 ---

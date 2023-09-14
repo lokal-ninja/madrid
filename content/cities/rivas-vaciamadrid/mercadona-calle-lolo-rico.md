@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /rivas-vaciamadrid/mercadona/
+url: /rivas-vaciamadrid/mercadona-calle-lolo-rico/
 shop: supermercado
 ---

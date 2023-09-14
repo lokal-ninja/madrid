@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /madrid/mercadona/
+url: /madrid/mercadona-calle-de-manuel-machado/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
-url: /madrid/alcampo/
+url: /madrid/alcampo-calle-de-ricardo-ortiz/
 shop: supermercado
 ---

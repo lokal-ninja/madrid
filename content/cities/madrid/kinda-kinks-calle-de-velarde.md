@@ -1,5 +1,5 @@
 ---
 title: "Kinda Kinks"
-url: /madrid/kinda-kinks/
+url: /madrid/kinda-kinks-calle-de-velarde/
 shop: ropa
 ---

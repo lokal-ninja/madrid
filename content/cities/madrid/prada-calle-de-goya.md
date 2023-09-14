@@ -1,5 +1,5 @@
 ---
 title: "Prada"
-url: /madrid/prada/
+url: /madrid/prada-calle-de-goya/
 shop: ropa
 ---

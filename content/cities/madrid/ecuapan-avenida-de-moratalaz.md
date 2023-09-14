@@ -1,5 +1,5 @@
 ---
 title: "Ecuapan"
-url: /madrid/ecuapan/
+url: /madrid/ecuapan-avenida-de-moratalaz/
 shop: panadería
 ---

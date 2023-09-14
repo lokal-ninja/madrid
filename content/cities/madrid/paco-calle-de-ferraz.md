@@ -1,5 +1,5 @@
 ---
 title: "Paco"
-url: /madrid/paco/
+url: /madrid/paco-calle-de-ferraz/
 shop: peluquería
 ---

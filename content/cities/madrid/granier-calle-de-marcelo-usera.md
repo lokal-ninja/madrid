@@ -1,5 +1,5 @@
 ---
 title: "Granier"
-url: /madrid/granier/
+url: /madrid/granier-calle-de-marcelo-usera/
 shop: panadería
 ---

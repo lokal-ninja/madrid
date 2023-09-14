@@ -1,5 +1,5 @@
 ---
 title: "Marypaz"
-url: /madrid/marypaz/
+url: /madrid/marypaz-calle-de-la-princesa/
 shop: zapatos
 ---

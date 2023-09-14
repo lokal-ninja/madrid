@@ -1,5 +1,5 @@
 ---
 title: "Zapshop"
-url: /madrid/zapshop/
+url: /madrid/zapshop-calle-de-toledo/
 shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Condis"
-url: /madrid/condis/
+url: /madrid/condis-calle-de-la-tacona/
 shop: supermercado
 ---

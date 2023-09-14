@@ -1,5 +1,5 @@
 ---
 title: "Interzoo"
-url: /madrid/interzoo/
+url: /madrid/interzoo-calle-del-alcalde-sainz-de-baranda/
 shop: mascotas
 ---

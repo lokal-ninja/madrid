@@ -1,5 +1,5 @@
 ---
 title: "Beds"
-url: /madrid/beds/
+url: /madrid/beds-calle-de-ferraz/
 shop: cama
 ---

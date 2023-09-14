@@ -1,5 +1,5 @@
 ---
 title: "Supra Gamboa"
-url: /madrid/supra-gamboa/
+url: /madrid/supra-gamboa-calle-del-ferrocarril/
 shop: coche
 ---

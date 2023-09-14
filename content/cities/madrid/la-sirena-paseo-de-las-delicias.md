@@ -1,5 +1,5 @@
 ---
 title: "La Sirena"
-url: /madrid/la-sirena/
+url: /madrid/la-sirena-paseo-de-las-delicias/
 shop: alimentos congelados
 ---

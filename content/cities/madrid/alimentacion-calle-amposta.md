@@ -1,5 +1,5 @@
 ---
 title: "Alimentacion"
-url: /madrid/alimentacion/
+url: /madrid/alimentacion-calle-amposta/
 shop: comodidad
 ---

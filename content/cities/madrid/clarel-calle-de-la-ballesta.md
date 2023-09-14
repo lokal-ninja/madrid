@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
-url: /madrid/clarel/
+url: /madrid/clarel-calle-de-la-ballesta/
 shop: farmacia
 ---

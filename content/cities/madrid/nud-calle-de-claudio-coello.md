@@ -1,5 +1,5 @@
 ---
 title: "Nud"
-url: /madrid/nud/
+url: /madrid/nud-calle-de-claudio-coello/
 shop: ropa
 ---

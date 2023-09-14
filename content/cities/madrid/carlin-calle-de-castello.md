@@ -1,5 +1,5 @@
 ---
 title: "Carlin"
-url: /madrid/carlin/
+url: /madrid/carlin-calle-de-castello/
 shop: material de oficina
 ---

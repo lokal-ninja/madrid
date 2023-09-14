@@ -1,5 +1,5 @@
 ---
 title: "El Corte Inglés"
-url: /madrid/el-corte-ingles/
+url: /madrid/el-corte-ingles-calle-de-raimundo-fernandez-villaverde/
 shop: grandes almacenes
 ---

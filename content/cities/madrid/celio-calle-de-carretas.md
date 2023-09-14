@@ -1,5 +1,5 @@
 ---
 title: "Celio"
-url: /madrid/celio/
+url: /madrid/celio-calle-de-carretas/
 shop: ropa
 ---

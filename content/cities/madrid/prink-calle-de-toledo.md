@@ -1,5 +1,5 @@
 ---
 title: "Prink"
-url: /madrid/prink/
+url: /madrid/prink-calle-de-toledo/
 shop: ordenador
 ---

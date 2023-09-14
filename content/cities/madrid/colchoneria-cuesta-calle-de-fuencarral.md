@@ -1,5 +1,5 @@
 ---
 title: "Colchonería Cuesta"
-url: /madrid/colchoneria-cuesta/
+url: /madrid/colchoneria-cuesta-calle-de-fuencarral/
 shop: cama
 ---

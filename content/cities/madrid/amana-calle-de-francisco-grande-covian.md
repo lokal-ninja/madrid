@@ -1,5 +1,5 @@
 ---
 title: "Amana"
-url: /madrid/amana/
+url: /madrid/amana-calle-de-francisco-grande-covian/
 shop: comodidad
 ---

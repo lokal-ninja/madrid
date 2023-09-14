@@ -1,5 +1,5 @@
 ---
 title: "Júlia"
-url: /madrid/julia/
+url: /madrid/julia-calle-del-carmen/
 shop: perfumería
 ---

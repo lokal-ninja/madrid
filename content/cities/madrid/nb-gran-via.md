@@ -1,5 +1,5 @@
 ---
 title: "NB"
-url: /madrid/nb/
+url: /madrid/nb-gran-via/
 shop: deportes
 ---

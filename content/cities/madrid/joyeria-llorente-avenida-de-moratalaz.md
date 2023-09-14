@@ -1,5 +1,5 @@
 ---
 title: "Joyería Llorente"
-url: /madrid/joyeria-llorente/
+url: /madrid/joyeria-llorente-avenida-de-moratalaz/
 shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frutería"
-url: /madrid/fruteria/
+url: /madrid/fruteria-calle-de-altamirano/
 shop: frutería
 ---

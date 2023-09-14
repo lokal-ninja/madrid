@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
-url: /pinto/ahorramas/
+url: /pinto/ahorramas-calle-de-cataluna/
 shop: supermercado
 ---

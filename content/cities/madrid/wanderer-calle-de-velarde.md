@@ -1,5 +1,5 @@
 ---
 title: "Wanderer"
-url: /madrid/wanderer/
+url: /madrid/wanderer-calle-de-velarde/
 shop: ropa
 ---

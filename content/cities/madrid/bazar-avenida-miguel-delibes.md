@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
-url: /madrid/bazar/
+url: /madrid/bazar-avenida-miguel-delibes/
 shop: comodidad
 ---

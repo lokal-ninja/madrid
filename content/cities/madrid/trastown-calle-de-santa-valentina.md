@@ -1,5 +1,5 @@
 ---
 title: "Trastown"
-url: /madrid/trastown/
+url: /madrid/trastown-calle-de-santa-valentina/
 shop: alquiler
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Muji"
-url: /madrid/muji/
+url: /madrid/muji-calle-de-goya/
 shop: grandes almacenes
 ---

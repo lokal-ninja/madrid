@@ -1,5 +1,5 @@
 ---
 title: "Geox"
-url: /madrid/geox/
+url: /madrid/geox-calle-de-serrano/
 shop: zapatos
 ---

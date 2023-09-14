@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
-url: /madrid/calzedonia/
+url: /madrid/calzedonia-gran-via/
 shop: ropa
 ---

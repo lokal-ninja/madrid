@@ -1,5 +1,5 @@
 ---
 title: "Carlos Conde"
-url: /madrid/carlos-conde/
+url: /madrid/carlos-conde-calle-de-san-bernardo/
 shop: peluquería
 ---

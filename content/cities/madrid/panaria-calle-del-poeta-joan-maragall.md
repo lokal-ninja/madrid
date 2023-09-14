@@ -1,5 +1,5 @@
 ---
 title: "Panaria"
-url: /madrid/panaria/
+url: /madrid/panaria-calle-del-poeta-joan-maragall/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estanco"
-url: /madrid/estanco/
+url: /madrid/estanco-calle-de-guzman-el-bueno/
 shop: tabaco
 ---

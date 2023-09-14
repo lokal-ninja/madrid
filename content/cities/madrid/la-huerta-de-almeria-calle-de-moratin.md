@@ -1,5 +1,5 @@
 ---
 title: "La Huerta de Almería"
-url: /madrid/la-huerta-de-almeria/
+url: /madrid/la-huerta-de-almeria-calle-de-moratin/
 shop: comodidad
 ---
