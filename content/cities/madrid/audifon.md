@@ -1,5 +1,5 @@
 ---
 title: "Audifon"
 url: /madrid/audifon/
-shop: general
+shop: audífonos
 ---
