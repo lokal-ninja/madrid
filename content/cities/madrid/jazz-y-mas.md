@@ -1,5 +1,5 @@
 ---
-title: "Jazz y Más"
+title: "Jazz y Mas"
 url: /madrid/jazz-y-mas/
 shop: música
 ---

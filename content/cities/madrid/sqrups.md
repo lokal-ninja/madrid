@@ -1,5 +1,5 @@
 ---
-title: "Sqrups!"
+title: "Sqrups"
 url: /madrid/sqrups/
-shop: tienda de variedades
+shop: comodidad
 ---
