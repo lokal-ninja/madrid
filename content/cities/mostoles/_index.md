@@ -1,6 +1,6 @@
 ---
 title: Móstoles
 url: /mostoles/
-latitude: 40.319
-longitude: -3.862
+latitude: 40.329
+longitude: -3.867
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cerceda
 url: /cerceda/
-latitude: 40.699
-longitude: -3.932
+latitude: 40.698
+longitude: -3.933
 ---
