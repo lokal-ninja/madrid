@@ -1,5 +1,5 @@
 ---
-title: "INFINITY BIKE"
+title: "Infinity Bike"
 url: /aranjuez/infinity-bike/
 shop: bicicleta
 ---

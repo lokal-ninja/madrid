@@ -1,5 +1,5 @@
 ---
-title: "SANFERBIKE SAN SEBASTIAN"
+title: "Sanferbike San Sebastián"
 url: /san-sebastian-de-los-reyes/sanferbike-san-sebastian/
 shop: bicicleta
 ---
