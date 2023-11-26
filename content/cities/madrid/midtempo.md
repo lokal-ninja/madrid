@@ -1,5 +1,5 @@
 ---
 title: "midtempo"
 url: /madrid/midtempo/
-shop: menaje del hogar
+shop: decoración interior
 ---

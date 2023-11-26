@@ -1,5 +1,5 @@
 ---
 title: "Gafas Galore"
 url: /madrid/gafas-galore/
-shop: general
+shop: tienda
 ---

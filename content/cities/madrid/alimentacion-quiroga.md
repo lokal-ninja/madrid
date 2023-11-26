@@ -1,5 +1,5 @@
 ---
-title: "Alimentacion Quiroga"
+title: "Alimentación Quiroga"
 url: /madrid/alimentacion-quiroga/
-shop: menaje del hogar
+shop: comodidad
 ---
