@@ -1,6 +1,6 @@
 ---
 title: Majadahonda
 url: /majadahonda/
-latitude: 40.477
-longitude: -3.853
+latitude: 40.458
+longitude: -3.872
 ---
