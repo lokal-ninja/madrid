@@ -1,5 +1,5 @@
 ---
 title: "MadRolls"
 url: /madrid/madrolls/
-shop: general
+shop: pastelería
 ---
