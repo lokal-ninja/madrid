@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /leganes/norauto/
-shop: piezas de automóviles
+shop: reparación de automóviles
 ---
