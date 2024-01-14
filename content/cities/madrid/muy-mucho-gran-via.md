@@ -1,5 +1,5 @@
 ---
 title: "Muy Mucho"
-url: /madrid/muy-mucho-calle-de-fuencarral/
+url: /madrid/muy-mucho-gran-via/
 shop: decoración interior
 ---
