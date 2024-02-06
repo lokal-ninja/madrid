@@ -1,5 +1,5 @@
 ---
 title: "Gogar"
 url: /madrid/gogar/
-shop: hardware
+shop: hágalo usted mismo
 ---
