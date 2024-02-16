@@ -7,5 +7,5 @@ city: Madrid
 street: "Calle de San Dacio"
 housenumber: 23
 phone: "+34 917 294 427"
-opening_hours: "Mo-Su 09:00-14:00 17:00-20:00"
+opening_hours: "Mo-Su 09:00-14:00,17:00-20:00"
 website: ""
