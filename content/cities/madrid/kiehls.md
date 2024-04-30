@@ -1,5 +1,5 @@
 ---
-title: "kiehl's"
+title: "Kiehl's"
 url: /madrid/kiehls/
-shop: vacante
+shop: cosméticos
 ---
