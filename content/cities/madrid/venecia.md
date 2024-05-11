@@ -1,5 +1,5 @@
 ---
 title: "Venecia"
 url: /madrid/venecia/
-shop: hardware
+shop: comodidad
 ---
