@@ -1,5 +1,5 @@
 ---
 title: "Vicens"
 url: /madrid/vicens/
-shop: comodidad
+shop: charcutería
 ---
