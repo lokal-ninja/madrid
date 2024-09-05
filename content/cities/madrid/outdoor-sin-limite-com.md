@@ -1,5 +1,5 @@
 ---
 title: "Outdoor sin límite.com"
 url: /madrid/outdoor-sin-limite-com/
-shop: exterior
+shop: Outdoor
 ---

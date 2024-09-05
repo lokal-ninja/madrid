@@ -1,5 +1,5 @@
 ---
 title: "Mingmen"
 url: /madrid/mingmen/
-shop: masaje
+shop: Massage
 ---

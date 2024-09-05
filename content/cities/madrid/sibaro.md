@@ -1,5 +1,5 @@
 ---
 title: "Sibaro"
 url: /madrid/sibaro/
-shop: charcutería
+shop: Feinkost
 ---

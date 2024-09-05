@@ -1,5 +1,5 @@
 ---
 title: "Huawei"
 url: /madrid/huawei/
-shop: teléfono móvil
+shop: Handy
 ---

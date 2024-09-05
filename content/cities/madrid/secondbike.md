@@ -1,5 +1,5 @@
 ---
 title: "Secondbike"
 url: /madrid/secondbike/
-shop: bicicleta
+shop: Fahrrad
 ---

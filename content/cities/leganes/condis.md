@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /leganes/condis/
-shop: supermercado
+shop: Supermarkt
 ---

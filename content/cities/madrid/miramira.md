@@ -1,5 +1,5 @@
 ---
 title: "miramira"
 url: /madrid/miramira/
-shop: general
+shop: Allgemein
 ---

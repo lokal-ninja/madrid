@@ -1,5 +1,5 @@
 ---
 title: "Plaza"
 url: /rivas-vaciamadrid/plaza/
-shop: supermercado
+shop: Supermarkt
 ---

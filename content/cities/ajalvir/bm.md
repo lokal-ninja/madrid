@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /ajalvir/bm/
-shop: supermercado
+shop: Supermarkt
 ---

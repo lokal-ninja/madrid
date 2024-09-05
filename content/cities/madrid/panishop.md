@@ -1,5 +1,5 @@
 ---
 title: "Panishop"
 url: /madrid/panishop/
-shop: panadería
+shop: Bäckerei
 ---

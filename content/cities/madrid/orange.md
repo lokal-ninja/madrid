@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /madrid/orange/
-shop: teléfono móvil
+shop: Handy
 ---

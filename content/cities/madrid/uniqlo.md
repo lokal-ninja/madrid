@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /madrid/uniqlo/
-shop: ropa
+shop: Kleidung
 ---

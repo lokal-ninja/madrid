@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /madrid/casa/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mundo Pinturas - Suministros Sotillo"
 url: /madrid/mundo-pinturas-suministros-sotillo/
-shop: pintura
+shop: Farben
 ---

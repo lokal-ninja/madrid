@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /alcorcon/aldi-avenida-del-pinar/
-shop: supermercado
+shop: Supermarkt
 ---

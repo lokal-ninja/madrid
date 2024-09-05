@@ -1,5 +1,5 @@
 ---
 title: "Solo Ciclismo"
 url: /alpedrete/solo-ciclismo/
-shop: bicicleta
+shop: Fahrrad
 ---

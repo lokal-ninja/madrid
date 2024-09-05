@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /madrid/premier/
-shop: cosméticos
+shop: Kosmetik
 ---

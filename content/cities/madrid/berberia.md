@@ -1,5 +1,5 @@
 ---
 title: "Berberia"
 url: /madrid/berberia/
-shop: antigüedades
+shop: Antiquitäten
 ---

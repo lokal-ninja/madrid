@@ -1,5 +1,5 @@
 ---
 title: "JR Leather"
 url: /madrid/jr-leather-gran-via/
-shop: ropa
+shop: Kleidung
 ---

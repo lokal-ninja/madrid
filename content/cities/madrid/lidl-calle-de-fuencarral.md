@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /madrid/lidl-calle-de-fuencarral/
-shop: supermercado
+shop: Supermarkt
 ---

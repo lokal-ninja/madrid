@@ -1,5 +1,5 @@
 ---
 title: "Lolo Polos Artesanos"
 url: /madrid/lolo-polos-artesanos/
-shop: helado
+shop: Eisprodukte
 ---

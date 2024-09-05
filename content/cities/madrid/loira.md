@@ -1,5 +1,5 @@
 ---
 title: "Loira"
 url: /madrid/loira/
-shop: panadería
+shop: Bäckerei
 ---

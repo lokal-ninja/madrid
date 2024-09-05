@@ -1,5 +1,5 @@
 ---
 title: "Vidasana"
 url: /getafe/vidasana/
-shop: frutería
+shop: Gemüse & Obst
 ---

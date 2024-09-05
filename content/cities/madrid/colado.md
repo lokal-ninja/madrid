@@ -1,5 +1,5 @@
 ---
 title: "Colado"
 url: /madrid/colado/
-shop: peluquería
+shop: Friseur
 ---

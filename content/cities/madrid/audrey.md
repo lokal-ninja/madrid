@@ -1,5 +1,5 @@
 ---
 title: "Audrey"
 url: /madrid/audrey/
-shop: panadería
+shop: Bäckerei
 ---

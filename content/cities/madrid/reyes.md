@@ -1,5 +1,5 @@
 ---
 title: "Reyes"
 url: /madrid/reyes/
-shop: regalo
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bunkha"
 url: /madrid/bunkha/
-shop: ropa
+shop: Kleidung
 ---

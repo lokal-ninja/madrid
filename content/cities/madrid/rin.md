@@ -1,5 +1,5 @@
 ---
 title: "Rin"
 url: /madrid/rin/
-shop: zapatos
+shop: Schuhe
 ---

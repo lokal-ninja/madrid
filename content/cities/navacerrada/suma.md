@@ -1,5 +1,5 @@
 ---
 title: "SUMA"
 url: /navacerrada/suma/
-shop: ropa
+shop: Kleidung
 ---

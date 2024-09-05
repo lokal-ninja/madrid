@@ -1,5 +1,5 @@
 ---
 title: "Drei"
 url: /madrid/drei/
-shop: peluquería
+shop: Friseur
 ---

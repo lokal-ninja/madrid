@@ -1,5 +1,5 @@
 ---
 title: "Biketown"
 url: /madrid/biketown/
-shop: bicicleta
+shop: Fahrrad
 ---

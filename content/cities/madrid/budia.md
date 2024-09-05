@@ -1,5 +1,5 @@
 ---
 title: "Budia"
 url: /madrid/budia/
-shop: peluquería
+shop: Friseur
 ---

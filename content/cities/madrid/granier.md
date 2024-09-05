@@ -1,5 +1,5 @@
 ---
 title: "Granier"
 url: /madrid/granier/
-shop: panadería
+shop: Bäckerei
 ---

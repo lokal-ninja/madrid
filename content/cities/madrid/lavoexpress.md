@@ -1,5 +1,5 @@
 ---
 title: "LavoExpress"
 url: /madrid/lavoexpress/
-shop: lavandería
+shop: Wäscherei
 ---

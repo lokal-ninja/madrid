@@ -1,5 +1,5 @@
 ---
 title: "Cocinas Jimenez"
 url: /parla/cocinas-jimenez/
-shop: cocina
+shop: Küchen
 ---

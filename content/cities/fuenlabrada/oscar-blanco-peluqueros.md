@@ -1,5 +1,5 @@
 ---
 title: "Oscar Blanco Peluqueros"
 url: /fuenlabrada/oscar-blanco-peluqueros/
-shop: peluquería
+shop: Friseur
 ---

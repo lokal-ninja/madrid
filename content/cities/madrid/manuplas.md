@@ -1,5 +1,5 @@
 ---
 title: "Manuplas"
 url: /madrid/manuplas/
-shop: mayorista
+shop: Großhandel
 ---

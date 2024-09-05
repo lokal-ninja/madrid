@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /rivas-vaciamadrid/ahorramas/
-shop: supermercado
+shop: Supermarkt
 ---

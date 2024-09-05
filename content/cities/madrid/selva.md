@@ -1,5 +1,5 @@
 ---
 title: "Sèlva"
 url: /madrid/selva/
-shop: ropa
+shop: Kleidung
 ---

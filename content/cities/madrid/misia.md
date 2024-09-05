@@ -1,5 +1,5 @@
 ---
 title: "Misia"
 url: /madrid/misia/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marfil"
 url: /madrid/marfil/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /meco/dia/
-shop: supermercado
+shop: Supermarkt
 ---

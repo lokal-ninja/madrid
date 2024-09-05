@@ -1,5 +1,5 @@
 ---
 title: "Alimentación"
 url: /madrid/alimentacion-calle-entre-arroyos/
-shop: comodidad
+shop: Lebensmittel
 ---

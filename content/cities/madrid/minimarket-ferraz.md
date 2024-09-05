@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Ferraz"
 url: /madrid/minimarket-ferraz/
-shop: comodidad
+shop: Lebensmittel
 ---

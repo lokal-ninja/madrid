@@ -1,5 +1,5 @@
 ---
 title: "Miguitas"
 url: /madrid/miguitas/
-shop: mascotas
+shop: Tiere
 ---

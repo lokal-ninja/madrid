@@ -1,5 +1,5 @@
 ---
 title: "Retoucherie"
 url: /madrid/retoucherie/
-shop: sastre
+shop: Schneiderei
 ---

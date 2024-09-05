@@ -1,5 +1,5 @@
 ---
 title: "Trasteros La Amuebladora"
 url: /madrid/trasteros-la-amuebladora/
-shop: alquiler
+shop: Mieten
 ---

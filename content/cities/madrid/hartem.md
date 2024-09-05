@@ -1,5 +1,5 @@
 ---
 title: "Hartem"
 url: /madrid/hartem/
-shop: arte
+shop: Kunst
 ---

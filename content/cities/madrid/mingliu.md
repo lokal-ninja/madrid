@@ -1,5 +1,5 @@
 ---
 title: "Mingliu"
 url: /madrid/mingliu/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salón nuevo estilo"
 url: /navacerrada/salon-nuevo-estilo/
-shop: peluquería
+shop: Friseur
 ---

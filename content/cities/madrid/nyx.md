@@ -1,5 +1,5 @@
 ---
 title: "Nyx"
 url: /madrid/nyx/
-shop: cosméticos
+shop: Kosmetik
 ---

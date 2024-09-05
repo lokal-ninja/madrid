@@ -1,5 +1,5 @@
 ---
 title: "Alberto"
 url: /madrid/alberto/
-shop: frutería
+shop: Gemüse & Obst
 ---

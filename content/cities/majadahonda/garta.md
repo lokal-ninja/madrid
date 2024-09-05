@@ -1,5 +1,5 @@
 ---
 title: "Garta"
 url: /majadahonda/garta/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Astarté"
 url: /madrid/astarte/
-shop: joyería
+shop: Schmuck
 ---

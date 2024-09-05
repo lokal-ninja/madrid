@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /madrid/ikea-calle-de-fuencarral/
-shop: muebles
+shop: Möbel
 ---

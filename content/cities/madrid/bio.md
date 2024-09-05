@@ -1,5 +1,5 @@
 ---
 title: "Bio"
 url: /madrid/bio/
-shop: supermercado
+shop: Supermarkt
 ---

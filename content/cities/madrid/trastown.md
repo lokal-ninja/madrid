@@ -1,5 +1,5 @@
 ---
 title: "Trastown"
 url: /madrid/trastown/
-shop: alquiler
+shop: Mieten
 ---

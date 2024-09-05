@@ -1,5 +1,5 @@
 ---
 title: "Celicioso"
 url: /madrid/celicioso/
-shop: panadería
+shop: Bäckerei
 ---

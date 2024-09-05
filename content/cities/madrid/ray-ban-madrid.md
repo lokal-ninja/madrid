@@ -1,5 +1,5 @@
 ---
 title: "Ray-Ban Madrid"
 url: /madrid/ray-ban-madrid/
-shop: tienda
+shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juscar"
 url: /madrid/juscar/
-shop: zapatos
+shop: Schuhe
 ---

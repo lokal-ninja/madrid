@@ -1,5 +1,5 @@
 ---
 title: "Muji"
 url: /madrid/muji/
-shop: grandes almacenes
+shop: Warenhaus
 ---

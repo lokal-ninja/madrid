@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /madrid/alcampo-calle-de-santa-engracia/
-shop: supermercado
+shop: Supermarkt
 ---

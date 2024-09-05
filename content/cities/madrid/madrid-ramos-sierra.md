@@ -1,5 +1,5 @@
 ---
 title: "Madrid Ramos Sierra"
 url: /madrid/madrid-ramos-sierra/
-shop: lámparas
+shop: Lampen
 ---

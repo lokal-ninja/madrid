@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /madrid/citroen/
-shop: coche
+shop: Autohaus
 ---

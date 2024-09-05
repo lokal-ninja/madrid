@@ -1,5 +1,5 @@
 ---
 title: "Irise"
 url: /madrid/irise/
-shop: peluquería
+shop: Friseur
 ---

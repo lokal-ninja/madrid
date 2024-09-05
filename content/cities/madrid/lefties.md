@@ -1,5 +1,5 @@
 ---
 title: "Lefties"
 url: /madrid/lefties/
-shop: ropa
+shop: Kleidung
 ---

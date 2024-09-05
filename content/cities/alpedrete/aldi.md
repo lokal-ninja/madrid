@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /alpedrete/aldi/
-shop: supermercado
+shop: Supermarkt
 ---

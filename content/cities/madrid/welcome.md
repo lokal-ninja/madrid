@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /madrid/welcome/
-shop: deportes
+shop: Sport
 ---

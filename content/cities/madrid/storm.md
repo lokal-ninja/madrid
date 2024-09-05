@@ -1,5 +1,5 @@
 ---
 title: "Storm"
 url: /madrid/storm/
-shop: zapatos
+shop: Schuhe
 ---

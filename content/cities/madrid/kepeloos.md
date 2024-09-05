@@ -1,5 +1,5 @@
 ---
 title: "Kepeloos"
 url: /madrid/kepeloos/
-shop: peluquería
+shop: Friseur
 ---

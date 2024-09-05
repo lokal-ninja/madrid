@@ -1,5 +1,5 @@
 ---
 title: "Crusto"
 url: /madrid/crusto/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aplauso"
 url: /madrid/aplauso/
-shop: zapatos
+shop: Schuhe
 ---

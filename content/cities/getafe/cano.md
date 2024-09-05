@@ -1,5 +1,5 @@
 ---
 title: "Cano"
 url: /getafe/cano/
-shop: joyería
+shop: Schmuck
 ---

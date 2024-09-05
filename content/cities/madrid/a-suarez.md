@@ -1,5 +1,5 @@
 ---
 title: "A. Suárez"
 url: /madrid/a-suarez/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exótica"
 url: /madrid/exotica/
-shop: ropa
+shop: Kleidung
 ---

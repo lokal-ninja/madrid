@@ -1,5 +1,5 @@
 ---
 title: "Xylvester"
 url: /madrid/xylvester/
-shop: óptico
+shop: Optiker
 ---

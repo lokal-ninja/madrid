@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /alcorcon/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Summum"
 url: /madrid/summum/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Koskids"
 url: /madrid/koskids/
-shop: ropa
+shop: Kleidung
 ---

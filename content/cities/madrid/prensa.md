@@ -1,5 +1,5 @@
 ---
 title: "Prensa"
 url: /madrid/prensa/
-shop: quiosco
+shop: Zeitungen
 ---

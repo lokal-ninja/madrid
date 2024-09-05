@@ -1,5 +1,5 @@
 ---
 title: "Ciclos A. Martin"
 url: /madrid/ciclos-a-martin/
-shop: bicicleta
+shop: Fahrrad
 ---

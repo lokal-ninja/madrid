@@ -1,5 +1,5 @@
 ---
 title: "Azzo"
 url: /madrid/azzo/
-shop: ropa
+shop: Kleidung
 ---

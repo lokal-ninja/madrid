@@ -1,5 +1,5 @@
 ---
 title: "Xana"
 url: /getafe/xana/
-shop: panadería
+shop: Bäckerei
 ---

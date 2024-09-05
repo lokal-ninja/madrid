@@ -1,5 +1,5 @@
 ---
 title: "Mascoboutique"
 url: /madrid/mascoboutique/
-shop: mascotas
+shop: Tiere
 ---

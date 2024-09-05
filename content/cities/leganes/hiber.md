@@ -1,5 +1,5 @@
 ---
 title: "Hiber"
 url: /leganes/hiber/
-shop: supermercado
+shop: Supermarkt
 ---

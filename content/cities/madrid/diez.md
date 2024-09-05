@@ -1,5 +1,5 @@
 ---
 title: "Díez"
 url: /madrid/diez/
-shop: zapatos
+shop: Schuhe
 ---

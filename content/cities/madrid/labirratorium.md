@@ -1,5 +1,5 @@
 ---
 title: "Labirratorium"
 url: /madrid/labirratorium/
-shop: alcohol
+shop: Spirituosen
 ---

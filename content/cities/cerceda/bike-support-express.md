@@ -1,5 +1,5 @@
 ---
 title: "Bike Support Express"
 url: /cerceda/bike-support-express/
-shop: bicicleta
+shop: Fahrrad
 ---

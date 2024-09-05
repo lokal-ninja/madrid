@@ -1,5 +1,5 @@
 ---
 title: "Galicia"
 url: /madrid/galicia/
-shop: floristería
+shop: Blumen
 ---

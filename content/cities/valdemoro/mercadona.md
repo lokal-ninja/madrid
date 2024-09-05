@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /valdemoro/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

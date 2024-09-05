@@ -1,5 +1,5 @@
 ---
 title: "Dhoy"
 url: /madrid/dhoy/
-shop: frutería
+shop: Gemüse & Obst
 ---

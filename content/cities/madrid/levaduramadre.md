@@ -1,5 +1,5 @@
 ---
 title: "levaduramadre"
 url: /madrid/levaduramadre/
-shop: panadería
+shop: Bäckerei
 ---

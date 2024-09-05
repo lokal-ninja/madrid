@@ -1,5 +1,5 @@
 ---
 title: "Gama"
 url: /las-rozas-de-madrid/gama/
-shop: supermercado
+shop: Supermarkt
 ---

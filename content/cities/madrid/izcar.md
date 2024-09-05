@@ -1,5 +1,5 @@
 ---
 title: "Izcar"
 url: /madrid/izcar/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reebok"
 url: /madrid/reebok/
-shop: ropa
+shop: Kleidung
 ---

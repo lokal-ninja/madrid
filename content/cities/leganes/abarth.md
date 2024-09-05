@@ -1,5 +1,5 @@
 ---
 title: "Abarth"
 url: /leganes/abarth/
-shop: coche
+shop: Autohaus
 ---

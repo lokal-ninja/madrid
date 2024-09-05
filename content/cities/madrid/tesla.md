@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /madrid/tesla/
-shop: hardware
+shop: Eisenwaren
 ---

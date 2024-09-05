@@ -1,5 +1,5 @@
 ---
 title: "Tatá"
 url: /madrid/tata/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maty"
 url: /madrid/maty-calle-del-maestro-victoria/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kilombo"
 url: /madrid/kilombo/
-shop: ropa
+shop: Kleidung
 ---

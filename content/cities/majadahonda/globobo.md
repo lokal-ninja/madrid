@@ -1,5 +1,5 @@
 ---
 title: "Globobo"
 url: /majadahonda/globobo/
-shop: regalo
+shop: Andenken
 ---

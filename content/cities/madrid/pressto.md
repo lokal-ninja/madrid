@@ -1,5 +1,5 @@
 ---
 title: "Pressto"
 url: /madrid/pressto/
-shop: lavandería
+shop: Wäscherei
 ---

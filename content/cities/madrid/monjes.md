@@ -1,5 +1,5 @@
 ---
 title: "Monjes"
 url: /madrid/monjes/
-shop: general
+shop: Allgemein
 ---

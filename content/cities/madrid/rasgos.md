@@ -1,5 +1,5 @@
 ---
 title: "Rasgos"
 url: /madrid/rasgos/
-shop: ropa
+shop: Kleidung
 ---

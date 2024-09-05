@@ -1,5 +1,5 @@
 ---
 title: "Guffy"
 url: /madrid/guffy/
-shop: comodidad
+shop: Lebensmittel
 ---

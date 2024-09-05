@@ -1,5 +1,5 @@
 ---
 title: "Hebe"
 url: /madrid/hebe/
-shop: peluquería
+shop: Friseur
 ---

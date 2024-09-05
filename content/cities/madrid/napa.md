@@ -1,5 +1,5 @@
 ---
 title: "Napa"
 url: /madrid/napa/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

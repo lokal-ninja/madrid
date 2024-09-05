@@ -1,5 +1,5 @@
 ---
 title: "Librería Gaudi"
 url: /madrid/libreria-gaudi/
-shop: libros
+shop: Bücher
 ---

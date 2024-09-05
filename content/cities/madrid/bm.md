@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /madrid/bm/
-shop: supermercado
+shop: Supermarkt
 ---

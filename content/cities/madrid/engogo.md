@@ -1,5 +1,5 @@
 ---
 title: "Engogo"
 url: /madrid/engogo/
-shop: ropa
+shop: Kleidung
 ---

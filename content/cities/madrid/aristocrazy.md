@@ -1,5 +1,5 @@
 ---
 title: "Aristocrazy"
 url: /madrid/aristocrazy/
-shop: joyería
+shop: Schmuck
 ---

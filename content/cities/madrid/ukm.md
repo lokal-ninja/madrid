@@ -1,5 +1,5 @@
 ---
 title: "UKM"
 url: /madrid/ukm/
-shop: ropa
+shop: Kleidung
 ---

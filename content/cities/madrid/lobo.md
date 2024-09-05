@@ -1,5 +1,5 @@
 ---
 title: "Lobo"
 url: /madrid/lobo/
-shop: zapatos
+shop: Schuhe
 ---

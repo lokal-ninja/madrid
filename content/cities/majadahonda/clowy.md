@@ -1,5 +1,5 @@
 ---
 title: "Clowy"
 url: /majadahonda/clowy/
-shop: ropa
+shop: Kleidung
 ---

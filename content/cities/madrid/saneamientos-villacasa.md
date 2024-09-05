@@ -1,5 +1,5 @@
 ---
 title: "Saneamientos Villacasa"
 url: /madrid/saneamientos-villacasa/
-shop: cuarto de baño
+shop: Badezimmer
 ---

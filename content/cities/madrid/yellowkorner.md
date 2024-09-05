@@ -1,5 +1,5 @@
 ---
 title: "YellowKorner"
 url: /madrid/yellowkorner/
-shop: arte
+shop: Kunst
 ---

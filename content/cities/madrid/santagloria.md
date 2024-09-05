@@ -1,5 +1,5 @@
 ---
 title: "Santagloria"
 url: /madrid/santagloria/
-shop: panadería
+shop: Bäckerei
 ---

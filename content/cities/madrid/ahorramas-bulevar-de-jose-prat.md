@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /madrid/ahorramas-bulevar-de-jose-prat/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carré"
 url: /madrid/carre/
-shop: peluquería
+shop: Friseur
 ---

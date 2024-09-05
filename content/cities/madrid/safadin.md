@@ -1,5 +1,5 @@
 ---
 title: "Safadin"
 url: /madrid/safadin/
-shop: ropa
+shop: Kleidung
 ---

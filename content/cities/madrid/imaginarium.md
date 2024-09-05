@@ -1,5 +1,5 @@
 ---
 title: "Imaginarium"
 url: /madrid/imaginarium/
-shop: juguetes
+shop: Spielzeug
 ---

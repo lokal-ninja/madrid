@@ -1,5 +1,5 @@
 ---
 title: "The Bskehouse"
 url: /madrid/the-bskehouse/
-shop: panadería
+shop: Bäckerei
 ---

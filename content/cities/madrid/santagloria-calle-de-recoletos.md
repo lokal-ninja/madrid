@@ -1,5 +1,5 @@
 ---
 title: "Santagloria"
 url: /madrid/santagloria-calle-de-recoletos/
-shop: panadería
+shop: Bäckerei
 ---

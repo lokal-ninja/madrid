@@ -1,5 +1,5 @@
 ---
 title: "Cefer"
 url: /madrid/cefer/
-shop: cama
+shop: Betten
 ---

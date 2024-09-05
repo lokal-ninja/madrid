@@ -1,5 +1,5 @@
 ---
 title: "Cuylás"
 url: /madrid/cuylas/
-shop: ropa
+shop: Kleidung
 ---

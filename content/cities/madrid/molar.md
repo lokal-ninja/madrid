@@ -1,5 +1,5 @@
 ---
 title: "Molar"
 url: /madrid/molar/
-shop: libros
+shop: Bücher
 ---

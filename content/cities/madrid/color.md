@@ -1,5 +1,5 @@
 ---
 title: "Color"
 url: /madrid/color/
-shop: copyshop
+shop: Kopieren
 ---

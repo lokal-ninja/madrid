@@ -1,5 +1,5 @@
 ---
 title: "Lola"
 url: /madrid/lola/
-shop: herbolario
+shop: Kräuter
 ---

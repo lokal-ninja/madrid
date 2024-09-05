@@ -1,5 +1,5 @@
 ---
 title: "Supermercados Dia"
 url: /majadahonda/supermercados-dia/
-shop: supermercado
+shop: Supermarkt
 ---

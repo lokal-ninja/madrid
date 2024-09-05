@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /madrid/dia-calle-de-campomanes/
-shop: supermercado
+shop: Supermarkt
 ---

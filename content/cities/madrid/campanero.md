@@ -1,5 +1,5 @@
 ---
 title: "Campanero"
 url: /madrid/campanero/
-shop: marisco
+shop: Fisch
 ---

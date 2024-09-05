@@ -1,5 +1,5 @@
 ---
 title: "Movil City"
 url: /madrid/movil-city/
-shop: teléfono móvil
+shop: Handy
 ---

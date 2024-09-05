@@ -1,5 +1,5 @@
 ---
 title: "Torreón"
 url: /madrid/torreon/
-shop: panadería
+shop: Bäckerei
 ---

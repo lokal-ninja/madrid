@@ -1,5 +1,5 @@
 ---
 title: "HiperPinturas"
 url: /madrid/hiperpinturas/
-shop: pintura
+shop: Farben
 ---

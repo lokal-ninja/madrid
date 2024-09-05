@@ -1,5 +1,5 @@
 ---
 title: "Aēsop"
 url: /madrid/aesop/
-shop: charcutería
+shop: Feinkost
 ---

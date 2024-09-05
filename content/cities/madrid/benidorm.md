@@ -1,5 +1,5 @@
 ---
 title: "Benidorm"
 url: /madrid/benidorm/
-shop: hardware
+shop: Eisenwaren
 ---

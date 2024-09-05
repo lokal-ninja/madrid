@@ -1,5 +1,5 @@
 ---
 title: "Biscuit"
 url: /madrid/biscuit-corredera-alta-de-san-pablo/
-shop: ropa
+shop: Kleidung
 ---

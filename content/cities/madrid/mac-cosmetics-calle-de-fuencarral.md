@@ -1,5 +1,5 @@
 ---
 title: "MAC Cosmetics"
 url: /madrid/mac-cosmetics-calle-de-fuencarral/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NR"
 url: /madrid/nr/
-shop: ropa
+shop: Kleidung
 ---

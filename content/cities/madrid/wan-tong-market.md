@@ -1,5 +1,5 @@
 ---
 title: "Wan Tong Market"
 url: /madrid/wan-tong-market/
-shop: comodidad
+shop: Lebensmittel
 ---

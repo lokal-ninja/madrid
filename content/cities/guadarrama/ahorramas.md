@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /guadarrama/ahorramas/
-shop: supermercado
+shop: Supermarkt
 ---

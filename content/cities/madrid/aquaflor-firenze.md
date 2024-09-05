@@ -1,5 +1,5 @@
 ---
 title: "Aquaflor Firenze"
 url: /madrid/aquaflor-firenze/
-shop: perfumería
+shop: Parfümerie
 ---

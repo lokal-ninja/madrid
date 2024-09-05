@@ -1,5 +1,5 @@
 ---
 title: "Cima Ski"
 url: /madrid/cima-ski/
-shop: exterior
+shop: Outdoor
 ---

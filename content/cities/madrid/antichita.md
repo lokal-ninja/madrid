@@ -1,5 +1,5 @@
 ---
 title: "Antichita"
 url: /madrid/antichita/
-shop: joyería
+shop: Schmuck
 ---

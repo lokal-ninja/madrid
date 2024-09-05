@@ -1,5 +1,5 @@
 ---
 title: "LAtuAL"
 url: /madrid/latual/
-shop: ropa
+shop: Kleidung
 ---

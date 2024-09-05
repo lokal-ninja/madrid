@@ -1,5 +1,5 @@
 ---
 title: "Frutos Secos"
 url: /madrid/frutos-secos-avenida-de-moratalaz/
-shop: comodidad
+shop: Lebensmittel
 ---

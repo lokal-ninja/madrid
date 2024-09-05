@@ -1,5 +1,5 @@
 ---
 title: "Frutería Fuencarral"
 url: /madrid/fruteria-fuencarral/
-shop: frutería
+shop: Gemüse & Obst
 ---

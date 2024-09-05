@@ -1,5 +1,5 @@
 ---
 title: "HEMA"
 url: /madrid/hema/
-shop: grandes almacenes
+shop: Warenhaus
 ---

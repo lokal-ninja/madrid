@@ -1,5 +1,5 @@
 ---
 title: "Salvadores"
 url: /madrid/salvadores/
-shop: marisco
+shop: Fisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guzmán"
 url: /madrid/guzman/
-shop: ropa
+shop: Kleidung
 ---

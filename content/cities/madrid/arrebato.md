@@ -1,5 +1,5 @@
 ---
 title: "Arrebato"
 url: /madrid/arrebato/
-shop: libros
+shop: Bücher
 ---

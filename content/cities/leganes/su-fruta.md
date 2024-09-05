@@ -1,5 +1,5 @@
 ---
 title: "Su Fruta"
 url: /leganes/su-fruta/
-shop: frutería
+shop: Gemüse & Obst
 ---

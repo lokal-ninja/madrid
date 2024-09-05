@@ -1,5 +1,5 @@
 ---
 title: "Panadería y alimentación Mariola"
 url: /leganes/panaderia-y-alimentacion-mariola/
-shop: panadería
+shop: Bäckerei
 ---

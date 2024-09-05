@@ -1,5 +1,5 @@
 ---
 title: "Ficciones"
 url: /madrid/ficciones/
-shop: vídeo
+shop: Videothek
 ---

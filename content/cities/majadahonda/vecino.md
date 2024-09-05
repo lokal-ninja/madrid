@@ -1,5 +1,5 @@
 ---
 title: "Vecino"
 url: /majadahonda/vecino/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dryse"
 url: /madrid/dryse/
-shop: ordenador
+shop: Computer
 ---

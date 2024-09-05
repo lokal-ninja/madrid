@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial X-Madrid"
 url: /alcorcon/centro-comercial-x-madrid/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

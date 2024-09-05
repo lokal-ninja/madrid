@@ -1,5 +1,5 @@
 ---
 title: "COS"
 url: /madrid/cos/
-shop: ropa
+shop: Kleidung
 ---

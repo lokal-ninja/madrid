@@ -1,5 +1,5 @@
 ---
 title: "Mercantona"
 url: /madrid/mercantona/
-shop: comodidad
+shop: Lebensmittel
 ---

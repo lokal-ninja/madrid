@@ -1,5 +1,5 @@
 ---
 title: "Marco Aldany"
 url: /madrid/marco-aldany-calle-de-san-bernardo/
-shop: peluquería
+shop: Friseur
 ---

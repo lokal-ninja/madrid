@@ -1,5 +1,5 @@
 ---
 title: "Trasquilones"
 url: /madrid/trasquilones/
-shop: peluquería
+shop: Friseur
 ---

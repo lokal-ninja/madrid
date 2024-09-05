@@ -1,5 +1,5 @@
 ---
 title: "Tea Shop"
 url: /madrid/tea-shop-calle-de-bravo-murillo/
-shop: té
+shop: Tee
 ---

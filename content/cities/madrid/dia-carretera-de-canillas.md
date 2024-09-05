@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /madrid/dia-carretera-de-canillas/
-shop: supermercado
+shop: Supermarkt
 ---

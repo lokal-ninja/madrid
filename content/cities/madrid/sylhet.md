@@ -1,5 +1,5 @@
 ---
 title: "Sylhet"
 url: /madrid/sylhet/
-shop: comodidad
+shop: Lebensmittel
 ---

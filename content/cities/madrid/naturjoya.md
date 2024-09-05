@@ -1,5 +1,5 @@
 ---
 title: "Naturjoya"
 url: /madrid/naturjoya/
-shop: joyería
+shop: Schmuck
 ---

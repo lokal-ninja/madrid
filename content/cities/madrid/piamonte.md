@@ -1,5 +1,5 @@
 ---
 title: "Piamonte"
 url: /madrid/piamonte/
-shop: regalo
+shop: Andenken
 ---

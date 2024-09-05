@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /madrid/carrefour-express-2/
-shop: comodidad
+shop: Lebensmittel
 ---

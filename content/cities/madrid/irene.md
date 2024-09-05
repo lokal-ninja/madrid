@@ -1,5 +1,5 @@
 ---
 title: "Irene"
 url: /madrid/irene/
-shop: zapatos
+shop: Schuhe
 ---

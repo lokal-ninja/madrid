@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /getafe/dia-calle-buenavista/
-shop: supermercado
+shop: Supermarkt
 ---

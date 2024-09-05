@@ -1,5 +1,5 @@
 ---
 title: "M. Egido"
 url: /madrid/m-egido/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ecuapan"
 url: /madrid/ecuapan/
-shop: panadería
+shop: Bäckerei
 ---

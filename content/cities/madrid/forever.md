@@ -1,5 +1,5 @@
 ---
 title: "Forever"
 url: /madrid/forever/
-shop: vacante
+shop: Leerstehend
 ---

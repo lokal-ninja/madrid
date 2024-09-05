@@ -1,5 +1,5 @@
 ---
 title: "Fotored"
 url: /madrid/fotored/
-shop: foto
+shop: Foto
 ---

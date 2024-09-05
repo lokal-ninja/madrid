@@ -1,5 +1,5 @@
 ---
 title: "Lesac"
 url: /madrid/lesac/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

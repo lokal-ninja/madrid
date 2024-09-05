@@ -1,5 +1,5 @@
 ---
 title: "mundonatural"
 url: /madrid/mundonatural/
-shop: herbolario
+shop: Kräuter
 ---

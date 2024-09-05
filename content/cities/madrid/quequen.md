@@ -1,5 +1,5 @@
 ---
 title: "Quequén"
 url: /madrid/quequen/
-shop: panadería
+shop: Bäckerei
 ---

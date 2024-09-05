@@ -1,5 +1,5 @@
 ---
 title: "El Ganso"
 url: /madrid/el-ganso-calle-de-fuencarral/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Futonart"
 url: /madrid/futonart/
-shop: cama
+shop: Betten
 ---

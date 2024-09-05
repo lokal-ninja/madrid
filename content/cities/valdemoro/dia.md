@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /valdemoro/dia/
-shop: supermercado
+shop: Supermarkt
 ---

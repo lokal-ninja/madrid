@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Ecofamilia"
 url: /morata-de-tajuna/supermercado-ecofamilia/
-shop: supermercado
+shop: Supermarkt
 ---

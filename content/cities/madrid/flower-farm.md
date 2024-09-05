@@ -1,5 +1,5 @@
 ---
 title: "Flower Farm"
 url: /madrid/flower-farm/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mamá Tierra"
 url: /madrid/mama-tierra/
-shop: frutería
+shop: Gemüse & Obst
 ---

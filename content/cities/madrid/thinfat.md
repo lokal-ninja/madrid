@@ -1,5 +1,5 @@
 ---
 title: "Thinfat"
 url: /madrid/thinfat/
-shop: tatuaje
+shop: Tattoo
 ---

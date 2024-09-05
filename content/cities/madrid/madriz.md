@@ -1,5 +1,5 @@
 ---
 title: "Madriz"
 url: /madrid/madriz/
-shop: quiosco
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camabed"
 url: /madrid/camabed/
-shop: cama
+shop: Betten
 ---

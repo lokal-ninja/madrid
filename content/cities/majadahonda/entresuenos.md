@@ -1,5 +1,5 @@
 ---
 title: "Entresueños"
 url: /majadahonda/entresuenos/
-shop: cama
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estellés"
 url: /madrid/estelles/
-shop: zapatos
+shop: Schuhe
 ---

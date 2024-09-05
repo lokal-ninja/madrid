@@ -1,5 +1,5 @@
 ---
 title: "Pilares"
 url: /madrid/pilares/
-shop: libros
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swatch"
 url: /madrid/swatch/
-shop: relojes
+shop: Uhren
 ---

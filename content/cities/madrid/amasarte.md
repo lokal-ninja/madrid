@@ -1,5 +1,5 @@
 ---
 title: "Amasarte"
 url: /madrid/amasarte/
-shop: cerámica
+shop: Töpferei
 ---

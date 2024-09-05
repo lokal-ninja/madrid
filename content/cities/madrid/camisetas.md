@@ -1,5 +1,5 @@
 ---
 title: "Camisetas"
 url: /madrid/camisetas/
-shop: ropa
+shop: Kleidung
 ---

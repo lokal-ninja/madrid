@@ -1,5 +1,5 @@
 ---
 title: "Dabiz"
 url: /madrid/dabiz/
-shop: peluquería
+shop: Friseur
 ---

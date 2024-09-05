@@ -1,5 +1,5 @@
 ---
 title: "Focus"
 url: /madrid/focus/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sinclonnison"
 url: /madrid/sinclonnison/
-shop: ropa
+shop: Kleidung
 ---

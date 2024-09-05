@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /rivas-vaciamadrid/citroen/
-shop: coche
+shop: Autohaus
 ---

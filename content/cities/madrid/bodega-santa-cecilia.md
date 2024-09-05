@@ -1,5 +1,5 @@
 ---
 title: "Bodega Santa Cecilia"
 url: /madrid/bodega-santa-cecilia/
-shop: vino
+shop: Wein
 ---

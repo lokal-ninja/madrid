@@ -1,5 +1,5 @@
 ---
 title: "Aliara"
 url: /madrid/aliara/
-shop: general
+shop: Allgemein
 ---

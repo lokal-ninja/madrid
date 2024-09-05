@@ -1,5 +1,5 @@
 ---
 title: "Biba"
 url: /madrid/biba/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

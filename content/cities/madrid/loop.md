@@ -1,5 +1,5 @@
 ---
 title: "Loop"
 url: /madrid/loop/
-shop: ropa
+shop: Kleidung
 ---

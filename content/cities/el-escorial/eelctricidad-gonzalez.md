@@ -1,5 +1,5 @@
 ---
 title: "Eelctricidad González"
 url: /el-escorial/eelctricidad-gonzalez/
-shop: electrónica
+shop: Elektronik
 ---

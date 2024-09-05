@@ -1,5 +1,5 @@
 ---
 title: "ZooPinto"
 url: /pinto/zoopinto/
-shop: mascotas
+shop: Tiere
 ---

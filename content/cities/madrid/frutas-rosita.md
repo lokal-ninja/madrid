@@ -1,5 +1,5 @@
 ---
 title: "Frutas Rosita"
 url: /madrid/frutas-rosita/
-shop: frutería
+shop: Gemüse & Obst
 ---

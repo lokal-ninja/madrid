@@ -1,5 +1,5 @@
 ---
 title: "Láserum"
 url: /madrid/laserum/
-shop: cosméticos
+shop: Kosmetik
 ---

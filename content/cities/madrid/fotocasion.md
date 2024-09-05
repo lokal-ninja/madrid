@@ -1,5 +1,5 @@
 ---
 title: "Fotocasión"
 url: /madrid/fotocasion/
-shop: foto
+shop: Foto
 ---

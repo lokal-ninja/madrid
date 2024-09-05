@@ -1,5 +1,5 @@
 ---
 title: "Gloria"
 url: /madrid/gloria/
-shop: vacante
+shop: Leerstehend
 ---

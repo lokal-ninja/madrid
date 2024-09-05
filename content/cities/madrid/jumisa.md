@@ -1,5 +1,5 @@
 ---
 title: "Jumisa"
 url: /madrid/jumisa/
-shop: pintura
+shop: Farben
 ---

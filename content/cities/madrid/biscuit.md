@@ -1,5 +1,5 @@
 ---
 title: "Biscuit"
 url: /madrid/biscuit/
-shop: ropa
+shop: Kleidung
 ---

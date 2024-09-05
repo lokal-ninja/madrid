@@ -1,5 +1,5 @@
 ---
 title: "TerranovaCNC"
 url: /madrid/terranovacnc/
-shop: mascotas
+shop: Tiere
 ---

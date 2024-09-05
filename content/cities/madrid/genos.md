@@ -1,5 +1,5 @@
 ---
 title: "Geno's"
 url: /madrid/genos/
-shop: peluquería
+shop: Friseur
 ---

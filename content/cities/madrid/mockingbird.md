@@ -1,5 +1,5 @@
 ---
 title: "Mockingbird"
 url: /madrid/mockingbird/
-shop: ropa
+shop: Kleidung
 ---

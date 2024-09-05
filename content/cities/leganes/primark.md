@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /leganes/primark/
-shop: ropa
+shop: Kleidung
 ---

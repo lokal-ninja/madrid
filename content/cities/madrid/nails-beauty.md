@@ -1,5 +1,5 @@
 ---
 title: "Nails Beauty"
 url: /madrid/nails-beauty/
-shop: cosméticos
+shop: Kosmetik
 ---

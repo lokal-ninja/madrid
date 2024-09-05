@@ -1,5 +1,5 @@
 ---
 title: "Retif"
 url: /madrid/retif/
-shop: muebles
+shop: Möbel
 ---

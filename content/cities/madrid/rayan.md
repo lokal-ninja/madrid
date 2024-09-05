@@ -1,5 +1,5 @@
 ---
 title: "Rayan"
 url: /madrid/rayan/
-shop: peluquería
+shop: Friseur
 ---

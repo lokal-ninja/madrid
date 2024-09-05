@@ -1,5 +1,5 @@
 ---
 title: "Ipanema"
 url: /madrid/ipanema/
-shop: panadería
+shop: Bäckerei
 ---

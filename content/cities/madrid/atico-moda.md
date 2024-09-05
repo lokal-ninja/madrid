@@ -1,5 +1,5 @@
 ---
 title: "Ático Moda"
 url: /madrid/atico-moda/
-shop: ropa
+shop: Kleidung
 ---

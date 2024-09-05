@@ -1,5 +1,5 @@
 ---
 title: "Fanzy"
 url: /madrid/fanzy/
-shop: ropa
+shop: Kleidung
 ---

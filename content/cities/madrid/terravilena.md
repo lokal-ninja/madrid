@@ -1,5 +1,5 @@
 ---
 title: "Terravileña"
 url: /madrid/terravilena/
-shop: frutería
+shop: Gemüse & Obst
 ---

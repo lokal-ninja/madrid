@@ -1,5 +1,5 @@
 ---
 title: "Canalejas"
 url: /madrid/canalejas-plaza-de-canalejas/
-shop: ropa
+shop: Kleidung
 ---

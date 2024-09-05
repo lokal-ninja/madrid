@@ -1,5 +1,5 @@
 ---
 title: "Alvera"
 url: /madrid/alvera/
-shop: copyshop
+shop: Kopieren
 ---

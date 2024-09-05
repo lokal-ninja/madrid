@@ -1,5 +1,5 @@
 ---
 title: "Samubike"
 url: /madrid/samubike/
-shop: bicicleta
+shop: Fahrrad
 ---

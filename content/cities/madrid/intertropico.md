@@ -1,5 +1,5 @@
 ---
 title: "Intertropico"
 url: /madrid/intertropico/
-shop: comodidad
+shop: Lebensmittel
 ---

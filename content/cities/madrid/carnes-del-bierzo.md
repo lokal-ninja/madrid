@@ -1,5 +1,5 @@
 ---
 title: "Carnes del Bierzo"
 url: /madrid/carnes-del-bierzo/
-shop: carnicero
+shop: Metzgerei
 ---

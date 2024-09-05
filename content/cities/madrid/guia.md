@@ -1,5 +1,5 @@
 ---
 title: "Guía"
 url: /madrid/guia/
-shop: óptico
+shop: Optiker
 ---

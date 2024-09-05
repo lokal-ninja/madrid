@@ -1,5 +1,5 @@
 ---
 title: "Asia"
 url: /madrid/asia/
-shop: comodidad
+shop: Lebensmittel
 ---

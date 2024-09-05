@@ -1,5 +1,5 @@
 ---
 title: "Coosy"
 url: /madrid/coosy/
-shop: ropa
+shop: Kleidung
 ---

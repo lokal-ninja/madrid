@@ -1,5 +1,5 @@
 ---
 title: "Simay"
 url: /madrid/simay/
-shop: ropa
+shop: Kleidung
 ---

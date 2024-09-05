@@ -1,5 +1,5 @@
 ---
 title: "Legalize"
 url: /madrid/legalize/
-shop: cannabis
+shop: Hanf
 ---

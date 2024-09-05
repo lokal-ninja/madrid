@@ -1,5 +1,5 @@
 ---
 title: "Calimax"
 url: /getafe/calimax/
-shop: frutería
+shop: Gemüse & Obst
 ---

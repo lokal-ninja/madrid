@@ -1,5 +1,5 @@
 ---
 title: "Hilo y Aguja"
 url: /madrid/hilo-y-aguja/
-shop: coser
+shop: Nähzubehör
 ---

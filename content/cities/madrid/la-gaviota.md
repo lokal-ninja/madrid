@@ -1,5 +1,5 @@
 ---
 title: "La Gaviota"
 url: /madrid/la-gaviota/
-shop: marisco
+shop: Fisch
 ---

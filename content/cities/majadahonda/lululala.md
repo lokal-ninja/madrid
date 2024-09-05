@@ -1,5 +1,5 @@
 ---
 title: "lulúlalá"
 url: /majadahonda/lululala/
-shop: ropa
+shop: Kleidung
 ---

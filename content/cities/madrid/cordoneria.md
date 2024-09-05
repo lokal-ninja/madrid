@@ -1,5 +1,5 @@
 ---
 title: "Cordoneria"
 url: /madrid/cordoneria/
-shop: ropa
+shop: Kleidung
 ---

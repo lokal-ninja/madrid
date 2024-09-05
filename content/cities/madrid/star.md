@@ -1,5 +1,5 @@
 ---
 title: "Star"
 url: /madrid/star/
-shop: floristería
+shop: Blumen
 ---

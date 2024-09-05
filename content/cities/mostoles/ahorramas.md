@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /mostoles/ahorramas/
-shop: supermercado
+shop: Supermarkt
 ---

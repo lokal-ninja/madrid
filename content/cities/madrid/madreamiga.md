@@ -1,5 +1,5 @@
 ---
 title: "Madreamiga"
 url: /madrid/madreamiga/
-shop: panadería
+shop: Bäckerei
 ---

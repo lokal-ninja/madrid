@@ -1,5 +1,5 @@
 ---
 title: "Frutería Los Primos"
 url: /madrid/fruteria-los-primos/
-shop: frutería
+shop: Gemüse & Obst
 ---

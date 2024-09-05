@@ -1,5 +1,5 @@
 ---
 title: "Ford Almoauto"
 url: /alcorcon/ford-almoauto/
-shop: coche
+shop: Autohaus
 ---

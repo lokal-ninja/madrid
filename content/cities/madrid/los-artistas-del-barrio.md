@@ -1,5 +1,5 @@
 ---
 title: "Los Artistas del Barrio"
 url: /madrid/los-artistas-del-barrio/
-shop: arte
+shop: Kunst
 ---

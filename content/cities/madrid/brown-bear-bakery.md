@@ -1,5 +1,5 @@
 ---
 title: "Brown Bear Bakery"
 url: /madrid/brown-bear-bakery/
-shop: panadería
+shop: Bäckerei
 ---

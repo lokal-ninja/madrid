@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /madrid/calzedonia-calle-de-fuencarral/
-shop: ropa
+shop: Kleidung
 ---

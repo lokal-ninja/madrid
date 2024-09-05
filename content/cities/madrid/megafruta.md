@@ -1,5 +1,5 @@
 ---
 title: "Megafruta"
 url: /madrid/megafruta/
-shop: frutería
+shop: Gemüse & Obst
 ---

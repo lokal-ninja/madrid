@@ -1,5 +1,5 @@
 ---
 title: "Diva"
 url: /madrid/diva/
-shop: peluquería
+shop: Friseur
 ---

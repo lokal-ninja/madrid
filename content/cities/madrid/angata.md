@@ -1,5 +1,5 @@
 ---
 title: "Angata"
 url: /madrid/angata/
-shop: ropa
+shop: Kleidung
 ---

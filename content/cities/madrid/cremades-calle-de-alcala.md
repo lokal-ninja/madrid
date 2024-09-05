@@ -1,5 +1,5 @@
 ---
 title: "Cremades"
 url: /madrid/cremades-calle-de-alcala/
-shop: zapatos
+shop: Schuhe
 ---

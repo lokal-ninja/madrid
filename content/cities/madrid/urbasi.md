@@ -1,5 +1,5 @@
 ---
 title: "Urbasi"
 url: /madrid/urbasi/
-shop: motocicleta
+shop: Motorrad
 ---

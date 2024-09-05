@@ -1,5 +1,5 @@
 ---
 title: "La Española"
 url: /madrid/la-espanola/
-shop: comodidad
+shop: Lebensmittel
 ---

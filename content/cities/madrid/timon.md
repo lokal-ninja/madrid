@@ -1,5 +1,5 @@
 ---
 title: "Timón"
 url: /madrid/timon/
-shop: panadería
+shop: Bäckerei
 ---

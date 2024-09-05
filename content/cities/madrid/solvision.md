@@ -1,5 +1,5 @@
 ---
 title: "Solvisión"
 url: /madrid/solvision/
-shop: tienda
+shop: Modehaus
 ---

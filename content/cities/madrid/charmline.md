@@ -1,5 +1,5 @@
 ---
 title: "Charmline"
 url: /madrid/charmline/
-shop: ropa
+shop: Kleidung
 ---

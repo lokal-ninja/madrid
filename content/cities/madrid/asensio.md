@@ -1,5 +1,5 @@
 ---
 title: "Asensio"
 url: /madrid/asensio/
-shop: zapatos
+shop: Schuhe
 ---

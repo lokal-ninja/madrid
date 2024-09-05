@@ -1,5 +1,5 @@
 ---
 title: "Siber"
 url: /madrid/siber/
-shop: ropa
+shop: Kleidung
 ---

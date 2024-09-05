@@ -1,5 +1,5 @@
 ---
 title: "FAQ"
 url: /madrid/faq/
-shop: tatuaje
+shop: Tattoo
 ---

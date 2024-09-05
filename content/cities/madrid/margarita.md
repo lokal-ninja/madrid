@@ -1,5 +1,5 @@
 ---
 title: "Margarita"
 url: /madrid/margarita/
-shop: floristería
+shop: Blumen
 ---

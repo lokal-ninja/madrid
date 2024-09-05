@@ -1,5 +1,5 @@
 ---
 title: "Exp. nº 127"
 url: /madrid/exp-no-127/
-shop: tabaco
+shop: Tabak
 ---

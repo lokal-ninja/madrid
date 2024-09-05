@@ -1,5 +1,5 @@
 ---
 title: "Yakuxi"
 url: /madrid/yakuxi/
-shop: masaje
+shop: Massage
 ---

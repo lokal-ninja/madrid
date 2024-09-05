@@ -1,5 +1,5 @@
 ---
 title: "Yoli"
 url: /madrid/yoli/
-shop: peluquería
+shop: Friseur
 ---

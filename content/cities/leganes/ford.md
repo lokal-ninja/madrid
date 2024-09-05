@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /leganes/ford/
-shop: coche
+shop: Autohaus
 ---

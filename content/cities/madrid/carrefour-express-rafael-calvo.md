@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /madrid/carrefour-express-rafael-calvo/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frutería La Huerta de Aranjuez"
 url: /aranjuez/fruteria-la-huerta-de-aranjuez/
-shop: frutería
+shop: Gemüse & Obst
 ---

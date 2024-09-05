@@ -1,5 +1,5 @@
 ---
 title: "Martinelli"
 url: /madrid/martinelli/
-shop: peluquería
+shop: Friseur
 ---

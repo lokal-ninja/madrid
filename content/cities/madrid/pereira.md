@@ -1,5 +1,5 @@
 ---
 title: "Pereira"
 url: /madrid/pereira/
-shop: joyería
+shop: Schmuck
 ---

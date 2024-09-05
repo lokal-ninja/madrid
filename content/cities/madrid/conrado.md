@@ -1,5 +1,5 @@
 ---
 title: "Conrado"
 url: /madrid/conrado/
-shop: peluquería
+shop: Friseur
 ---

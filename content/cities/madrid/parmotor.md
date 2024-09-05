@@ -1,5 +1,5 @@
 ---
 title: "Parmotor"
 url: /madrid/parmotor/
-shop: motocicleta
+shop: Motorrad
 ---

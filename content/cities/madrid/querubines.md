@@ -1,5 +1,5 @@
 ---
 title: "Querubines"
 url: /madrid/querubines/
-shop: ropa
+shop: Kleidung
 ---

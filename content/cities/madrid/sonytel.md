@@ -1,5 +1,5 @@
 ---
 title: "Sonytel"
 url: /madrid/sonytel/
-shop: electrónica
+shop: Elektronik
 ---

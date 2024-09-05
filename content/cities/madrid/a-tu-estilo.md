@@ -1,5 +1,5 @@
 ---
 title: "A tu estilo"
 url: /madrid/a-tu-estilo/
-shop: panadería
+shop: Bäckerei
 ---

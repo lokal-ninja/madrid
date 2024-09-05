@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /alcorcon/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

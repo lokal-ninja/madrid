@@ -1,5 +1,5 @@
 ---
 title: "Sézane"
 url: /madrid/sezane/
-shop: ropa
+shop: Kleidung
 ---

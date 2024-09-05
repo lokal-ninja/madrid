@@ -1,5 +1,5 @@
 ---
 title: "Domínguez"
 url: /cercedilla/dominguez/
-shop: marisco
+shop: Fisch
 ---

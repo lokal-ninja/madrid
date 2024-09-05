@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /madrid/mercadona-calle-del-cardenal-belluga/
-shop: supermercado
+shop: Supermarkt
 ---

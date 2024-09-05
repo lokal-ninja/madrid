@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /madrid/mercadona-calle-de-la-secoya/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fronda"
 url: /majadahonda/fronda/
-shop: floristería
+shop: Blumen
 ---

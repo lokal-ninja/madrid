@@ -1,5 +1,5 @@
 ---
 title: "Takezo"
 url: /madrid/takezo/
-shop: ropa
+shop: Kleidung
 ---

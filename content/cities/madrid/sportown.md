@@ -1,5 +1,5 @@
 ---
 title: "Sportown"
 url: /madrid/sportown/
-shop: zapatos
+shop: Schuhe
 ---

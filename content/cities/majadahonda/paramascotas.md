@@ -1,5 +1,5 @@
 ---
 title: "Paramascotas"
 url: /majadahonda/paramascotas/
-shop: mascotas
+shop: Tiere
 ---

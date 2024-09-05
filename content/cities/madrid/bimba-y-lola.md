@@ -1,5 +1,5 @@
 ---
 title: "Bimba y Lola"
 url: /madrid/bimba-y-lola/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Varela"
 url: /madrid/varela/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

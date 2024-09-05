@@ -1,5 +1,5 @@
 ---
 title: "Brownie"
 url: /madrid/brownie/
-shop: ropa
+shop: Kleidung
 ---

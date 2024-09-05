@@ -1,5 +1,5 @@
 ---
 title: "Kukos"
 url: /madrid/kukos/
-shop: zapatos
+shop: Schuhe
 ---

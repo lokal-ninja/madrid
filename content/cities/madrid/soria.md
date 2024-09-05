@@ -1,5 +1,5 @@
 ---
 title: "Soria"
 url: /madrid/soria/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Principito"
 url: /madrid/el-principito/
-shop: comodidad
+shop: Lebensmittel
 ---

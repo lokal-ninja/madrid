@@ -1,5 +1,5 @@
 ---
 title: "García Madrid"
 url: /madrid/garcia-madrid/
-shop: ropa
+shop: Kleidung
 ---

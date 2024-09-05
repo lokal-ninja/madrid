@@ -1,5 +1,5 @@
 ---
 title: "Cottet"
 url: /madrid/cottet/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nilda"
 url: /madrid/nilda/
-shop: peluquería
+shop: Friseur
 ---

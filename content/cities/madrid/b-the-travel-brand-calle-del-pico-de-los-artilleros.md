@@ -1,5 +1,5 @@
 ---
 title: "B the travel brand"
 url: /madrid/b-the-travel-brand-calle-del-pico-de-los-artilleros/
-shop: agencia de viajes
+shop: Reisebüro
 ---

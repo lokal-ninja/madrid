@@ -1,5 +1,5 @@
 ---
 title: "Vapstore"
 url: /madrid/vapstore/
-shop: cigarrillo electrónico
+shop: E-Zigaretten
 ---

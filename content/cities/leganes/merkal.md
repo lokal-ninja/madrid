@@ -1,5 +1,5 @@
 ---
 title: "Merkal"
 url: /leganes/merkal/
-shop: zapatos
+shop: Schuhe
 ---

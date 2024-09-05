@@ -1,5 +1,5 @@
 ---
 title: "Biciados"
 url: /madrid/biciados/
-shop: bicicleta
+shop: Fahrrad
 ---

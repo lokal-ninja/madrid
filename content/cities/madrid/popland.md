@@ -1,5 +1,5 @@
 ---
 title: "Popland"
 url: /madrid/popland/
-shop: regalo
+shop: Andenken
 ---

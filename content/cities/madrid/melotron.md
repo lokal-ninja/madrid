@@ -1,5 +1,5 @@
 ---
 title: "Melotron"
 url: /madrid/melotron/
-shop: exterior
+shop: Outdoor
 ---

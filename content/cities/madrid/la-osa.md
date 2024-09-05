@@ -1,5 +1,5 @@
 ---
 title: "La Osa"
 url: /madrid/la-osa/
-shop: alimentación sana
+shop: Bioladen
 ---

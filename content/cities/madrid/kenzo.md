@@ -1,5 +1,5 @@
 ---
 title: "Kenzo"
 url: /madrid/kenzo/
-shop: ropa
+shop: Kleidung
 ---

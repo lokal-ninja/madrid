@@ -1,5 +1,5 @@
 ---
 title: "Bernal"
 url: /navacerrada/bernal/
-shop: regalo
+shop: Andenken
 ---

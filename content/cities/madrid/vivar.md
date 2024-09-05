@@ -1,5 +1,5 @@
 ---
 title: "Vivar"
 url: /madrid/vivar/
-shop: carnicero
+shop: Metzgerei
 ---

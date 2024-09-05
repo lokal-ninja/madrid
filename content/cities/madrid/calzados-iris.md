@@ -1,5 +1,5 @@
 ---
 title: "Calzados Iris"
 url: /madrid/calzados-iris/
-shop: zapatos
+shop: Schuhe
 ---

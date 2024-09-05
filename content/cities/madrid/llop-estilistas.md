@@ -1,5 +1,5 @@
 ---
 title: "Llop Estilistas"
 url: /madrid/llop-estilistas/
-shop: peluquería
+shop: Friseur
 ---

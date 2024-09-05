@@ -1,5 +1,5 @@
 ---
 title: "Faic'os"
 url: /madrid/faicos/
-shop: peluquería
+shop: Friseur
 ---

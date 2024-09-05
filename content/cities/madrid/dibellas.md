@@ -1,5 +1,5 @@
 ---
 title: "Dibellas"
 url: /madrid/dibellas/
-shop: joyería
+shop: Schmuck
 ---

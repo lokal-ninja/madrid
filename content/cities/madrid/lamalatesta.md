@@ -1,5 +1,5 @@
 ---
 title: "LaMalatesta"
 url: /madrid/lamalatesta/
-shop: libros
+shop: Bücher
 ---

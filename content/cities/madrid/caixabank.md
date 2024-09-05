@@ -1,5 +1,5 @@
 ---
 title: "Caixabank"
 url: /madrid/caixabank/
-shop: vacante
+shop: Leerstehend
 ---

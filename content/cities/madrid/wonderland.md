@@ -1,5 +1,5 @@
 ---
 title: "Wonderland"
 url: /madrid/wonderland/
-shop: juguetes
+shop: Spielzeug
 ---

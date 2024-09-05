@@ -1,5 +1,5 @@
 ---
 title: "Estévez"
 url: /madrid/estevez/
-shop: cosméticos
+shop: Kosmetik
 ---

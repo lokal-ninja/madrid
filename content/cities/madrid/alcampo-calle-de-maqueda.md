@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /madrid/alcampo-calle-de-maqueda/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ascaso"
 url: /madrid/ascaso/
-shop: pastelería
+shop: Konditorei
 ---

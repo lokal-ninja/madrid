@@ -1,5 +1,5 @@
 ---
 title: "Jardiflor"
 url: /guadarrama/jardiflor/
-shop: centro de jardinería
+shop: Garten-Center
 ---

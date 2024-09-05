@@ -1,5 +1,5 @@
 ---
 title: "Pintugama"
 url: /majadahonda/pintugama/
-shop: pintura
+shop: Farben
 ---

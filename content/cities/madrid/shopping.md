@@ -1,5 +1,5 @@
 ---
 title: "Shopping"
 url: /madrid/shopping/
-shop: ropa
+shop: Kleidung
 ---

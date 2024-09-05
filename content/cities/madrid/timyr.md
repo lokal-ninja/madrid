@@ -1,5 +1,5 @@
 ---
 title: "Timyr"
 url: /madrid/timyr/
-shop: ropa
+shop: Kleidung
 ---

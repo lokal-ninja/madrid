@@ -1,5 +1,5 @@
 ---
 title: "Painkiller"
 url: /madrid/painkiller/
-shop: ropa
+shop: Kleidung
 ---

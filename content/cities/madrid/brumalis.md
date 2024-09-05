@@ -1,5 +1,5 @@
 ---
 title: "Brumalis"
 url: /madrid/brumalis/
-shop: floristería
+shop: Blumen
 ---

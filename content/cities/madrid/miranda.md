@@ -1,5 +1,5 @@
 ---
 title: "Miranda"
 url: /madrid/miranda/
-shop: general
+shop: Allgemein
 ---

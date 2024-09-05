@@ -1,5 +1,5 @@
 ---
 title: "Belgravia"
 url: /madrid/belgravia/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Julia"
 url: /madrid/julia/
-shop: perfumería
+shop: Parfümerie
 ---

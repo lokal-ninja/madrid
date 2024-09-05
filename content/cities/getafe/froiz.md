@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /getafe/froiz/
-shop: supermercado
+shop: Supermarkt
 ---

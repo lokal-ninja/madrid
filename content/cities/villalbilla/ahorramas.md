@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /villalbilla/ahorramas/
-shop: supermercado
+shop: Supermarkt
 ---

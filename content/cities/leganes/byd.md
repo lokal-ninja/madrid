@@ -1,5 +1,5 @@
 ---
 title: "BYD"
 url: /leganes/byd/
-shop: coche
+shop: Autohaus
 ---

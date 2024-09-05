@@ -1,5 +1,5 @@
 ---
 title: "Kos"
 url: /madrid/kos/
-shop: comodidad
+shop: Lebensmittel
 ---

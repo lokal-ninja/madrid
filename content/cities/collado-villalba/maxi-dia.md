@@ -1,5 +1,5 @@
 ---
 title: "Maxi Dia"
 url: /collado-villalba/maxi-dia/
-shop: supermercado
+shop: Supermarkt
 ---

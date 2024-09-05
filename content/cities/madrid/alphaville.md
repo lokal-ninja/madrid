@@ -1,5 +1,5 @@
 ---
 title: "Alphaville"
 url: /madrid/alphaville/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krack"
 url: /madrid/krack/
-shop: zapatos
+shop: Schuhe
 ---

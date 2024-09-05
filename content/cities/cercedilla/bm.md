@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /cercedilla/bm/
-shop: supermercado
+shop: Supermarkt
 ---

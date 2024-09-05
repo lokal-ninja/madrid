@@ -1,5 +1,5 @@
 ---
 title: "Mundroper"
 url: /madrid/mundroper/
-shop: farmacia
+shop: Drogerie
 ---

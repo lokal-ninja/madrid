@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /madrid/mango/
-shop: ropa
+shop: Kleidung
 ---

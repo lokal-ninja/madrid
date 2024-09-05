@@ -1,5 +1,5 @@
 ---
 title: "Condor"
 url: /getafe/condor/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barbershop"
 url: /pinto/barbershop/
-shop: peluquería
+shop: Friseur
 ---

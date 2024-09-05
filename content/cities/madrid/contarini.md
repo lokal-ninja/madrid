@@ -1,5 +1,5 @@
 ---
 title: "Contarini"
 url: /madrid/contarini/
-shop: peluquería
+shop: Friseur
 ---

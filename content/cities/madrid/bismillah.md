@@ -1,5 +1,5 @@
 ---
 title: "Bismillah"
 url: /madrid/bismillah/
-shop: frutería
+shop: Gemüse & Obst
 ---

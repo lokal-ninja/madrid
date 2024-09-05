@@ -1,5 +1,5 @@
 ---
 title: "L'Angelys"
 url: /madrid/langelys/
-shop: helado
+shop: Eisprodukte
 ---

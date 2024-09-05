@@ -1,5 +1,5 @@
 ---
 title: "TMT"
 url: /madrid/tmt/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Singlutenería"
 url: /collado-villalba/singluteneria/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vas"
 url: /madrid/vas-calle-de-barbieri/
-shop: zapatos
+shop: Schuhe
 ---

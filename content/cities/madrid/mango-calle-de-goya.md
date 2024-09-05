@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /madrid/mango-calle-de-goya/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Longinos"
 url: /madrid/longinos/
-shop: panadería
+shop: Bäckerei
 ---

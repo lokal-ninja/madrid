@@ -1,5 +1,5 @@
 ---
 title: "Bianca"
 url: /madrid/bianca/
-shop: ropa
+shop: Kleidung
 ---

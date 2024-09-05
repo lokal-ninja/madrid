@@ -1,5 +1,5 @@
 ---
 title: "Quality Care"
 url: /madrid/quality-care/
-shop: peluquería
+shop: Friseur
 ---
