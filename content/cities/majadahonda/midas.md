@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /majadahonda/midas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

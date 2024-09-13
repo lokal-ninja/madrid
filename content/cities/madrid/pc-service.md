@@ -1,5 +1,5 @@
 ---
 title: "PC Service"
 url: /madrid/pc-service/
-shop: Computer
+shop: ordenador
 ---

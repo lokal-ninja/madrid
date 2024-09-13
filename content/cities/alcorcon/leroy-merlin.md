@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
 url: /alcorcon/leroy-merlin/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

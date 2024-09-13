@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /getafe/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

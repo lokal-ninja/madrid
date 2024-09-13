@@ -1,5 +1,5 @@
 ---
 title: "Copilandia.com"
 url: /fuenlabrada/copilandia-com/
-shop: Foto
+shop: foto
 ---

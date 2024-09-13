@@ -1,5 +1,5 @@
 ---
 title: "Grafilago Digital"
 url: /madrid/grafilago-digital/
-shop: Kopieren
+shop: copyshop
 ---

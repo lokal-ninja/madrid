@@ -1,5 +1,5 @@
 ---
 title: "3K peluqueros"
 url: /madrid/3k-peluqueros/
-shop: Friseur
+shop: peluquería
 ---

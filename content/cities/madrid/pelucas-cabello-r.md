@@ -1,5 +1,5 @@
 ---
 title: "Pelucas Cabello R."
 url: /madrid/pelucas-cabello-r/
-shop: Friseur
+shop: peluquería
 ---

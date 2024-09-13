@@ -1,5 +1,5 @@
 ---
 title: "Pasodoble"
 url: /majadahonda/pasodoble/
-shop: Schuhe
+shop: zapatos
 ---

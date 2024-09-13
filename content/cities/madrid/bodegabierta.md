@@ -1,5 +1,5 @@
 ---
 title: "Bodegabierta"
 url: /madrid/bodegabierta/
-shop: Wein
+shop: vino
 ---

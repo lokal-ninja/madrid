@@ -1,5 +1,5 @@
 ---
 title: "Dunkin' Coffee"
 url: /madrid/dunkin-coffee/
-shop: Bäckerei
+shop: panadería
 ---

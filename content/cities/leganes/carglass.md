@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /leganes/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naturanimal"
 url: /madrid/naturanimal/
-shop: Tiere
+shop: mascotas
 ---

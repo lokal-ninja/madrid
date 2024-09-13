@@ -1,5 +1,5 @@
 ---
 title: "Bazar de Bureba"
 url: /leganes/bazar-de-bureba/
-shop: Kramladen
+shop: tienda de variedades
 ---

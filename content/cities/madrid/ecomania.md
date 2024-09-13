@@ -1,5 +1,5 @@
 ---
 title: "Ecomanía"
 url: /madrid/ecomania/
-shop: Lebensmittel
+shop: comodidad
 ---

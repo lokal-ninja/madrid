@@ -1,5 +1,5 @@
 ---
 title: "Viajes Barceló"
 url: /madrid/viajes-barcelo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

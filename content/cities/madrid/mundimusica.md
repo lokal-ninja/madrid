@@ -1,5 +1,5 @@
 ---
 title: "MundiMúsica"
 url: /madrid/mundimusica/
-shop: Instrumente
+shop: instrumento musical
 ---

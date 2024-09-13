@@ -1,5 +1,5 @@
 ---
 title: "Birkenstock"
 url: /madrid/birkenstock/
-shop: Schuhe
+shop: zapatos
 ---

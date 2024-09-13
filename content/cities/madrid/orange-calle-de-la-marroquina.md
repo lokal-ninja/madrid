@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /madrid/orange-calle-de-la-marroquina/
-shop: Handy
+shop: teléfono móvil
 ---

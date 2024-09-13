@@ -1,5 +1,5 @@
 ---
 title: "Jade"
 url: /madrid/jade/
-shop: Friseur
+shop: peluquería
 ---

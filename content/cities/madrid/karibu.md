@@ -1,5 +1,5 @@
 ---
 title: "Karibú"
 url: /madrid/karibu/
-shop: Andenken
+shop: regalo
 ---

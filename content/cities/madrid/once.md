@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
 url: /madrid/once/
-shop: Lotterie
+shop: lotería
 ---

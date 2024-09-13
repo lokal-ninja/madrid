@@ -1,5 +1,5 @@
 ---
 title: "Junbo Market"
 url: /madrid/junbo-market/
-shop: Kramladen
+shop: tienda de variedades
 ---

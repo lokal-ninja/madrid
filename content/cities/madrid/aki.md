@@ -1,5 +1,5 @@
 ---
 title: "AKI"
 url: /madrid/aki/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

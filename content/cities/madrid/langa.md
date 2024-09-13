@@ -1,5 +1,5 @@
 ---
 title: "Langa"
 url: /madrid/langa/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LoxamHune"
 url: /coslada/loxamhune/
-shop: Mieten
+shop: alquiler
 ---

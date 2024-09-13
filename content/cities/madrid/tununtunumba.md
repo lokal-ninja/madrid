@@ -1,5 +1,5 @@
 ---
 title: "Tununtunumba"
 url: /madrid/tununtunumba/
-shop: Instrumente
+shop: instrumento musical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /torrejon-de-ardoz/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

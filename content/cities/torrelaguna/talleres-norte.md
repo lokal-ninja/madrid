@@ -1,5 +1,5 @@
 ---
 title: "Talleres Norte"
 url: /torrelaguna/talleres-norte/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

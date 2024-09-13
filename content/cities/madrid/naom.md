@@ -1,5 +1,5 @@
 ---
 title: "Naom"
 url: /madrid/naom/
-shop: Friseur
+shop: peluquería
 ---

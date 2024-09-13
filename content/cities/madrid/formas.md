@@ -1,5 +1,5 @@
 ---
 title: "Formas"
 url: /madrid/formas/
-shop: Möbel
+shop: muebles
 ---

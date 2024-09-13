@@ -1,5 +1,5 @@
 ---
 title: "Culinarium"
 url: /madrid/culinarium/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

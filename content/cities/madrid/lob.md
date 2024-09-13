@@ -1,5 +1,5 @@
 ---
 title: "Lob"
 url: /madrid/lob/
-shop: Friseur
+shop: peluquería
 ---

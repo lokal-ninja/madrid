@@ -1,5 +1,5 @@
 ---
 title: "Nova"
 url: /madrid/nova/
-shop: Immobilien
+shop: agente inmobiliario
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walkers Appeal"
 url: /madrid/walkers-appeal/
-shop: Kleidung
+shop: ropa
 ---

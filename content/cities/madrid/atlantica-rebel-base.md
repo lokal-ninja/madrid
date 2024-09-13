@@ -1,5 +1,5 @@
 ---
 title: "Atlántica Rebel Base"
 url: /madrid/atlantica-rebel-base/
-shop: Bücher
+shop: libros
 ---

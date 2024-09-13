@@ -1,5 +1,5 @@
 ---
 title: "Flying Tiger Copenhagen"
 url: /madrid/flying-tiger-copenhagen-calle-de-alcala/
-shop: Kramladen
+shop: tienda de variedades
 ---

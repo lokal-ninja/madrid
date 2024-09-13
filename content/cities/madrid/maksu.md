@@ -1,5 +1,5 @@
 ---
 title: "Maksu"
 url: /madrid/maksu/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aurgi"
 url: /rivas-vaciamadrid/aurgi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

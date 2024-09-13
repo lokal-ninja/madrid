@@ -1,5 +1,5 @@
 ---
 title: "Explora Acción"
 url: /madrid/explora-accion/
-shop: Reisebüro
+shop: agencia de viajes
 ---

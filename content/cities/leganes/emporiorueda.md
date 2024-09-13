@@ -1,5 +1,5 @@
 ---
 title: "Emporiorueda"
 url: /leganes/emporiorueda/
-shop: Allgemein
+shop: general
 ---

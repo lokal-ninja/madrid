@@ -1,5 +1,5 @@
 ---
 title: "El Colmado"
 url: /madrid/el-colmado/
-shop: Lebensmittel
+shop: comodidad
 ---

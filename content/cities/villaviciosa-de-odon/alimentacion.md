@@ -1,5 +1,5 @@
 ---
 title: "Alimentación"
 url: /villaviciosa-de-odon/alimentacion/
-shop: Kramladen
+shop: tienda de variedades
 ---

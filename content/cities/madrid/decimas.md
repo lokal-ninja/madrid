@@ -1,5 +1,5 @@
 ---
 title: "Décimas"
 url: /madrid/decimas/
-shop: Kleidung
+shop: ropa
 ---

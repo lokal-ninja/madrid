@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /leganes/ahorramas/
-shop: Supermarkt
+shop: supermercado
 ---

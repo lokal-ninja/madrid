@@ -1,5 +1,5 @@
 ---
 title: "Lovely Lashes"
 url: /madrid/lovely-lashes/
-shop: Kosmetik
+shop: cosméticos
 ---

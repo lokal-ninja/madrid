@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Kibo"
 url: /madrid/peluqueria-kibo/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cardaser"
 url: /madrid/cardaser/
-shop: Metzgerei
+shop: carnicero
 ---

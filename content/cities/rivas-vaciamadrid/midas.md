@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /rivas-vaciamadrid/midas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

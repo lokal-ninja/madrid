@@ -1,5 +1,5 @@
 ---
 title: "GV Racing"
 url: /parla/gv-racing/
-shop: Motorrad
+shop: motocicleta
 ---

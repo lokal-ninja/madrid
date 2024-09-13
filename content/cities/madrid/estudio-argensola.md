@@ -1,5 +1,5 @@
 ---
 title: "Estudio Argensola"
 url: /madrid/estudio-argensola/
-shop: Immobilien
+shop: agente inmobiliario
 ---

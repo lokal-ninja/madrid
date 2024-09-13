@@ -1,5 +1,5 @@
 ---
 title: "Togori"
 url: /madrid/togori/
-shop: Schreibwaren
+shop: material de oficina
 ---

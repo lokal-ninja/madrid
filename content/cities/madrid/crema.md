@@ -1,5 +1,5 @@
 ---
 title: "Crema"
 url: /madrid/crema/
-shop: Eisprodukte
+shop: helado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Planthae"
 url: /madrid/planthae/
-shop: Allgemein
+shop: general
 ---

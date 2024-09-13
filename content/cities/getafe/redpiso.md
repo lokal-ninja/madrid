@@ -1,5 +1,5 @@
 ---
 title: "Redpiso"
 url: /getafe/redpiso/
-shop: Immobilien
+shop: agente inmobiliario
 ---

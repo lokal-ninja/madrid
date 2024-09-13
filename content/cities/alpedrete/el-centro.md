@@ -1,5 +1,5 @@
 ---
 title: "El Centro"
 url: /alpedrete/el-centro/
-shop: Warenhaus
+shop: grandes almacenes
 ---

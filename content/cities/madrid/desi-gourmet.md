@@ -1,5 +1,5 @@
 ---
 title: "Desi Gourmet"
 url: /madrid/desi-gourmet/
-shop: Allgemein
+shop: general
 ---

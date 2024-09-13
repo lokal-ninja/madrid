@@ -1,5 +1,5 @@
 ---
 title: "Albauto Talleres"
 url: /madrid/albauto-talleres/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

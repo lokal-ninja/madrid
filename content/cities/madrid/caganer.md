@@ -1,5 +1,5 @@
 ---
 title: "Caganer"
 url: /madrid/caganer/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

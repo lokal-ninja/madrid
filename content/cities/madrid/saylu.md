@@ -1,5 +1,5 @@
 ---
 title: "Saylu"
 url: /madrid/saylu/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unide"
 url: /madrid/unide-calle-pegaso/
-shop: Supermarkt
+shop: supermercado
 ---

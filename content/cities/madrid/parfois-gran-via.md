@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
 url: /madrid/parfois-gran-via/
-shop: Modehaus
+shop: tienda
 ---

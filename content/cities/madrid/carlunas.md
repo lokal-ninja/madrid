@@ -1,5 +1,5 @@
 ---
 title: "Carlunas"
 url: /madrid/carlunas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pan y Miel"
 url: /madrid/pan-y-miel/
-shop: Konditorei
+shop: pastelería
 ---

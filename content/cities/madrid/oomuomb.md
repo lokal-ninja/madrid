@@ -1,5 +1,5 @@
 ---
 title: "Oomuomb"
 url: /madrid/oomuomb/
-shop: Süßwaren
+shop: confitería
 ---

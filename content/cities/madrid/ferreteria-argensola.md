@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Argensola"
 url: /madrid/ferreteria-argensola/
-shop: Eisenwaren
+shop: hardware
 ---

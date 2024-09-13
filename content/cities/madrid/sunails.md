@@ -1,5 +1,5 @@
 ---
 title: "Sunails"
 url: /madrid/sunails/
-shop: Kosmetik
+shop: cosméticos
 ---

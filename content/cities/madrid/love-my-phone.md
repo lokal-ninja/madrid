@@ -1,5 +1,5 @@
 ---
 title: "Love my phone"
 url: /madrid/love-my-phone/
-shop: Handy
+shop: teléfono móvil
 ---

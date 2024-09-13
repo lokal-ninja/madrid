@@ -1,5 +1,5 @@
 ---
 title: "Amanda"
 url: /madrid/amanda/
-shop: Lebensmittel
+shop: comodidad
 ---

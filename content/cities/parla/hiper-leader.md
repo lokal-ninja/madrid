@@ -1,5 +1,5 @@
 ---
 title: "Hiper Leader"
 url: /parla/hiper-leader/
-shop: Kramladen
+shop: tienda de variedades
 ---

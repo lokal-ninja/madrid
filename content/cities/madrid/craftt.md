@@ -1,5 +1,5 @@
 ---
 title: "Craftt"
 url: /madrid/craftt/
-shop: Tattoo
+shop: tatuaje
 ---

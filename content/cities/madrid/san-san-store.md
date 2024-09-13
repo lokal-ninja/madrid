@@ -1,5 +1,5 @@
 ---
 title: "San-San Store"
 url: /madrid/san-san-store/
-shop: Supermarkt
+shop: supermercado
 ---

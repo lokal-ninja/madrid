@@ -1,5 +1,5 @@
 ---
 title: "Tejidos Paredes"
 url: /madrid/tejidos-paredes/
-shop: Textil
+shop: tela
 ---

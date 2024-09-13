@@ -1,5 +1,5 @@
 ---
 title: "Aural - Centros auditivos profesionales"
 url: /madrid/aural-centros-auditivos-profesionales/
-shop: Hörgeräte
+shop: audífonos
 ---

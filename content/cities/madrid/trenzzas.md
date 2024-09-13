@@ -1,5 +1,5 @@
 ---
 title: "Trenzzas"
 url: /madrid/trenzzas/
-shop: Friseur
+shop: peluquería
 ---

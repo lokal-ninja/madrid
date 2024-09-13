@@ -1,5 +1,5 @@
 ---
 title: "Salvadores"
 url: /las-rozas-de-madrid/salvadores/
-shop: Küchen
+shop: cocina
 ---

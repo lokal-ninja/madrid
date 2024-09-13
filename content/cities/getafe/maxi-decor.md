@@ -1,5 +1,5 @@
 ---
 title: "Maxi Decor"
 url: /getafe/maxi-decor/
-shop: Kramladen
+shop: tienda de variedades
 ---

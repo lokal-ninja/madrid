@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /madrid/bmw/
-shop: Autohaus
+shop: coche
 ---

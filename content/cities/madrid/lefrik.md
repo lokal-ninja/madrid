@@ -1,5 +1,5 @@
 ---
 title: "Lefrik"
 url: /madrid/lefrik/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

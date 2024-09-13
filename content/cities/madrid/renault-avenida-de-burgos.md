@@ -1,5 +1,5 @@
 ---
 title: "Renault Avenida de Burgos"
 url: /madrid/renault-avenida-de-burgos/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carlin"
 url: /villaviciosa-de-odon/carlin/
-shop: Schreibwaren
+shop: material de oficina
 ---

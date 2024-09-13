@@ -1,5 +1,5 @@
 ---
 title: "Eurasia"
 url: /alcorcon/eurasia/
-shop: Lebensmittel
+shop: comodidad
 ---

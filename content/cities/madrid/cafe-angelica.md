@@ -1,5 +1,5 @@
 ---
 title: "Café Angélica"
 url: /madrid/cafe-angelica/
-shop: Kaffee
+shop: café
 ---

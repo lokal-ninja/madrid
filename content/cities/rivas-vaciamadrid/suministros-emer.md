@@ -1,5 +1,5 @@
 ---
 title: "Suministros Emer"
 url: /rivas-vaciamadrid/suministros-emer/
-shop: Schreibwaren
+shop: material de oficina
 ---

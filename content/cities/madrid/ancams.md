@@ -1,5 +1,5 @@
 ---
 title: "Ancams"
 url: /madrid/ancams/
-shop: Friseur
+shop: peluquería
 ---

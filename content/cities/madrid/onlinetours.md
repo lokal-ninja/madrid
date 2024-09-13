@@ -1,5 +1,5 @@
 ---
 title: "Onlinetours"
 url: /madrid/onlinetours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

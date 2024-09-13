@@ -1,5 +1,5 @@
 ---
 title: "Porta Marina"
 url: /madrid/porta-marina/
-shop: Schneiderei
+shop: sastre
 ---

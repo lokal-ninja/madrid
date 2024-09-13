@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /madrid/oasis/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoestudio"
 url: /majadahonda/autoestudio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

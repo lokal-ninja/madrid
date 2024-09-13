@@ -1,5 +1,5 @@
 ---
 title: "Tiendanimal.com"
 url: /alcala-de-henares/tiendanimal-com/
-shop: Tiere
+shop: mascotas
 ---

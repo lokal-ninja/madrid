@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /majadahonda/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucena"
 url: /colmenar-viejo/lucena/
-shop: Kleidung
+shop: ropa
 ---

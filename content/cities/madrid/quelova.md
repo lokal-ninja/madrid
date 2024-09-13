@@ -1,5 +1,5 @@
 ---
 title: "Quelova"
 url: /madrid/quelova/
-shop: Kleidung
+shop: ropa
 ---

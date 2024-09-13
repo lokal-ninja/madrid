@@ -1,5 +1,5 @@
 ---
 title: "Karacol"
 url: /madrid/karacol/
-shop: Fahrrad
+shop: bicicleta
 ---

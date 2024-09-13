@@ -1,5 +1,5 @@
 ---
 title: "Librería Colores"
 url: /fuenlabrada/libreria-colores/
-shop: Schreibwaren
+shop: material de oficina
 ---

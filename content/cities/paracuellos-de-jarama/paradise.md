@@ -1,5 +1,5 @@
 ---
 title: "Paradise"
 url: /paracuellos-de-jarama/paradise/
-shop: Eisenwaren
+shop: hardware
 ---

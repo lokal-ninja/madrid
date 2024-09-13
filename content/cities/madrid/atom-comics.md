@@ -1,5 +1,5 @@
 ---
 title: "Atom Comics"
 url: /madrid/atom-comics/
-shop: Bücher
+shop: libros
 ---

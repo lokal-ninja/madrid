@@ -1,5 +1,5 @@
 ---
 title: "Viana"
 url: /madrid/viana/
-shop: Wein
+shop: vino
 ---

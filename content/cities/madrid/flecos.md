@@ -1,5 +1,5 @@
 ---
 title: "Flecos"
 url: /madrid/flecos/
-shop: Kleidung
+shop: ropa
 ---

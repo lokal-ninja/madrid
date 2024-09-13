@@ -1,5 +1,5 @@
 ---
 title: "Palazzo"
 url: /madrid/palazzo/
-shop: Eisprodukte
+shop: helado
 ---

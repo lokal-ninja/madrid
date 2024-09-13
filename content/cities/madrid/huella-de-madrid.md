@@ -1,5 +1,5 @@
 ---
 title: "Huella de Madrid"
 url: /madrid/huella-de-madrid/
-shop: Andenken
+shop: regalo
 ---

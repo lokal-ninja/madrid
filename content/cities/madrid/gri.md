@@ -1,5 +1,5 @@
 ---
 title: "GRI"
 url: /madrid/gri/
-shop: Computer
+shop: ordenador
 ---

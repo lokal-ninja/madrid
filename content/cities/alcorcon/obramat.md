@@ -1,5 +1,5 @@
 ---
 title: "Obramat"
 url: /alcorcon/obramat/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

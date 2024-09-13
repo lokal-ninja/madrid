@@ -1,5 +1,5 @@
 ---
 title: "Amores Eternos"
 url: /madrid/amores-eternos/
-shop: Kleidung
+shop: ropa
 ---

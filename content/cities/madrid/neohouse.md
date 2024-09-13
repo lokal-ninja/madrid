@@ -1,5 +1,5 @@
 ---
 title: "Neohouse"
 url: /madrid/neohouse/
-shop: Immobilien
+shop: agente inmobiliario
 ---

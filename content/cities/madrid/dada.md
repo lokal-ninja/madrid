@@ -1,5 +1,5 @@
 ---
 title: "Dadá"
 url: /madrid/dada/
-shop: Kleidung
+shop: ropa
 ---

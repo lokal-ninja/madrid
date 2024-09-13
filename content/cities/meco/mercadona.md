@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /meco/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

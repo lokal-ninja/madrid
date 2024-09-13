@@ -1,5 +1,5 @@
 ---
 title: "5àsec"
 url: /madrid/5asec-calle-de-tellez/
-shop: Wäscherei
+shop: lavandería
 ---

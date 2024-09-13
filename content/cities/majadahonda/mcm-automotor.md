@@ -1,5 +1,5 @@
 ---
 title: "MCM Automotor"
 url: /majadahonda/mcm-automotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

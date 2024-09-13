@@ -1,5 +1,5 @@
 ---
 title: "Taste of America"
 url: /madrid/taste-of-america/
-shop: Lebensmittel
+shop: comodidad
 ---

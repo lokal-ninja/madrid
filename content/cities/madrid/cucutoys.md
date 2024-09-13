@@ -1,5 +1,5 @@
 ---
 title: "Cucutoys"
 url: /madrid/cucutoys/
-shop: Spielzeug
+shop: juguetes
 ---

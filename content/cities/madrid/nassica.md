@@ -1,5 +1,5 @@
 ---
 title: "Nassica"
 url: /madrid/nassica/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chocolalabelga"
 url: /madrid/chocolalabelga/
-shop: Schokolade
+shop: chocolate
 ---

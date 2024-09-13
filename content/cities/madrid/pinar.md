@@ -1,5 +1,5 @@
 ---
 title: "Pinar"
 url: /madrid/pinar/
-shop: Wäscherei
+shop: lavandería
 ---

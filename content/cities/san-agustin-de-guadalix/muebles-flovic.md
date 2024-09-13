@@ -1,5 +1,5 @@
 ---
 title: "Muebles Flovic"
 url: /san-agustin-de-guadalix/muebles-flovic/
-shop: Möbel
+shop: muebles
 ---

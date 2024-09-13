@@ -1,5 +1,5 @@
 ---
 title: "Hairkrone"
 url: /madrid/hairkrone/
-shop: Friseur
+shop: peluquería
 ---

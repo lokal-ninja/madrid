@@ -1,5 +1,5 @@
 ---
 title: "Neva"
 url: /madrid/neva/
-shop: Schreibwaren
+shop: material de oficina
 ---

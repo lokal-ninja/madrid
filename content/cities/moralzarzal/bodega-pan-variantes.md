@@ -1,5 +1,5 @@
 ---
 title: "Bodega Pan Variantes"
 url: /moralzarzal/bodega-pan-variantes/
-shop: Lebensmittel
+shop: comodidad
 ---

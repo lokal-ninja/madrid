@@ -1,5 +1,5 @@
 ---
 title: "Kiosco"
 url: /madrid/kiosco/
-shop: Kiosk
+shop: quiosco
 ---

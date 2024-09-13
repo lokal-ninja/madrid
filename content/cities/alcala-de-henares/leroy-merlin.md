@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
 url: /alcala-de-henares/leroy-merlin/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercor"
 url: /madrid/supercor-calle-de-mateo-inurria/
-shop: Supermarkt
+shop: supermercado
 ---

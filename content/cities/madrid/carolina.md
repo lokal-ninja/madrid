@@ -1,5 +1,5 @@
 ---
 title: "Carolina"
 url: /madrid/carolina/
-shop: Friseur
+shop: peluquería
 ---

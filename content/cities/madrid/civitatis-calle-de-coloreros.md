@@ -1,5 +1,5 @@
 ---
 title: "Civitatis"
 url: /madrid/civitatis-calle-de-coloreros/
-shop: Reisebüro
+shop: agencia de viajes
 ---

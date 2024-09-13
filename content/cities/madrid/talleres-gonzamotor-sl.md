@@ -1,5 +1,5 @@
 ---
 title: "Talleres GonzaMotor SL"
 url: /madrid/talleres-gonzamotor-sl/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

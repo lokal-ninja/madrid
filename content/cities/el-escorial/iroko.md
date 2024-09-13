@@ -1,5 +1,5 @@
 ---
 title: "Iroko"
 url: /el-escorial/iroko/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzados Cantero"
 url: /madrid/calzados-cantero/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garvi"
 url: /madrid/garvi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

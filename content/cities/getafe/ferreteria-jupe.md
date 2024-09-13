@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Jupe"
 url: /getafe/ferreteria-jupe/
-shop: Eisenwaren
+shop: hardware
 ---

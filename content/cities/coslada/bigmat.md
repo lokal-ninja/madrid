@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /coslada/bigmat/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

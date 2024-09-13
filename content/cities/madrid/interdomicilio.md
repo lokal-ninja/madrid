@@ -1,5 +1,5 @@
 ---
 title: "Interdomicilio"
 url: /madrid/interdomicilio/
-shop: Allgemein
+shop: general
 ---

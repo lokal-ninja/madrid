@@ -1,5 +1,5 @@
 ---
 title: "Maggie Beauty Lab"
 url: /madrid/maggie-beauty-lab/
-shop: Kosmetik
+shop: cosméticos
 ---

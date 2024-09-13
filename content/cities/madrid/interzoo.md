@@ -1,5 +1,5 @@
 ---
 title: "Interzoo"
 url: /madrid/interzoo/
-shop: Tiere
+shop: mascotas
 ---

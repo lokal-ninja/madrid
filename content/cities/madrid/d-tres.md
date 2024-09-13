@@ -1,5 +1,5 @@
 ---
 title: "D Tres"
 url: /madrid/d-tres/
-shop: Friseur
+shop: peluquería
 ---

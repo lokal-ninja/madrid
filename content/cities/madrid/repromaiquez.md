@@ -1,5 +1,5 @@
 ---
 title: "Repromaiquez"
 url: /madrid/repromaiquez/
-shop: Kopieren
+shop: copyshop
 ---

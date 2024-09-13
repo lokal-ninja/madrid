@@ -1,5 +1,5 @@
 ---
 title: "Ahorramas"
 url: /fuenlabrada/ahorramas/
-shop: Supermarkt
+shop: supermercado
 ---

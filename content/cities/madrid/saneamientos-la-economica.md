@@ -1,5 +1,5 @@
 ---
 title: "Saneamientos la Económica"
 url: /madrid/saneamientos-la-economica/
-shop: Badezimmer
+shop: cuarto de baño
 ---

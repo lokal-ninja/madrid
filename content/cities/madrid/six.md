@@ -1,5 +1,5 @@
 ---
 title: "Six"
 url: /madrid/six/
-shop: Andenken
+shop: regalo
 ---

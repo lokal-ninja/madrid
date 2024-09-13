@@ -1,5 +1,5 @@
 ---
 title: "Papelhogar"
 url: /madrid/papelhogar/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

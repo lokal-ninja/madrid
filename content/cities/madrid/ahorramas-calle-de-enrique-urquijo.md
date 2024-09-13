@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /madrid/ahorramas-calle-de-enrique-urquijo/
-shop: Supermarkt
+shop: supermercado
 ---

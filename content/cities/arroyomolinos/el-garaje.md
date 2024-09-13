@@ -1,5 +1,5 @@
 ---
 title: "El Garaje"
 url: /arroyomolinos/el-garaje/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

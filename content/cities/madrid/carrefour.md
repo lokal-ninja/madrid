@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /madrid/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

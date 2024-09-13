@@ -1,5 +1,5 @@
 ---
 title: "Vaper House"
 url: /majadahonda/vaper-house/
-shop: Tabak
+shop: tabaco
 ---

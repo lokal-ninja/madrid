@@ -1,5 +1,5 @@
 ---
 title: "Arokaya"
 url: /madrid/arokaya/
-shop: Massage
+shop: masaje
 ---

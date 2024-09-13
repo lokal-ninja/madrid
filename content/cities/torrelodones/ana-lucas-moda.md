@@ -1,5 +1,5 @@
 ---
 title: "Ana Lucas Moda"
 url: /torrelodones/ana-lucas-moda/
-shop: Kleidung
+shop: ropa
 ---

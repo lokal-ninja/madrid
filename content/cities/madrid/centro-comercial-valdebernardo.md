@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Valdebernardo"
 url: /madrid/centro-comercial-valdebernardo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D.R. Garage"
 url: /majadahonda/d-r-garage/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

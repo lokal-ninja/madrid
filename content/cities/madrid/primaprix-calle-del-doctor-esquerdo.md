@@ -1,5 +1,5 @@
 ---
 title: "PrimaPrix"
 url: /madrid/primaprix-calle-del-doctor-esquerdo/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Veguez"
 url: /madrid/veguez/
-shop: Schreibwaren
+shop: material de oficina
 ---

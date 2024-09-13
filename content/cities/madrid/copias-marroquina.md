@@ -1,5 +1,5 @@
 ---
 title: "Copias Marroquina"
 url: /madrid/copias-marroquina/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madrid Tel"
 url: /madrid/madrid-tel/
-shop: Handy
+shop: teléfono móvil
 ---

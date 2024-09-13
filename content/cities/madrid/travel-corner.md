@@ -1,5 +1,5 @@
 ---
 title: "Travel Corner"
 url: /madrid/travel-corner/
-shop: Andenken
+shop: regalo
 ---

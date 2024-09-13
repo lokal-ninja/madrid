@@ -1,5 +1,5 @@
 ---
 title: "Curtidos Carlos Hernández"
 url: /madrid/curtidos-carlos-hernandez/
-shop: Leder
+shop: cuero
 ---

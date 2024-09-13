@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /torrejon-de-ardoz/tedi/
-shop: Kramladen
+shop: tienda de variedades
 ---

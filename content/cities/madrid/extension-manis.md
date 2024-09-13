@@ -1,5 +1,5 @@
 ---
 title: "Extensión Manis"
 url: /madrid/extension-manis/
-shop: Allgemein
+shop: general
 ---

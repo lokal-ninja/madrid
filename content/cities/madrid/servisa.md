@@ -1,5 +1,5 @@
 ---
 title: "Servisa"
 url: /madrid/servisa/
-shop: Bestattungen
+shop: directores de funerarias
 ---

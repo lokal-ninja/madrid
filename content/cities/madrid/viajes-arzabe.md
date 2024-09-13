@@ -1,5 +1,5 @@
 ---
 title: "Viajes Arzabe"
 url: /madrid/viajes-arzabe/
-shop: Reisebüro
+shop: agencia de viajes
 ---

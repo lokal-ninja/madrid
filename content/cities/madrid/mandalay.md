@@ -1,5 +1,5 @@
 ---
 title: "Mandalay"
 url: /madrid/mandalay/
-shop: Raumausstattung
+shop: decoración interior
 ---

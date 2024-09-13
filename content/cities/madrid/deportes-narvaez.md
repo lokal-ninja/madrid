@@ -1,5 +1,5 @@
 ---
 title: "Deportes Narvaez"
 url: /madrid/deportes-narvaez/
-shop: Outdoor
+shop: exterior
 ---

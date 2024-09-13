@@ -1,5 +1,5 @@
 ---
 title: "Taller El Parque"
 url: /madrid/taller-el-parque/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

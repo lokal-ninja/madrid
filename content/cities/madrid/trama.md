@@ -1,5 +1,5 @@
 ---
 title: "Trama"
 url: /madrid/trama/
-shop: Foto
+shop: foto
 ---

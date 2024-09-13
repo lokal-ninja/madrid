@@ -1,5 +1,5 @@
 ---
 title: "Chic Soul"
 url: /madrid/chic-soul/
-shop: Raumausstattung
+shop: decoración interior
 ---

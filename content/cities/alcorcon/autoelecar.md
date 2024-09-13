@@ -1,5 +1,5 @@
 ---
 title: "Autoelecar"
 url: /alcorcon/autoelecar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joymar"
 url: /madrid/joymar/
-shop: Immobilien
+shop: agente inmobiliario
 ---

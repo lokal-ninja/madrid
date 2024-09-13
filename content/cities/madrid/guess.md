@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /madrid/guess/
-shop: Kleidung
+shop: ropa
 ---

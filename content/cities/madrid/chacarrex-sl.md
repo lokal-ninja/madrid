@@ -1,5 +1,5 @@
 ---
 title: "Chacarrex SL"
 url: /madrid/chacarrex-sl/
-shop: Allgemein
+shop: general
 ---

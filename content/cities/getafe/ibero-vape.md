@@ -1,5 +1,5 @@
 ---
 title: "Ibero Vape"
 url: /getafe/ibero-vape/
-shop: E-Zigaretten
+shop: cigarrillo electrónico
 ---

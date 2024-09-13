@@ -1,5 +1,5 @@
 ---
 title: "Pressto"
 url: /madrid/pressto-avenida-de-moratalaz/
-shop: Wäscherei
+shop: lavandería
 ---

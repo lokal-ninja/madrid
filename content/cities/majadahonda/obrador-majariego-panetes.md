@@ -1,5 +1,5 @@
 ---
 title: "Obrador Majariego Panetes"
 url: /majadahonda/obrador-majariego-panetes/
-shop: Bäckerei
+shop: panadería
 ---

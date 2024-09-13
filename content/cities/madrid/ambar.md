@@ -1,5 +1,5 @@
 ---
 title: "Ambar"
 url: /madrid/ambar/
-shop: Schuhe
+shop: zapatos
 ---

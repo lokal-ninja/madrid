@@ -1,5 +1,5 @@
 ---
 title: "TiendAnimal"
 url: /torrejon-de-ardoz/tiendanimal/
-shop: Tiere
+shop: mascotas
 ---

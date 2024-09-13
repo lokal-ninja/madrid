@@ -1,5 +1,5 @@
 ---
 title: "BricoMart Leganés"
 url: /leganes/bricomart-leganes/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

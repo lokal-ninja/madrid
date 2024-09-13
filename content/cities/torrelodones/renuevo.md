@@ -1,5 +1,5 @@
 ---
 title: "Renuevo"
 url: /torrelodones/renuevo/
-shop: Textil
+shop: tela
 ---

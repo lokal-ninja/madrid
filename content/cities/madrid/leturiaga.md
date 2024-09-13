@@ -1,5 +1,5 @@
 ---
 title: "Leturiaga"
 url: /madrid/leturiaga/
-shop: Instrumente
+shop: instrumento musical
 ---

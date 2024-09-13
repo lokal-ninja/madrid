@@ -1,5 +1,5 @@
 ---
 title: "Gilgo"
 url: /madrid/gilgo/
-shop: Parfümerie
+shop: perfumería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sanli"
 url: /madrid/sanli/
-shop: Konditorei
+shop: pastelería
 ---

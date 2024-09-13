@@ -1,5 +1,5 @@
 ---
 title: "Muebles La Europea"
 url: /madrid/muebles-la-europea/
-shop: Möbel
+shop: muebles
 ---

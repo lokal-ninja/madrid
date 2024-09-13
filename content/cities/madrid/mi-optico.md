@@ -1,5 +1,5 @@
 ---
 title: "Mi Optico"
 url: /madrid/mi-optico/
-shop: Optiker
+shop: óptico
 ---

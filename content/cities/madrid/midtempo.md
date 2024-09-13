@@ -1,5 +1,5 @@
 ---
 title: "midtempo"
 url: /madrid/midtempo/
-shop: Raumausstattung
+shop: decoración interior
 ---

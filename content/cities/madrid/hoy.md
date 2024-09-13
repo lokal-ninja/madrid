@@ -1,5 +1,5 @@
 ---
 title: "Hoy"
 url: /madrid/hoy/
-shop: Gemüse & Obst
+shop: frutería
 ---

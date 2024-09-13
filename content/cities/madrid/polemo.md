@@ -1,5 +1,5 @@
 ---
 title: "Polemo"
 url: /madrid/polemo/
-shop: Kleidung
+shop: ropa
 ---

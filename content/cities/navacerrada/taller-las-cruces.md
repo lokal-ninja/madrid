@@ -1,5 +1,5 @@
 ---
 title: "Taller Las Cruces"
 url: /navacerrada/taller-las-cruces/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

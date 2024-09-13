@@ -1,5 +1,5 @@
 ---
 title: "Verdecora"
 url: /madrid/verdecora/
-shop: Blumen
+shop: floristería
 ---

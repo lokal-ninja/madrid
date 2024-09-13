@@ -1,5 +1,5 @@
 ---
 title: "Junco"
 url: /madrid/junco/
-shop: Kleidung
+shop: ropa
 ---

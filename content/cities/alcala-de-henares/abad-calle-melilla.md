@@ -1,5 +1,5 @@
 ---
 title: "Abad"
 url: /alcala-de-henares/abad-calle-melilla/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Voltios"
 url: /madrid/voltios/
-shop: Hifi
+shop: hifi
 ---

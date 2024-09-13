@@ -1,5 +1,5 @@
 ---
 title: "AJM"
 url: /madrid/ajm/
-shop: Friseur
+shop: peluquería
 ---

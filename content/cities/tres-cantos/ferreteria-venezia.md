@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Venezia"
 url: /tres-cantos/ferreteria-venezia/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freda"
 url: /madrid/freda/
-shop: Friseur
+shop: peluquería
 ---

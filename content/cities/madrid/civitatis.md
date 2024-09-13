@@ -1,5 +1,5 @@
 ---
 title: "Civitatis"
 url: /madrid/civitatis/
-shop: Reisebüro
+shop: agencia de viajes
 ---

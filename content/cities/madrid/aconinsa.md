@@ -1,5 +1,5 @@
 ---
 title: "Aconinsa"
 url: /madrid/aconinsa/
-shop: Baustoffe
+shop: comercio
 ---

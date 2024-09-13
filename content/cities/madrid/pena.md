@@ -1,5 +1,5 @@
 ---
 title: "Peña"
 url: /madrid/pena/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hispanica"
 url: /madrid/hispanica/
-shop: Leiher
+shop: prestamista
 ---

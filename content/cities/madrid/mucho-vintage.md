@@ -1,5 +1,5 @@
 ---
 title: "Mucho Vintage"
 url: /madrid/mucho-vintage/
-shop: Kleidung
+shop: ropa
 ---

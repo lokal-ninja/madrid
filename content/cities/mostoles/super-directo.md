@@ -1,5 +1,5 @@
 ---
 title: "Super-Directo"
 url: /mostoles/super-directo/
-shop: Lebensmittel
+shop: comodidad
 ---

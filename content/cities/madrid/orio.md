@@ -1,5 +1,5 @@
 ---
 title: "Orio"
 url: /madrid/orio/
-shop: Bäckerei
+shop: panadería
 ---

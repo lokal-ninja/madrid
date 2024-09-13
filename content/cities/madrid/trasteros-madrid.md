@@ -1,5 +1,5 @@
 ---
 title: "Trasteros Madrid"
 url: /madrid/trasteros-madrid/
-shop: Mieten
+shop: alquiler
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marina Peláez"
 url: /madrid/marina-pelaez/
-shop: Friseur
+shop: peluquería
 ---

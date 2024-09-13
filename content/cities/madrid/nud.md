@@ -1,5 +1,5 @@
 ---
 title: "Nud"
 url: /madrid/nud/
-shop: Kleidung
+shop: ropa
 ---

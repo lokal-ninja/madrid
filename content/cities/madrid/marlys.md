@@ -1,5 +1,5 @@
 ---
 title: "Marly's"
 url: /madrid/marlys/
-shop: Schreibwaren
+shop: material de oficina
 ---

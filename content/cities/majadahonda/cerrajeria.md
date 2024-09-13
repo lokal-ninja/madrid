@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería"
 url: /majadahonda/cerrajeria/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

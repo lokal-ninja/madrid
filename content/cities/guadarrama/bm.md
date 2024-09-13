@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /guadarrama/bm/
-shop: Supermarkt
+shop: supermercado
 ---

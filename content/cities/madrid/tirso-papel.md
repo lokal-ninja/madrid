@@ -1,5 +1,5 @@
 ---
 title: "Tirso Papel"
 url: /madrid/tirso-papel/
-shop: Schreibwaren
+shop: material de oficina
 ---

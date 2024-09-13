@@ -1,5 +1,5 @@
 ---
 title: "El Desván de..."
 url: /madrid/el-desvan-de/
-shop: Kramladen
+shop: tienda de variedades
 ---

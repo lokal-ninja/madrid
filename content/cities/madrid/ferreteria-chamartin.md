@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Chamartín"
 url: /madrid/ferreteria-chamartin/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mora Sara"
 url: /madrid/mora-sara/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motorcar Norte"
 url: /madrid/motorcar-norte/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

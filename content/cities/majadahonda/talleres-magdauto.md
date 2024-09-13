@@ -1,5 +1,5 @@
 ---
 title: "Talleres Magdauto"
 url: /majadahonda/talleres-magdauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

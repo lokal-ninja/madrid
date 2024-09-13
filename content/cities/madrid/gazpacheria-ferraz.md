@@ -1,5 +1,5 @@
 ---
 title: "Gazpachería Ferraz"
 url: /madrid/gazpacheria-ferraz/
-shop: Lebensmittel
+shop: comodidad
 ---

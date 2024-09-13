@@ -1,5 +1,5 @@
 ---
 title: "Ánade"
 url: /madrid/anade/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodybell"
 url: /madrid/bodybell/
-shop: Parfümerie
+shop: perfumería
 ---

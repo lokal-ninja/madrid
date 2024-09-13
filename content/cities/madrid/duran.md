@@ -1,5 +1,5 @@
 ---
 title: "Durán"
 url: /madrid/duran/
-shop: Uhren
+shop: relojes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vilascar"
 url: /leganes/vilascar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

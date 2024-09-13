@@ -1,5 +1,5 @@
 ---
 title: "Acana"
 url: /madrid/acana/
-shop: Möbel
+shop: muebles
 ---

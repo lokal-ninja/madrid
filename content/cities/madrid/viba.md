@@ -1,5 +1,5 @@
 ---
 title: "viba"
 url: /madrid/viba/
-shop: Immobilien
+shop: agente inmobiliario
 ---

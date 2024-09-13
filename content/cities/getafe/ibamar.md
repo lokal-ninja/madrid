@@ -1,5 +1,5 @@
 ---
 title: "Ibamar"
 url: /getafe/ibamar/
-shop: Badezimmer
+shop: cuarto de baño
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camper"
 url: /madrid/camper/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rastro Betel"
 url: /madrid/rastro-betel/
-shop: Gebrauchtwaren
+shop: caridad
 ---

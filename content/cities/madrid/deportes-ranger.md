@@ -1,5 +1,5 @@
 ---
 title: "Deportes Ranger"
 url: /madrid/deportes-ranger/
-shop: Sport
+shop: deportes
 ---

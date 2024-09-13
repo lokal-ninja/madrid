@@ -1,5 +1,5 @@
 ---
 title: "Arganbio"
 url: /madrid/arganbio/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DivierteteX"
 url: /madrid/diviertetex/
-shop: Erotik
+shop: erótico
 ---

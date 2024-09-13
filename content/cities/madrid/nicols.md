@@ -1,5 +1,5 @@
 ---
 title: "Nicols"
 url: /madrid/nicols/
-shop: Schmuck
+shop: joyería
 ---

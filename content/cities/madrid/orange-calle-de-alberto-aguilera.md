@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /madrid/orange-calle-de-alberto-aguilera/
-shop: Handy
+shop: teléfono móvil
 ---

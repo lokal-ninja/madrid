@@ -1,5 +1,5 @@
 ---
 title: "ALE-HOP"
 url: /madrid/ale-hop-gran-via/
-shop: Andenken
+shop: regalo
 ---

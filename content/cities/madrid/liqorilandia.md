@@ -1,5 +1,5 @@
 ---
 title: "Liqorilandia"
 url: /madrid/liqorilandia/
-shop: Spirituosen
+shop: alcohol
 ---

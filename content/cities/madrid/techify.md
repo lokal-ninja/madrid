@@ -1,5 +1,5 @@
 ---
 title: "Techify"
 url: /madrid/techify/
-shop: Handy
+shop: teléfono móvil
 ---

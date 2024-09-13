@@ -1,5 +1,5 @@
 ---
 title: "Sampedro"
 url: /madrid/sampedro/
-shop: Friseur
+shop: peluquería
 ---

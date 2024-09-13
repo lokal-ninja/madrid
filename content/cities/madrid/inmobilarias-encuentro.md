@@ -1,5 +1,5 @@
 ---
 title: "Inmobilarias Encuentro"
 url: /madrid/inmobilarias-encuentro/
-shop: Immobilien
+shop: agente inmobiliario
 ---

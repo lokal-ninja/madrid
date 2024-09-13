@@ -1,5 +1,5 @@
 ---
 title: "Viveros Rucat"
 url: /galapagar/viveros-rucat/
-shop: Garten-Center
+shop: centro de jardinería
 ---

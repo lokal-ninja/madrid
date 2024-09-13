@@ -1,5 +1,5 @@
 ---
 title: "Spring"
 url: /madrid/spring/
-shop: Parfümerie
+shop: perfumería
 ---

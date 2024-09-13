@@ -1,5 +1,5 @@
 ---
 title: "Rodex"
 url: /majadahonda/rodex/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

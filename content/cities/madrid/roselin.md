@@ -1,5 +1,5 @@
 ---
 title: "Roselin"
 url: /madrid/roselin/
-shop: Schmuck
+shop: joyería
 ---

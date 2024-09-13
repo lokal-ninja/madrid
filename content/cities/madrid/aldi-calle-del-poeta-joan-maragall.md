@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /madrid/aldi-calle-del-poeta-joan-maragall/
-shop: Supermarkt
+shop: supermercado
 ---

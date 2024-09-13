@@ -1,5 +1,5 @@
 ---
 title: "Los Beer Brothers"
 url: /collado-villalba/los-beer-brothers/
-shop: Spirituosen
+shop: alcohol
 ---

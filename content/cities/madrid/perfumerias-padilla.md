@@ -1,5 +1,5 @@
 ---
 title: "Perfumerías Padilla"
 url: /madrid/perfumerias-padilla/
-shop: Parfümerie
+shop: perfumería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ecorenueva.com"
 url: /madrid/ecorenueva-com/
-shop: Badezimmer
+shop: cuarto de baño
 ---

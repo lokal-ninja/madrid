@@ -1,5 +1,5 @@
 ---
 title: "Quetinta"
 url: /madrid/quetinta/
-shop: Schreibwaren
+shop: material de oficina
 ---

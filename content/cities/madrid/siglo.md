@@ -1,5 +1,5 @@
 ---
 title: "Siglo"
 url: /madrid/siglo/
-shop: Handy
+shop: teléfono móvil
 ---

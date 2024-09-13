@@ -1,5 +1,5 @@
 ---
 title: "La Real"
 url: /madrid/la-real/
-shop: Blumen
+shop: floristería
 ---

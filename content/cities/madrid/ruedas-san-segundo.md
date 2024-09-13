@@ -1,5 +1,5 @@
 ---
 title: "Ruedas San Segundo"
 url: /madrid/ruedas-san-segundo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

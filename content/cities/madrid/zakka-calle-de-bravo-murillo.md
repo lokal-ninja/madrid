@@ -1,5 +1,5 @@
 ---
 title: "Zakka"
 url: /madrid/zakka-calle-de-bravo-murillo/
-shop: Raumausstattung
+shop: decoración interior
 ---

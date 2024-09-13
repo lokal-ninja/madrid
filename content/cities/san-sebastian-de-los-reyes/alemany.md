@@ -1,5 +1,5 @@
 ---
 title: "Alemany"
 url: /san-sebastian-de-los-reyes/alemany/
-shop: Konditorei
+shop: pastelería
 ---

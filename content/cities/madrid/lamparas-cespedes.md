@@ -1,5 +1,5 @@
 ---
 title: "Lámparas Céspedes"
 url: /madrid/lamparas-cespedes/
-shop: Lampen
+shop: lámparas
 ---

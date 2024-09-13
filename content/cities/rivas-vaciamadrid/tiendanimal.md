@@ -1,5 +1,5 @@
 ---
 title: "Tiendanimal"
 url: /rivas-vaciamadrid/tiendanimal/
-shop: Tiere
+shop: mascotas
 ---

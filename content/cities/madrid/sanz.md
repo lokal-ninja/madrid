@@ -1,5 +1,5 @@
 ---
 title: "Sanz"
 url: /madrid/sanz/
-shop: Schmuck
+shop: joyería
 ---

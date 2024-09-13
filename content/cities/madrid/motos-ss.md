@@ -1,5 +1,5 @@
 ---
 title: "Motos SS"
 url: /madrid/motos-ss/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

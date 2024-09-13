@@ -1,5 +1,5 @@
 ---
 title: "Grimey Store"
 url: /madrid/grimey-store/
-shop: Kleidung
+shop: ropa
 ---

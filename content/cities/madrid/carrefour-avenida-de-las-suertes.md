@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /madrid/carrefour-avenida-de-las-suertes/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /madrid/movistar-calle-del-general-ricardos/
-shop: Handy
+shop: teléfono móvil
 ---

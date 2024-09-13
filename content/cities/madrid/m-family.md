@@ -1,5 +1,5 @@
 ---
 title: "M Family"
 url: /madrid/m-family/
-shop: Lebensmittel
+shop: comodidad
 ---

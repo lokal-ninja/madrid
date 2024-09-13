@@ -1,5 +1,5 @@
 ---
 title: "Schuhe"
 url: /madrid/schuhe/
-shop: Schuhe
+shop: zapatos
 ---

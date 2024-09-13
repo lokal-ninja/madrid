@@ -1,5 +1,5 @@
 ---
 title: "Romero"
 url: /madrid/romero/
-shop: Sport
+shop: deportes
 ---

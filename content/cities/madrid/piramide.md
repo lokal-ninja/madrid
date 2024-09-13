@@ -1,5 +1,5 @@
 ---
 title: "Pirámide"
 url: /madrid/piramide/
-shop: Schuhe
+shop: zapatos
 ---

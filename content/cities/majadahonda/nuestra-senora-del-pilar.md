@@ -1,5 +1,5 @@
 ---
 title: "Nuestra Señora del Pilar"
 url: /majadahonda/nuestra-senora-del-pilar/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

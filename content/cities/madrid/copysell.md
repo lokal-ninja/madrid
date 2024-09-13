@@ -1,5 +1,5 @@
 ---
 title: "Copysell"
 url: /madrid/copysell/
-shop: Kopieren
+shop: copyshop
 ---

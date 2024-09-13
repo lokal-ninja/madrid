@@ -1,5 +1,5 @@
 ---
 title: "Petardos CM"
 url: /alpedrete/petardos-cm/
-shop: Pyrotechnik
+shop: pirotecnia
 ---

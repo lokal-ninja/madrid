@@ -1,5 +1,5 @@
 ---
 title: "Taller Primar"
 url: /mostoles/taller-primar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Redecoratucasa.com"
 url: /madrid/redecoratucasa-com/
-shop: Raumausstattung
+shop: decoración interior
 ---

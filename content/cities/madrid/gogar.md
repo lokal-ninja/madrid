@@ -1,5 +1,5 @@
 ---
 title: "Gogar"
 url: /madrid/gogar/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

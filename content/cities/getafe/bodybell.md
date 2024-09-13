@@ -1,5 +1,5 @@
 ---
 title: "Bodybell"
 url: /getafe/bodybell/
-shop: Kosmetik
+shop: cosméticos
 ---

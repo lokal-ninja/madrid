@@ -1,5 +1,5 @@
 ---
 title: "Eliel"
 url: /madrid/eliel/
-shop: Kleidung
+shop: ropa
 ---

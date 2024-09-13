@@ -1,5 +1,5 @@
 ---
 title: "KA International"
 url: /madrid/ka-international/
-shop: Möbel
+shop: muebles
 ---

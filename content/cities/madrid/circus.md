@@ -1,5 +1,5 @@
 ---
 title: "Circus"
 url: /madrid/circus/
-shop: Kleidung
+shop: ropa
 ---

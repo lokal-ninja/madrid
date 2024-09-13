@@ -1,5 +1,5 @@
 ---
 title: "Tacones"
 url: /madrid/tacones/
-shop: Schuhe
+shop: zapatos
 ---

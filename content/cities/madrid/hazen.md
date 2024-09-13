@@ -1,5 +1,5 @@
 ---
 title: "Hazen"
 url: /madrid/hazen/
-shop: Instrumente
+shop: instrumento musical
 ---

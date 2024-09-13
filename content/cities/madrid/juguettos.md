@@ -1,5 +1,5 @@
 ---
 title: "Juguettos"
 url: /madrid/juguettos/
-shop: Spielzeug
+shop: juguetes
 ---

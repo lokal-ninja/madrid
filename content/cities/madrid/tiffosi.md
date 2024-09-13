@@ -1,5 +1,5 @@
 ---
 title: "Tiffosi"
 url: /madrid/tiffosi/
-shop: Kleidung
+shop: ropa
 ---

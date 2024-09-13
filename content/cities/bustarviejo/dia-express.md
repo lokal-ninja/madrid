@@ -1,5 +1,5 @@
 ---
 title: "DIA Express"
 url: /bustarviejo/dia-express/
-shop: Supermarkt
+shop: supermercado
 ---

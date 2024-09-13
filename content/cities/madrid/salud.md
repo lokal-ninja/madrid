@@ -1,5 +1,5 @@
 ---
 title: "Salud"
 url: /madrid/salud/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Closet de Chueca"
 url: /madrid/el-closet-de-chueca/
-shop: Kleidung
+shop: ropa
 ---

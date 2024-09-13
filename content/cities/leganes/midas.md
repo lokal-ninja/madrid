@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /leganes/midas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

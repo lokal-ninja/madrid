@@ -1,5 +1,5 @@
 ---
 title: "Firststop"
 url: /madrid/firststop/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

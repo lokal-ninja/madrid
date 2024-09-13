@@ -1,5 +1,5 @@
 ---
 title: "+guapa"
 url: /madrid/guapa/
-shop: Kosmetik
+shop: cosméticos
 ---

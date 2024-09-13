@@ -1,5 +1,5 @@
 ---
 title: "Calidad Láser"
 url: /madrid/calidad-laser/
-shop: Schreibwaren
+shop: material de oficina
 ---

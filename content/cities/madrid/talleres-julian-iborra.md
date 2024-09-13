@@ -1,5 +1,5 @@
 ---
 title: "Talleres Julián Iborra"
 url: /madrid/talleres-julian-iborra/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

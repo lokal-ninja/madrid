@@ -1,5 +1,5 @@
 ---
 title: "Maniatics"
 url: /madrid/maniatics/
-shop: Friseur
+shop: peluquería
 ---

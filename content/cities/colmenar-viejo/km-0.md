@@ -1,5 +1,5 @@
 ---
 title: "Km-0"
 url: /colmenar-viejo/km-0/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

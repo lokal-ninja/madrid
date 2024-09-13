@@ -1,5 +1,5 @@
 ---
 title: "Alimentación y Bazar chino"
 url: /getafe/alimentacion-y-bazar-chino/
-shop: Allgemein
+shop: general
 ---

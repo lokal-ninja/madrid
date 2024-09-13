@@ -1,5 +1,5 @@
 ---
 title: "Inventadero"
 url: /madrid/inventadero/
-shop: Schreibwaren
+shop: material de oficina
 ---

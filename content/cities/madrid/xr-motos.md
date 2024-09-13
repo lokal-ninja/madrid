@@ -1,5 +1,5 @@
 ---
 title: "XR motos"
 url: /madrid/xr-motos/
-shop: Motorrad
+shop: motocicleta
 ---

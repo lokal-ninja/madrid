@@ -1,5 +1,5 @@
 ---
 title: "Eco Precio"
 url: /madrid/eco-precio/
-shop: Drogerie
+shop: farmacia
 ---

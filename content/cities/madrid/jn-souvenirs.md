@@ -1,5 +1,5 @@
 ---
 title: "JN Souvenirs"
 url: /madrid/jn-souvenirs/
-shop: Andenken
+shop: regalo
 ---

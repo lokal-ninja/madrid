@@ -1,5 +1,5 @@
 ---
 title: "WBZ"
 url: /madrid/wbz/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wasky | Autolavado de mascotas Coslada"
 url: /coslada/wasky-autolavado-de-mascotas-coslada/
-shop: Tiersalon
+shop: peluquería canina
 ---

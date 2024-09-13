@@ -1,5 +1,5 @@
 ---
 title: "Muy Mucho"
 url: /madrid/muy-mucho/
-shop: Raumausstattung
+shop: decoración interior
 ---

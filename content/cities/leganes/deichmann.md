@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /leganes/deichmann/
-shop: Schuhe
+shop: zapatos
 ---

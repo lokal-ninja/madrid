@@ -1,5 +1,5 @@
 ---
 title: "Alimentación"
 url: /getafe/alimentacion-plaza-tirso-de-molina/
-shop: Kramladen
+shop: tienda de variedades
 ---

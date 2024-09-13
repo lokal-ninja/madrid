@@ -1,5 +1,5 @@
 ---
 title: "Elvira"
 url: /madrid/elvira/
-shop: Blumen
+shop: floristería
 ---

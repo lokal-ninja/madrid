@@ -1,5 +1,5 @@
 ---
 title: "Cube Movil"
 url: /madrid/cube-movil/
-shop: Handy
+shop: teléfono móvil
 ---

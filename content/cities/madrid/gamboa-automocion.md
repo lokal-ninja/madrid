@@ -1,5 +1,5 @@
 ---
 title: "Gamboa Automoción"
 url: /madrid/gamboa-automocion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

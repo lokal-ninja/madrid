@@ -1,5 +1,5 @@
 ---
 title: "Greek And Shop"
 url: /madrid/greek-and-shop/
-shop: Lebensmittel
+shop: comodidad
 ---

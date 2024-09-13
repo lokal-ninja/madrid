@@ -1,5 +1,5 @@
 ---
 title: "Papelería Calabria"
 url: /las-rozas-de-madrid/papeleria-calabria/
-shop: Schreibwaren
+shop: material de oficina
 ---

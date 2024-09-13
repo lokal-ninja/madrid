@@ -1,5 +1,5 @@
 ---
 title: "Talleres Europa"
 url: /alcala-de-henares/talleres-europa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
 url: /madrid/douglas-calle-de-fuencarral/
-shop: Parfümerie
+shop: perfumería
 ---

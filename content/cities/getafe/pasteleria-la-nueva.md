@@ -1,5 +1,5 @@
 ---
 title: "Pastelería La Nueva"
 url: /getafe/pasteleria-la-nueva/
-shop: Bäckerei
+shop: panadería
 ---

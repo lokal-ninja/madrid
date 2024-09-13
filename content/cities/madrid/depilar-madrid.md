@@ -1,5 +1,5 @@
 ---
 title: "Depilar Madrid"
 url: /madrid/depilar-madrid/
-shop: Kosmetik
+shop: cosméticos
 ---

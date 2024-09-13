@@ -1,5 +1,5 @@
 ---
 title: "DOOC"
 url: /madrid/dooc/
-shop: Raumausstattung
+shop: decoración interior
 ---

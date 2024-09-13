@@ -1,5 +1,5 @@
 ---
 title: "Kiva"
 url: /madrid/kiva/
-shop: Lebensmittel
+shop: comodidad
 ---

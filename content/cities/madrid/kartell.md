@@ -1,5 +1,5 @@
 ---
 title: "Kartell"
 url: /madrid/kartell/
-shop: Raumausstattung
+shop: decoración interior
 ---

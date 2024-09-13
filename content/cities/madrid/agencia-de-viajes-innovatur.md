@@ -1,5 +1,5 @@
 ---
 title: "Agencia de Viajes Innovatur"
 url: /madrid/agencia-de-viajes-innovatur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

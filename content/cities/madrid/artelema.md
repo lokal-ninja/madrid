@@ -1,5 +1,5 @@
 ---
 title: "Artelema"
 url: /madrid/artelema/
-shop: Rahmen
+shop: marco
 ---

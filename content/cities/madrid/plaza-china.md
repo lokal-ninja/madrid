@@ -1,5 +1,5 @@
 ---
 title: "Plaza China"
 url: /madrid/plaza-china/
-shop: Kramladen
+shop: tienda de variedades
 ---

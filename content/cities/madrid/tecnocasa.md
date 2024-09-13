@@ -1,5 +1,5 @@
 ---
 title: "Tecnocasa"
 url: /madrid/tecnocasa/
-shop: Immobilien
+shop: agente inmobiliario
 ---

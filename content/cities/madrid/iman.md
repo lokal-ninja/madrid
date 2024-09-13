@@ -1,5 +1,5 @@
 ---
 title: "Iman"
 url: /madrid/iman/
-shop: Friseur
+shop: peluquería
 ---

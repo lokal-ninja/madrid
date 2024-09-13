@@ -1,5 +1,5 @@
 ---
 title: "Keeveo"
 url: /leganes/keeveo/
-shop: Kleidung
+shop: ropa
 ---

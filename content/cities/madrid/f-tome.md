@@ -1,5 +1,5 @@
 ---
 title: "F. Tomé"
 url: /madrid/f-tome/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

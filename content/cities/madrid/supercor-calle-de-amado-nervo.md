@@ -1,5 +1,5 @@
 ---
 title: "Supercor"
 url: /madrid/supercor-calle-de-amado-nervo/
-shop: Supermarkt
+shop: supermercado
 ---

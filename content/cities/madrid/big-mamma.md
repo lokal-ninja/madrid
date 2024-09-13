@@ -1,5 +1,5 @@
 ---
 title: "Big Mamma"
 url: /madrid/big-mamma/
-shop: Musik
+shop: música
 ---

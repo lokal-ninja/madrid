@@ -1,5 +1,5 @@
 ---
 title: "Green Shine"
 url: /madrid/green-shine/
-shop: Hanf
+shop: cannabis
 ---

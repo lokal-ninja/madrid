@@ -1,5 +1,5 @@
 ---
 title: "Baba Móviles"
 url: /madrid/baba-moviles/
-shop: Handy
+shop: teléfono móvil
 ---

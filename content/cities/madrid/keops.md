@@ -1,5 +1,5 @@
 ---
 title: "Keops"
 url: /madrid/keops/
-shop: Fliesen
+shop: baldosas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
 url: /alcorcon/mediamarkt/
-shop: Elektronik
+shop: electrónica
 ---

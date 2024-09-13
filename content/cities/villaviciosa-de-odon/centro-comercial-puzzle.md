@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Puzzle"
 url: /villaviciosa-de-odon/centro-comercial-puzzle/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UNIDE"
 url: /alcala-de-henares/unide/
-shop: Supermarkt
+shop: supermercado
 ---

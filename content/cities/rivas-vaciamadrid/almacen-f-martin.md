@@ -1,5 +1,5 @@
 ---
 title: "Almacén F. Martín"
 url: /rivas-vaciamadrid/almacen-f-martin/
-shop: Großhandel
+shop: mayorista
 ---

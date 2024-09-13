@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /madrid/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

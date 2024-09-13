@@ -1,5 +1,5 @@
 ---
 title: "Traficantes de Sueños"
 url: /madrid/traficantes-de-suenos/
-shop: Bücher
+shop: libros
 ---

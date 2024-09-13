@@ -1,5 +1,5 @@
 ---
 title: "Aurgi"
 url: /leganes/aurgi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

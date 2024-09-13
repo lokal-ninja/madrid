@@ -1,5 +1,5 @@
 ---
 title: "Unique"
 url: /madrid/unique/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conectrol"
 url: /madrid/conectrol/
-shop: Radiotechnik
+shop: radiotecnia
 ---

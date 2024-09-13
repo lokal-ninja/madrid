@@ -1,5 +1,5 @@
 ---
 title: "Chamota"
 url: /navacerrada/chamota/
-shop: Raumausstattung
+shop: decoración interior
 ---

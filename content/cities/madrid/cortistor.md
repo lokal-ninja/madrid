@@ -1,5 +1,5 @@
 ---
 title: "Cortistor"
 url: /madrid/cortistor/
-shop: Warenhaus
+shop: grandes almacenes
 ---

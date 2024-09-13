@@ -1,5 +1,5 @@
 ---
 title: "Silbon"
 url: /madrid/silbon/
-shop: Kleidung
+shop: ropa
 ---

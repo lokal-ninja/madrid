@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /villaviciosa-de-odon/midas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

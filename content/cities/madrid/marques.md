@@ -1,5 +1,5 @@
 ---
 title: "Marqués"
 url: /madrid/marques/
-shop: Konditorei
+shop: pastelería
 ---

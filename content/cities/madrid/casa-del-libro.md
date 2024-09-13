@@ -1,5 +1,5 @@
 ---
 title: "Casa del Libro"
 url: /madrid/casa-del-libro/
-shop: Bücher
+shop: libros
 ---

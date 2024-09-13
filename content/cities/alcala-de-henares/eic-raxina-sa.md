@@ -1,5 +1,5 @@
 ---
 title: "EIC Raxina SA"
 url: /alcala-de-henares/eic-raxina-sa/
-shop: Dorfladen
+shop: tienda rural
 ---

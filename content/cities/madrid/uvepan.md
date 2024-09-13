@@ -1,5 +1,5 @@
 ---
 title: "Uvepan"
 url: /madrid/uvepan/
-shop: Bäckerei
+shop: panadería
 ---

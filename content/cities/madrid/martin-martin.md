@@ -1,5 +1,5 @@
 ---
 title: "Martín Martín"
 url: /madrid/martin-martin/
-shop: Lebensmittel
+shop: comodidad
 ---

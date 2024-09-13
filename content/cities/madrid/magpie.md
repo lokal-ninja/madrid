@@ -1,5 +1,5 @@
 ---
 title: "Magpie"
 url: /madrid/magpie/
-shop: Kleidung
+shop: ropa
 ---

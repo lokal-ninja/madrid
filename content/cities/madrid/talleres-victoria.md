@@ -1,5 +1,5 @@
 ---
 title: "Talleres Victoria"
 url: /madrid/talleres-victoria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

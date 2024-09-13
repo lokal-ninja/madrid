@@ -1,5 +1,5 @@
 ---
 title: "Mirame"
 url: /madrid/mirame/
-shop: Optiker
+shop: óptico
 ---

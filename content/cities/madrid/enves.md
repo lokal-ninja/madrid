@@ -1,5 +1,5 @@
 ---
 title: "Envés"
 url: /madrid/enves/
-shop: Kleidung
+shop: ropa
 ---

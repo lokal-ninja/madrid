@@ -1,5 +1,5 @@
 ---
 title: "La Despensa"
 url: /fuenlabrada/la-despensa/
-shop: Supermarkt
+shop: supermercado
 ---

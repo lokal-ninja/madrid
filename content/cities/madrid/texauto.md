@@ -1,5 +1,5 @@
 ---
 title: "Texauto"
 url: /madrid/texauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

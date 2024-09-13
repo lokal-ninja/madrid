@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /alcala-de-henares/renault/
-shop: Autohaus
+shop: coche
 ---

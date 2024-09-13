@@ -1,5 +1,5 @@
 ---
 title: "Sprinter"
 url: /alcorcon/sprinter/
-shop: Sport
+shop: deportes
 ---

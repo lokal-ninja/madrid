@@ -1,5 +1,5 @@
 ---
 title: "Tartalia"
 url: /madrid/tartalia/
-shop: Konditorei
+shop: pastelería
 ---

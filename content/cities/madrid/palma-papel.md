@@ -1,5 +1,5 @@
 ---
 title: "Palma Papel"
 url: /madrid/palma-papel/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MYBIKESPORT"
 url: /madrid/mybikesport/
-shop: Fahrrad
+shop: bicicleta
 ---

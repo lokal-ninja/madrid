@@ -1,5 +1,5 @@
 ---
 title: "Badiale"
 url: /madrid/badiale/
-shop: Küchen
+shop: cocina
 ---

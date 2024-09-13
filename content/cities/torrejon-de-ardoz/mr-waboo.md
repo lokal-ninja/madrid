@@ -1,5 +1,5 @@
 ---
 title: "Mr. Waboo"
 url: /torrejon-de-ardoz/mr-waboo/
-shop: Tiere
+shop: mascotas
 ---

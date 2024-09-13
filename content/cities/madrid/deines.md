@@ -1,5 +1,5 @@
 ---
 title: "Deines"
 url: /madrid/deines/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Solocio"
 url: /madrid/solocio/
-shop: Schreibwaren
+shop: material de oficina
 ---

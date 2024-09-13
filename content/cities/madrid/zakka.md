@@ -1,5 +1,5 @@
 ---
 title: "Zakka"
 url: /madrid/zakka/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RFA Controls S.A."
 url: /mostoles/rfa-controls-s-a/
-shop: Landwirtschaftlich
+shop: agraria
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nassica"
 url: /madrid/nassica-avenida-rio-guadalquivir/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

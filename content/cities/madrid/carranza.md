@@ -1,5 +1,5 @@
 ---
 title: "Carranza"
 url: /madrid/carranza/
-shop: Schreibwaren
+shop: material de oficina
 ---

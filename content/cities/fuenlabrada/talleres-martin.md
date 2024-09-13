@@ -1,5 +1,5 @@
 ---
 title: "Talleres Martín"
 url: /fuenlabrada/talleres-martin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

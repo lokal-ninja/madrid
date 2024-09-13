@@ -1,5 +1,5 @@
 ---
 title: "Aeromodelismo Speed Hobbys"
 url: /madrid/aeromodelismo-speed-hobbys/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

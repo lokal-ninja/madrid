@@ -1,5 +1,5 @@
 ---
 title: "Talleres RC"
 url: /madrid/talleres-rc/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

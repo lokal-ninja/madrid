@@ -1,5 +1,5 @@
 ---
 title: "Espacio Plus"
 url: /madrid/espacio-plus/
-shop: Mieten
+shop: alquiler
 ---

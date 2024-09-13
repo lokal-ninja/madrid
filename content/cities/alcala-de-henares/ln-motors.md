@@ -1,5 +1,5 @@
 ---
 title: "Ln Motors"
 url: /alcala-de-henares/ln-motors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

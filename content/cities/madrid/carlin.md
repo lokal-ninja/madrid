@@ -1,5 +1,5 @@
 ---
 title: "Carlin"
 url: /madrid/carlin/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazar Europa"
 url: /madrid/bazar-europa/
-shop: Kramladen
+shop: tienda de variedades
 ---

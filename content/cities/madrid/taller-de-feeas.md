@@ -1,5 +1,5 @@
 ---
 title: "Taller de Feeas"
 url: /madrid/taller-de-feeas/
-shop: Kunst
+shop: arte
 ---

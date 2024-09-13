@@ -1,5 +1,5 @@
 ---
 title: "Skyvap"
 url: /madrid/skyvap/
-shop: E-Zigaretten
+shop: cigarrillo electrónico
 ---

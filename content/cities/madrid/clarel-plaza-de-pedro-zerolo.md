@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /madrid/clarel-plaza-de-pedro-zerolo/
-shop: Drogerie
+shop: farmacia
 ---

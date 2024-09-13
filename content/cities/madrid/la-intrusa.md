@@ -1,5 +1,5 @@
 ---
 title: "La intrusa"
 url: /madrid/la-intrusa/
-shop: Kleidung
+shop: ropa
 ---

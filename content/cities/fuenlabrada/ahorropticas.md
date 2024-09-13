@@ -1,5 +1,5 @@
 ---
 title: "Ahorropticas"
 url: /fuenlabrada/ahorropticas/
-shop: Optiker
+shop: óptico
 ---

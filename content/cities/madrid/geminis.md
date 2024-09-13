@@ -1,5 +1,5 @@
 ---
 title: "Géminis"
 url: /madrid/geminis/
-shop: Kräuter
+shop: herbolario
 ---

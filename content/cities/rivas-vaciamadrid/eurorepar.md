@@ -1,5 +1,5 @@
 ---
 title: "Eurorepar"
 url: /rivas-vaciamadrid/eurorepar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

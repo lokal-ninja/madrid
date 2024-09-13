@@ -1,5 +1,5 @@
 ---
 title: "Opticalia Ciudad Lineal"
 url: /madrid/opticalia-ciudad-lineal/
-shop: Optiker
+shop: óptico
 ---

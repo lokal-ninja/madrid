@@ -1,5 +1,5 @@
 ---
 title: "Egyptair"
 url: /madrid/egyptair/
-shop: Reisebüro
+shop: agencia de viajes
 ---

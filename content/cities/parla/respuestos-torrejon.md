@@ -1,5 +1,5 @@
 ---
 title: "Respuestos Torrejón"
 url: /parla/respuestos-torrejon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford Motorauto Leganés"
 url: /leganes/ford-motorauto-leganes/
-shop: Autohaus
+shop: coche
 ---

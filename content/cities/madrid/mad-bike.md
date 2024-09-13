@@ -1,5 +1,5 @@
 ---
 title: "Mad Bike"
 url: /madrid/mad-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

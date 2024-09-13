@@ -1,5 +1,5 @@
 ---
 title: "Chun"
 url: /madrid/chun/
-shop: Kleidung
+shop: ropa
 ---

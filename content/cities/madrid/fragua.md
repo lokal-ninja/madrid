@@ -1,5 +1,5 @@
 ---
 title: "Fragua"
 url: /madrid/fragua/
-shop: Bücher
+shop: libros
 ---

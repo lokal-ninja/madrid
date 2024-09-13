@@ -1,5 +1,5 @@
 ---
 title: "Peluchos Mascotas"
 url: /parla/peluchos-mascotas/
-shop: Tiere
+shop: mascotas
 ---

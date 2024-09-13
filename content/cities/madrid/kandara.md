@@ -1,5 +1,5 @@
 ---
 title: "Kandara"
 url: /madrid/kandara/
-shop: Andenken
+shop: regalo
 ---

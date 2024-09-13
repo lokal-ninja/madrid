@@ -1,5 +1,5 @@
 ---
 title: "Master"
 url: /madrid/master/
-shop: Elektronik
+shop: electrónica
 ---

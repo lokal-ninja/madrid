@@ -1,5 +1,5 @@
 ---
 title: "Barbelogia"
 url: /madrid/barbelogia/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talleres Acosta"
 url: /mostoles/talleres-acosta/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

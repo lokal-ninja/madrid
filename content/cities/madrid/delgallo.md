@@ -1,5 +1,5 @@
 ---
 title: "DelGallo"
 url: /madrid/delgallo/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /madrid/mercadona-calle-de-las-adelfas/
-shop: Supermarkt
+shop: supermercado
 ---

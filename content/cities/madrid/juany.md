@@ -1,5 +1,5 @@
 ---
 title: "Juany"
 url: /madrid/juany/
-shop: Dorfladen
+shop: tienda rural
 ---

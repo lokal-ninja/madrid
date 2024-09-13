@@ -1,5 +1,5 @@
 ---
 title: "Simply Market"
 url: /madrid/simply-market-calle-de-benito-de-castro/
-shop: Supermarkt
+shop: supermercado
 ---

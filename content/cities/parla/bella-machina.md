@@ -1,5 +1,5 @@
 ---
 title: "Bella Machina"
 url: /parla/bella-machina/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

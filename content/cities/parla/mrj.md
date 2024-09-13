@@ -1,5 +1,5 @@
 ---
 title: "MRJ"
 url: /parla/mrj/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

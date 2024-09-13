@@ -1,5 +1,5 @@
 ---
 title: "Traskilones"
 url: /cercedilla/traskilones/
-shop: Tiersalon
+shop: peluquería canina
 ---

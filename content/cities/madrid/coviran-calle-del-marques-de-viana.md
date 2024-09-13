@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /madrid/coviran-calle-del-marques-de-viana/
-shop: Supermarkt
+shop: supermercado
 ---

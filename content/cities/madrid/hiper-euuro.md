@@ -1,5 +1,5 @@
 ---
 title: "Hiper €uro"
 url: /madrid/hiper-euuro/
-shop: Kramladen
+shop: tienda de variedades
 ---

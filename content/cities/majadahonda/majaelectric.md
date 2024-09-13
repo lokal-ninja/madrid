@@ -1,5 +1,5 @@
 ---
 title: "Majaelectric"
 url: /majadahonda/majaelectric/
-shop: Eisenwaren
+shop: hardware
 ---

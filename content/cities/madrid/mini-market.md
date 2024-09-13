@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /madrid/mini-market/
-shop: Handy
+shop: teléfono móvil
 ---

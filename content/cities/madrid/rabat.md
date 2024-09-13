@@ -1,5 +1,5 @@
 ---
 title: "Rabat"
 url: /madrid/rabat/
-shop: Uhren
+shop: relojes
 ---

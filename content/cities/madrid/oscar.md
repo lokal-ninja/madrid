@@ -1,5 +1,5 @@
 ---
 title: "Óscar"
 url: /madrid/oscar/
-shop: Schmuck
+shop: joyería
 ---

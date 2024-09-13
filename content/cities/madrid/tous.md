@@ -1,5 +1,5 @@
 ---
 title: "Tous"
 url: /madrid/tous/
-shop: Schmuck
+shop: joyería
 ---

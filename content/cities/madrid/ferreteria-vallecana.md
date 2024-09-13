@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Vallecana"
 url: /madrid/ferreteria-vallecana/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

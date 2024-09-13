@@ -1,5 +1,5 @@
 ---
 title: "Supermercado"
 url: /getafe/supermercado/
-shop: Kramladen
+shop: tienda de variedades
 ---

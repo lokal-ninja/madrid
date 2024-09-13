@@ -1,5 +1,5 @@
 ---
 title: "Campera Salmantina"
 url: /madrid/campera-salmantina/
-shop: Sport
+shop: deportes
 ---

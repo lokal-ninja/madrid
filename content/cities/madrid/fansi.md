@@ -1,5 +1,5 @@
 ---
 title: "Fansi"
 url: /madrid/fansi/
-shop: Kleidung
+shop: ropa
 ---

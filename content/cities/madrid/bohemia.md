@@ -1,5 +1,5 @@
 ---
 title: "Bohemia"
 url: /madrid/bohemia/
-shop: Kleidung
+shop: ropa
 ---

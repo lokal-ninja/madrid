@@ -1,5 +1,5 @@
 ---
 title: "Alcantara"
 url: /madrid/alcantara/
-shop: Reisebüro
+shop: agencia de viajes
 ---

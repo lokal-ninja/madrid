@@ -1,5 +1,5 @@
 ---
 title: "Julfer"
 url: /madrid/julfer/
-shop: Schmuck
+shop: joyería
 ---

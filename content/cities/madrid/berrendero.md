@@ -1,5 +1,5 @@
 ---
 title: "Berrendero"
 url: /madrid/berrendero/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ruz"
 url: /cercedilla/ruz/
-shop: Schreibwaren
+shop: material de oficina
 ---

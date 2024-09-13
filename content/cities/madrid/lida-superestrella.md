@@ -1,5 +1,5 @@
 ---
 title: "Lida Superestrella"
 url: /madrid/lida-superestrella/
-shop: Kramladen
+shop: tienda de variedades
 ---

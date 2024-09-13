@@ -1,5 +1,5 @@
 ---
 title: "Cathy Nail"
 url: /madrid/cathy-nail/
-shop: Kosmetik
+shop: cosméticos
 ---

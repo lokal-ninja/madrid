@@ -1,5 +1,5 @@
 ---
 title: "Tienda de Caballitos"
 url: /el-escorial/tienda-de-caballitos/
-shop: Blumen
+shop: floristería
 ---

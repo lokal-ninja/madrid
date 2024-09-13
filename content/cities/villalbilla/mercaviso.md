@@ -1,5 +1,5 @@
 ---
 title: "Mercaviso"
 url: /villalbilla/mercaviso/
-shop: Kramladen
+shop: tienda de variedades
 ---

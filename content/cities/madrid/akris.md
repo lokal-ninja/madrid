@@ -1,5 +1,5 @@
 ---
 title: "Akris"
 url: /madrid/akris/
-shop: Immobilien
+shop: agente inmobiliario
 ---

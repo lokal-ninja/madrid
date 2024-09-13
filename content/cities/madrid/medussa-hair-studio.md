@@ -1,5 +1,5 @@
 ---
 title: "Medussa Hair Studio"
 url: /madrid/medussa-hair-studio/
-shop: Friseur
+shop: peluquería
 ---

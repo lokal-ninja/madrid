@@ -1,5 +1,5 @@
 ---
 title: "De Domingo"
 url: /madrid/de-domingo/
-shop: Betten
+shop: cama
 ---

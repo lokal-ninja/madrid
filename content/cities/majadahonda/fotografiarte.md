@@ -1,5 +1,5 @@
 ---
 title: "FotografiArte"
 url: /majadahonda/fotografiarte/
-shop: Foto
+shop: foto
 ---

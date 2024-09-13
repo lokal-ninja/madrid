@@ -1,5 +1,5 @@
 ---
 title: "Cuenllas"
 url: /madrid/cuenllas/
-shop: Lebensmittel
+shop: comodidad
 ---

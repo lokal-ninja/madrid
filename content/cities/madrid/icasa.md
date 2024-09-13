@@ -1,5 +1,5 @@
 ---
 title: "iCasa"
 url: /madrid/icasa/
-shop: Kramladen
+shop: tienda de variedades
 ---

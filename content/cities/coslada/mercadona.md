@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /coslada/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

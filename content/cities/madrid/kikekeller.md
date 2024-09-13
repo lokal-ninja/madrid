@@ -1,5 +1,5 @@
 ---
 title: "Kikekeller"
 url: /madrid/kikekeller/
-shop: Kunst
+shop: arte
 ---

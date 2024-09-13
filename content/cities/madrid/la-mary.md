@@ -1,5 +1,5 @@
 ---
 title: "La Mary"
 url: /madrid/la-mary/
-shop: Allgemein
+shop: general
 ---

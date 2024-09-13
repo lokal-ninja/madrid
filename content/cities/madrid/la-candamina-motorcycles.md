@@ -1,5 +1,5 @@
 ---
 title: "La Candamina Motorcycles"
 url: /madrid/la-candamina-motorcycles/
-shop: Motorrad
+shop: motocicleta
 ---

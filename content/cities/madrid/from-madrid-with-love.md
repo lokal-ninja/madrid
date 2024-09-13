@@ -1,5 +1,5 @@
 ---
 title: "From Madrid With Love"
 url: /madrid/from-madrid-with-love/
-shop: Andenken
+shop: regalo
 ---

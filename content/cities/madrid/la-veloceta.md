@@ -1,5 +1,5 @@
 ---
 title: "La Veloceta"
 url: /madrid/la-veloceta/
-shop: Fahrrad
+shop: bicicleta
 ---

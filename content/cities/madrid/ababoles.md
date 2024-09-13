@@ -1,5 +1,5 @@
 ---
 title: "Ababoles"
 url: /madrid/ababoles/
-shop: Blumen
+shop: floristería
 ---

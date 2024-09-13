@@ -1,5 +1,5 @@
 ---
 title: "Nathaly Novias"
 url: /madrid/nathaly-novias/
-shop: Brautkleider
+shop: vestido de novia
 ---

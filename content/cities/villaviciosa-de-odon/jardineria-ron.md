@@ -1,5 +1,5 @@
 ---
 title: "Jardinería Ron"
 url: /villaviciosa-de-odon/jardineria-ron/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gres Decor"
 url: /brunete/gres-decor/
-shop: Supermarkt
+shop: supermercado
 ---

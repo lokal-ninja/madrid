@@ -1,5 +1,5 @@
 ---
 title: "Motos Norte"
 url: /madrid/motos-norte/
-shop: Motorrad
+shop: motocicleta
 ---

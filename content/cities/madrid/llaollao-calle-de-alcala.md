@@ -1,5 +1,5 @@
 ---
 title: "Llaollao"
 url: /madrid/llaollao-calle-de-alcala/
-shop: Getränke
+shop: bebidas
 ---

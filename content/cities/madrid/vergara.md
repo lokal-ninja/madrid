@@ -1,5 +1,5 @@
 ---
 title: "Vergara"
 url: /madrid/vergara/
-shop: Rahmen
+shop: marco
 ---

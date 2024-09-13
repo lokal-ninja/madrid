@@ -1,5 +1,5 @@
 ---
 title: "Pasteles En Mi Jardín"
 url: /madrid/pasteles-en-mi-jardin/
-shop: Konditorei
+shop: pastelería
 ---

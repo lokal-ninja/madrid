@@ -1,5 +1,5 @@
 ---
 title: "Dideco"
 url: /madrid/dideco/
-shop: Spielzeug
+shop: juguetes
 ---

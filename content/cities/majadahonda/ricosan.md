@@ -1,5 +1,5 @@
 ---
 title: "Ricosan"
 url: /majadahonda/ricosan/
-shop: Grillen
+shop: parrilla
 ---

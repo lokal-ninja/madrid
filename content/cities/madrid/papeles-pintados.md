@@ -1,5 +1,5 @@
 ---
 title: "Papeles pintados"
 url: /madrid/papeles-pintados/
-shop: Raumausstattung
+shop: decoración interior
 ---

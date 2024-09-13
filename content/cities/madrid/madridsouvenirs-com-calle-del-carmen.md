@@ -1,5 +1,5 @@
 ---
 title: "Madridsouvenirs.com"
 url: /madrid/madridsouvenirs-com-calle-del-carmen/
-shop: Andenken
+shop: regalo
 ---

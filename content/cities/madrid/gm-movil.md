@@ -1,5 +1,5 @@
 ---
 title: "GM Móvil"
 url: /madrid/gm-movil/
-shop: Handy
+shop: teléfono móvil
 ---

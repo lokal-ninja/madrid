@@ -1,5 +1,5 @@
 ---
 title: "Renault - Dacia"
 url: /madrid/renault-dacia/
-shop: Autohaus
+shop: coche
 ---

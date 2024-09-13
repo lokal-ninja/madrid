@@ -1,5 +1,5 @@
 ---
 title: "Miga"
 url: /madrid/miga/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madina Frutas y Verduras"
 url: /madrid/madina-frutas-y-verduras/
-shop: Gemüse & Obst
+shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adolfo Dominguez"
 url: /madrid/adolfo-dominguez/
-shop: Kleidung
+shop: ropa
 ---

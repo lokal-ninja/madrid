@@ -1,5 +1,5 @@
 ---
 title: "Montané"
 url: /madrid/montane/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

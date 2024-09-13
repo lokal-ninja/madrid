@@ -1,5 +1,5 @@
 ---
 title: "Decor"
 url: /fuenlabrada/decor/
-shop: Kramladen
+shop: tienda de variedades
 ---

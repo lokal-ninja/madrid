@@ -1,5 +1,5 @@
 ---
 title: "Charro"
 url: /madrid/charro/
-shop: Kleidung
+shop: ropa
 ---

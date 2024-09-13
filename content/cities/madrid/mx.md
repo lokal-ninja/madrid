@@ -1,5 +1,5 @@
 ---
 title: "Mx"
 url: /madrid/mx/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

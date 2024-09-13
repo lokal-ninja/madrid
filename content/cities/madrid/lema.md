@@ -1,5 +1,5 @@
 ---
 title: "Lema"
 url: /madrid/lema/
-shop: Lebensmittel
+shop: comodidad
 ---

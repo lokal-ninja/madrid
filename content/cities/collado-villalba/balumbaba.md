@@ -1,5 +1,5 @@
 ---
 title: "Balumbaba"
 url: /collado-villalba/balumbaba/
-shop: Kleidung
+shop: ropa
 ---

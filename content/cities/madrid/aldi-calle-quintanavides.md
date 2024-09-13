@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /madrid/aldi-calle-quintanavides/
-shop: Supermarkt
+shop: supermercado
 ---

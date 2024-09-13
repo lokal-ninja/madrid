@@ -1,5 +1,5 @@
 ---
 title: "Maty"
 url: /madrid/maty/
-shop: Kleidung
+shop: ropa
 ---

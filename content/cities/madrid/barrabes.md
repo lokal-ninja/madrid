@@ -1,5 +1,5 @@
 ---
 title: "Barrabes"
 url: /madrid/barrabes/
-shop: Outdoor
+shop: exterior
 ---

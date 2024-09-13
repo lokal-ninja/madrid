@@ -1,5 +1,5 @@
 ---
 title: "Montera Moda"
 url: /madrid/montera-moda/
-shop: Kleidung
+shop: ropa
 ---

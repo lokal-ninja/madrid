@@ -1,5 +1,5 @@
 ---
 title: "Primavera"
 url: /madrid/primavera/
-shop: Gemüse & Obst
+shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supeco"
 url: /alcorcon/supeco/
-shop: Supermarkt
+shop: supermercado
 ---

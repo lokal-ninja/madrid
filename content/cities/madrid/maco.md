@@ -1,5 +1,5 @@
 ---
 title: "Maco"
 url: /madrid/maco/
-shop: Raumausstattung
+shop: decoración interior
 ---

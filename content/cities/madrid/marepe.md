@@ -1,5 +1,5 @@
 ---
 title: "Marepe"
 url: /madrid/marepe/
-shop: Schreibwaren
+shop: material de oficina
 ---

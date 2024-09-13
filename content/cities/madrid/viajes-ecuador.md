@@ -1,5 +1,5 @@
 ---
 title: "Viajes Ecuador"
 url: /madrid/viajes-ecuador/
-shop: Reisebüro
+shop: agencia de viajes
 ---

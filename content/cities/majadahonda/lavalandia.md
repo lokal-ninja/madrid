@@ -1,5 +1,5 @@
 ---
 title: "Lavalandia"
 url: /majadahonda/lavalandia/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazar Multiprecio"
 url: /madrid/bazar-multiprecio/
-shop: Lebensmittel
+shop: comodidad
 ---

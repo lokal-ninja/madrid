@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
 url: /alcorcon/bauhaus/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

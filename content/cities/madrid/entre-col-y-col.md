@@ -1,5 +1,5 @@
 ---
 title: "Entre Col y Col"
 url: /madrid/entre-col-y-col/
-shop: Gemüse & Obst
+shop: frutería
 ---

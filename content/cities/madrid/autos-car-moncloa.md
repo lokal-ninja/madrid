@@ -1,5 +1,5 @@
 ---
 title: "Autos Car Moncloa"
 url: /madrid/autos-car-moncloa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

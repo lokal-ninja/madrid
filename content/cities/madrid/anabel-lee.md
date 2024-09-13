@@ -1,5 +1,5 @@
 ---
 title: "Anabel Lee"
 url: /madrid/anabel-lee/
-shop: Kleidung
+shop: ropa
 ---

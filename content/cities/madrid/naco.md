@@ -1,5 +1,5 @@
 ---
 title: "Ñaco"
 url: /madrid/naco/
-shop: Kleidung
+shop: ropa
 ---

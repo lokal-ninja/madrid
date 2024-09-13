@@ -1,5 +1,5 @@
 ---
 title: "Patio"
 url: /madrid/patio/
-shop: Blumen
+shop: floristería
 ---

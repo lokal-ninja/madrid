@@ -1,5 +1,5 @@
 ---
 title: "Havaianas"
 url: /madrid/havaianas/
-shop: Schuhe
+shop: zapatos
 ---

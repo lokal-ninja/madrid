@@ -1,5 +1,5 @@
 ---
 title: "Cremades"
 url: /madrid/cremades/
-shop: Schuhe
+shop: zapatos
 ---

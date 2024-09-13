@@ -1,5 +1,5 @@
 ---
 title: "Serbal"
 url: /madrid/serbal/
-shop: Waffen
+shop: armas
 ---

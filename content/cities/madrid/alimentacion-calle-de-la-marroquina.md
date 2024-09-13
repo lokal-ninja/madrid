@@ -1,5 +1,5 @@
 ---
 title: "Alimentación"
 url: /madrid/alimentacion-calle-de-la-marroquina/
-shop: Lebensmittel
+shop: comodidad
 ---

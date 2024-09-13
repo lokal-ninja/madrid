@@ -1,5 +1,5 @@
 ---
 title: "Lexus - El Plantío"
 url: /madrid/lexus-el-plantio/
-shop: Autohaus
+shop: coche
 ---

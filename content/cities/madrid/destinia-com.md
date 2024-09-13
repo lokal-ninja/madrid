@@ -1,5 +1,5 @@
 ---
 title: "Destinia.com"
 url: /madrid/destinia-com/
-shop: Reisebüro
+shop: agencia de viajes
 ---

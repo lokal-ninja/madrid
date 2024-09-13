@@ -1,5 +1,5 @@
 ---
 title: "globalpiso"
 url: /madrid/globalpiso/
-shop: Immobilien
+shop: agente inmobiliario
 ---

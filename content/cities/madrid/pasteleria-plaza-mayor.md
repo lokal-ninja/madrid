@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Plaza Mayor"
 url: /madrid/pasteleria-plaza-mayor/
-shop: Süßwaren
+shop: confitería
 ---

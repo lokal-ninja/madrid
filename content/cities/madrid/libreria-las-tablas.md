@@ -1,5 +1,5 @@
 ---
 title: "Librería Las Tablas"
 url: /madrid/libreria-las-tablas/
-shop: Bücher
+shop: libros
 ---

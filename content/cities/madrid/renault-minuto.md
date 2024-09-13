@@ -1,5 +1,5 @@
 ---
 title: "Renault minuto"
 url: /madrid/renault-minuto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

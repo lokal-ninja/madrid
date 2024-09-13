@@ -1,5 +1,5 @@
 ---
 title: "Afiloteca"
 url: /madrid/afiloteca/
-shop: Küchen
+shop: cocina
 ---

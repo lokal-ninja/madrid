@@ -1,5 +1,5 @@
 ---
 title: "TodoNenes"
 url: /villaviciosa-de-odon/todonenes/
-shop: Babysachen
+shop: artículos para bebés
 ---

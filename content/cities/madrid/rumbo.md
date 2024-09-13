@@ -1,5 +1,5 @@
 ---
 title: "Rumbo"
 url: /madrid/rumbo/
-shop: Schuhe
+shop: zapatos
 ---

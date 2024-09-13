@@ -1,5 +1,5 @@
 ---
 title: "Harina"
 url: /madrid/harina/
-shop: Bäckerei
+shop: panadería
 ---

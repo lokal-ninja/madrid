@@ -1,5 +1,5 @@
 ---
 title: "Corazón Salvaje"
 url: /madrid/corazon-salvaje/
-shop: Tattoo
+shop: tatuaje
 ---

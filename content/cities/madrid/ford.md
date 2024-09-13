@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /madrid/ford/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

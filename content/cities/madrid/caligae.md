@@ -1,5 +1,5 @@
 ---
 title: "Caligae"
 url: /madrid/caligae/
-shop: Schuhe
+shop: zapatos
 ---

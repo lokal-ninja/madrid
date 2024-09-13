@@ -1,5 +1,5 @@
 ---
 title: "Carmauto"
 url: /rivas-vaciamadrid/carmauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

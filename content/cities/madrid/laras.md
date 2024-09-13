@@ -1,5 +1,5 @@
 ---
 title: "Laras"
 url: /madrid/laras/
-shop: Friseur
+shop: peluquería
 ---

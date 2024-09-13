@@ -1,5 +1,5 @@
 ---
 title: "Chabeli"
 url: /navacerrada/chabeli/
-shop: Friseur
+shop: peluquería
 ---

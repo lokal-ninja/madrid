@@ -1,5 +1,5 @@
 ---
 title: "VPT"
 url: /madrid/vpt/
-shop: Reisebüro
+shop: agencia de viajes
 ---

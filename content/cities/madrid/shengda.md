@@ -1,5 +1,5 @@
 ---
 title: "Shengda"
 url: /madrid/shengda/
-shop: Kramladen
+shop: tienda de variedades
 ---

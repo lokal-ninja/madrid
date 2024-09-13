@@ -1,5 +1,5 @@
 ---
 title: "Talleres Jurado"
 url: /madrid/talleres-jurado/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

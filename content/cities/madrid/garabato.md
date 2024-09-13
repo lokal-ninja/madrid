@@ -1,5 +1,5 @@
 ---
 title: "Garabato"
 url: /madrid/garabato/
-shop: Friseur
+shop: peluquería
 ---

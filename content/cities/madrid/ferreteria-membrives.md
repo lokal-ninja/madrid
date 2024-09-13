@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Membrives"
 url: /madrid/ferreteria-membrives/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talleres Alpi"
 url: /madrid/talleres-alpi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

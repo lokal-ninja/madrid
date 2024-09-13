@@ -1,5 +1,5 @@
 ---
 title: "Concesionario Citroën"
 url: /majadahonda/concesionario-citroen/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kling"
 url: /madrid/kling/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería David"
 url: /madrid/panaderia-david/
-shop: Bäckerei
+shop: panadería
 ---

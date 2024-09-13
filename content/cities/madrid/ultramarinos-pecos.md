@@ -1,5 +1,5 @@
 ---
 title: "Ultramarinos Pecos"
 url: /madrid/ultramarinos-pecos/
-shop: Lebensmittel
+shop: comodidad
 ---

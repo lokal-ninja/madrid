@@ -1,5 +1,5 @@
 ---
 title: "Klouvi"
 url: /madrid/klouvi/
-shop: Basteln
+shop: artesanía
 ---

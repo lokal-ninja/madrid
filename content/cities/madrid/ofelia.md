@@ -1,5 +1,5 @@
 ---
 title: "Ofelia"
 url: /madrid/ofelia/
-shop: Spielzeug
+shop: juguetes
 ---

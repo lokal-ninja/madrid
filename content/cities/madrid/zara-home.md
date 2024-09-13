@@ -1,5 +1,5 @@
 ---
 title: "Zara Home"
 url: /madrid/zara-home/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amantis"
 url: /madrid/amantis/
-shop: Erotik
+shop: erótico
 ---

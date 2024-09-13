@@ -1,5 +1,5 @@
 ---
 title: "Rafael Zapaterías"
 url: /madrid/rafael-zapaterias/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Degussa"
 url: /madrid/degussa/
-shop: Schmuck
+shop: joyería
 ---

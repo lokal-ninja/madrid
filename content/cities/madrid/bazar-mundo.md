@@ -1,5 +1,5 @@
 ---
 title: "Bazar Mundo"
 url: /madrid/bazar-mundo/
-shop: Kramladen
+shop: tienda de variedades
 ---

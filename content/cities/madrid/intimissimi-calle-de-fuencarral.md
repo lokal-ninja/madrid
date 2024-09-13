@@ -1,5 +1,5 @@
 ---
 title: "Intimissimi"
 url: /madrid/intimissimi-calle-de-fuencarral/
-shop: Kleidung
+shop: ropa
 ---

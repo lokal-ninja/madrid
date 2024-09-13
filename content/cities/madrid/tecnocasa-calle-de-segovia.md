@@ -1,5 +1,5 @@
 ---
 title: "Tecnocasa"
 url: /madrid/tecnocasa-calle-de-segovia/
-shop: Immobilien
+shop: agente inmobiliario
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brico Dépôt"
 url: /alcala-de-henares/brico-depot/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /collado-villalba/ahorramas/
-shop: Supermarkt
+shop: supermercado
 ---

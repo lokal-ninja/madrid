@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /alcala-de-henares/action/
-shop: Kramladen
+shop: tienda de variedades
 ---

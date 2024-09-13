@@ -1,5 +1,5 @@
 ---
 title: "Mere"
 url: /madrid/mere/
-shop: Kleidung
+shop: ropa
 ---

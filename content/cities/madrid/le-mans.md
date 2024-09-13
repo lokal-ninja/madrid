@@ -1,5 +1,5 @@
 ---
 title: "Le Mans"
 url: /madrid/le-mans/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

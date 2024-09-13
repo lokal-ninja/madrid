@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /madrid/dia-calle-del-doctor-casal/
-shop: Supermarkt
+shop: supermercado
 ---

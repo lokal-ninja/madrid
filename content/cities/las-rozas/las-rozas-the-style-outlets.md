@@ -1,5 +1,5 @@
 ---
 title: "Las Rozas The Style Outlets"
 url: /las-rozas/las-rozas-the-style-outlets/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

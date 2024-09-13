@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /leganes/renault/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madrueño"
 url: /madrid/madrueno/
-shop: Spirituosen
+shop: alcohol
 ---

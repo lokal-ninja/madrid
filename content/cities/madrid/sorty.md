@@ -1,5 +1,5 @@
 ---
 title: "Sorty"
 url: /madrid/sorty/
-shop: Kleidung
+shop: ropa
 ---

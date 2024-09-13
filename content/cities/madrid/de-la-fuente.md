@@ -1,5 +1,5 @@
 ---
 title: "De la Fuente"
 url: /madrid/de-la-fuente/
-shop: Blumen
+shop: floristería
 ---

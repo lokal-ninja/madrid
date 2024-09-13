@@ -1,5 +1,5 @@
 ---
 title: "Padilla"
 url: /madrid/padilla/
-shop: Parfümerie
+shop: perfumería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /pinto/ahorramas/
-shop: Supermarkt
+shop: supermercado
 ---

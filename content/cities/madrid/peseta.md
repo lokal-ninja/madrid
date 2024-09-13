@@ -1,5 +1,5 @@
 ---
 title: "peSeta"
 url: /madrid/peseta/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

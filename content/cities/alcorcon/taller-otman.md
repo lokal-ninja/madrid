@@ -1,5 +1,5 @@
 ---
 title: "Taller Otman"
 url: /alcorcon/taller-otman/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

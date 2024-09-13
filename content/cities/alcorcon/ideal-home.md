@@ -1,5 +1,5 @@
 ---
 title: "IDEAL HOME"
 url: /alcorcon/ideal-home/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

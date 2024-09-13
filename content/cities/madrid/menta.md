@@ -1,5 +1,5 @@
 ---
 title: "Menta"
 url: /madrid/menta/
-shop: Kosmetik
+shop: cosméticos
 ---

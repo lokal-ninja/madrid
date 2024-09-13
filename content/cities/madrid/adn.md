@@ -1,5 +1,5 @@
 ---
 title: "ADN"
 url: /madrid/adn/
-shop: Friseur
+shop: peluquería
 ---

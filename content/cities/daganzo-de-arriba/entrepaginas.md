@@ -1,5 +1,5 @@
 ---
 title: "Entrepáginas"
 url: /daganzo-de-arriba/entrepaginas/
-shop: Schreibwaren
+shop: material de oficina
 ---

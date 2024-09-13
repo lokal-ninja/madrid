@@ -1,5 +1,5 @@
 ---
 title: "Talleres Bascón, SL"
 url: /madrid/talleres-bascon-sl/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

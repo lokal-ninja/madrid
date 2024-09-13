@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /mostoles/carrefour-express/
-shop: Supermarkt
+shop: supermercado
 ---

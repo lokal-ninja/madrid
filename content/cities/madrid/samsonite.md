@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /madrid/samsonite/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

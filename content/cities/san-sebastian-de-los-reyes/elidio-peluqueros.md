@@ -1,5 +1,5 @@
 ---
 title: "Elidio Peluqueros"
 url: /san-sebastian-de-los-reyes/elidio-peluqueros/
-shop: Friseur
+shop: peluquería
 ---

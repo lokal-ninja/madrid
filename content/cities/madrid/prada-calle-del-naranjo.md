@@ -1,5 +1,5 @@
 ---
 title: "Prada"
 url: /madrid/prada-calle-del-naranjo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

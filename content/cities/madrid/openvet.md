@@ -1,5 +1,5 @@
 ---
 title: "Openvet"
 url: /madrid/openvet/
-shop: Tiere
+shop: mascotas
 ---

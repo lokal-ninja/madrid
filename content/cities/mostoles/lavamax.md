@@ -1,5 +1,5 @@
 ---
 title: "Lavamax"
 url: /mostoles/lavamax/
-shop: Wäscherei
+shop: lavandería
 ---

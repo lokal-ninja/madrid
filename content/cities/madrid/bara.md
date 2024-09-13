@@ -1,5 +1,5 @@
 ---
 title: "Bara"
 url: /madrid/bara/
-shop: Parfümerie
+shop: perfumería
 ---

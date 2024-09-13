@@ -1,5 +1,5 @@
 ---
 title: "Zeiss"
 url: /madrid/zeiss/
-shop: Optiker
+shop: óptico
 ---

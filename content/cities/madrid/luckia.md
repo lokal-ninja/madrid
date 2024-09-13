@@ -1,5 +1,5 @@
 ---
 title: "Luckia"
 url: /madrid/luckia/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

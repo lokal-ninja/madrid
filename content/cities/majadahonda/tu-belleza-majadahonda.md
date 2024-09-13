@@ -1,5 +1,5 @@
 ---
 title: "Tu Belleza Majadahonda"
 url: /majadahonda/tu-belleza-majadahonda/
-shop: Kosmetik
+shop: cosméticos
 ---

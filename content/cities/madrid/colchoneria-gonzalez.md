@@ -1,5 +1,5 @@
 ---
 title: "Colchonería González"
 url: /madrid/colchoneria-gonzalez/
-shop: Betten
+shop: cama
 ---

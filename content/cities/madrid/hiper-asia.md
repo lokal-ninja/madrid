@@ -1,5 +1,5 @@
 ---
 title: "Hiper Asia"
 url: /madrid/hiper-asia/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HØSTEN"
 url: /madrid/hosten/
-shop: Raumausstattung
+shop: decoración interior
 ---

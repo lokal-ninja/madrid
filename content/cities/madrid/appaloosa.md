@@ -1,5 +1,5 @@
 ---
 title: "Appaloosa"
 url: /madrid/appaloosa/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tumitienda"
 url: /madrid/tumitienda/
-shop: Kramladen
+shop: tienda de variedades
 ---

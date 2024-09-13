@@ -1,5 +1,5 @@
 ---
 title: "Enrique"
 url: /getafe/enrique/
-shop: Metzgerei
+shop: carnicero
 ---

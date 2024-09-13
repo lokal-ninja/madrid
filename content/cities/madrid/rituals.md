@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /madrid/rituals/
-shop: Kosmetik
+shop: cosméticos
 ---

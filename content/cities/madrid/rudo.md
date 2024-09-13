@@ -1,5 +1,5 @@
 ---
 title: "Rudo."
 url: /madrid/rudo/
-shop: Getränke
+shop: bebidas
 ---

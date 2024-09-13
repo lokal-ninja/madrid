@@ -1,5 +1,5 @@
 ---
 title: "Tomé Shoemaker"
 url: /madrid/tome-shoemaker/
-shop: Schuhe
+shop: zapatos
 ---

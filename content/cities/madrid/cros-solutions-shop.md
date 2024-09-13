@@ -1,5 +1,5 @@
 ---
 title: "Cros Solutions Shop"
 url: /madrid/cros-solutions-shop/
-shop: Computer
+shop: ordenador
 ---

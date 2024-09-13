@@ -1,5 +1,5 @@
 ---
 title: "Sybarite"
 url: /madrid/sybarite/
-shop: Kosmetik
+shop: cosméticos
 ---

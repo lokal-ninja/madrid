@@ -1,5 +1,5 @@
 ---
 title: "Marilians"
 url: /madrid/marilians/
-shop: Musik
+shop: música
 ---

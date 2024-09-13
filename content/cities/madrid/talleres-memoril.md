@@ -1,5 +1,5 @@
 ---
 title: "Talleres Memoril"
 url: /madrid/talleres-memoril/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

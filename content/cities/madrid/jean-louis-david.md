@@ -1,5 +1,5 @@
 ---
 title: "Jean Louis David"
 url: /madrid/jean-louis-david/
-shop: Kosmetik
+shop: cosméticos
 ---

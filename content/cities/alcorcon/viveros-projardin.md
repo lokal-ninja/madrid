@@ -1,5 +1,5 @@
 ---
 title: "Viveros Projardín"
 url: /alcorcon/viveros-projardin/
-shop: Garten-Center
+shop: centro de jardinería
 ---

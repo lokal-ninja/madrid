@@ -1,5 +1,5 @@
 ---
 title: "Diego"
 url: /madrid/diego/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

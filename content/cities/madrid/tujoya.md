@@ -1,5 +1,5 @@
 ---
 title: "Tujoya"
 url: /madrid/tujoya/
-shop: Schmuck
+shop: joyería
 ---

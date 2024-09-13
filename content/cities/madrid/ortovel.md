@@ -1,5 +1,5 @@
 ---
 title: "Ortovel"
 url: /madrid/ortovel/
-shop: Schuhe
+shop: zapatos
 ---

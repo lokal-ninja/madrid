@@ -1,5 +1,5 @@
 ---
 title: "Taller Oficial Toyota - Supra Gamboa"
 url: /madrid/taller-oficial-toyota-supra-gamboa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carisal"
 url: /madrid/carisal/
-shop: Kleidung
+shop: ropa
 ---

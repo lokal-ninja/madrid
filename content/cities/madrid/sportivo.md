@@ -1,5 +1,5 @@
 ---
 title: "Sportivo"
 url: /madrid/sportivo/
-shop: Kleidung
+shop: ropa
 ---

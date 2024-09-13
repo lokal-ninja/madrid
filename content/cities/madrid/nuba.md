@@ -1,5 +1,5 @@
 ---
 title: "Nuba"
 url: /madrid/nuba/
-shop: Reisebüro
+shop: agencia de viajes
 ---

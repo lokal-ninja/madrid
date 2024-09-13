@@ -1,5 +1,5 @@
 ---
 title: "Headbanger"
 url: /madrid/headbanger/
-shop: Instrumente
+shop: instrumento musical
 ---

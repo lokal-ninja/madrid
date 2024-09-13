@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Barrio"
 url: /madrid/alimentacion-barrio/
-shop: Metzgerei
+shop: carnicero
 ---

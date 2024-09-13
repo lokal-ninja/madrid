@@ -1,5 +1,5 @@
 ---
 title: "Dermasana"
 url: /majadahonda/dermasana/
-shop: Kosmetik
+shop: cosméticos
 ---

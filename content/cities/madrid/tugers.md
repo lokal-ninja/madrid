@@ -1,5 +1,5 @@
 ---
 title: "Tugers"
 url: /madrid/tugers/
-shop: Schuhe
+shop: zapatos
 ---

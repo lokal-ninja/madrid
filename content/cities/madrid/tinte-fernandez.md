@@ -1,5 +1,5 @@
 ---
 title: "Tinte Fernández"
 url: /madrid/tinte-fernandez/
-shop: Wäscherei
+shop: lavandería
 ---

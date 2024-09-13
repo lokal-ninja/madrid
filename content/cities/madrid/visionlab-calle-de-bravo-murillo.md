@@ -1,5 +1,5 @@
 ---
 title: "Visionlab"
 url: /madrid/visionlab-calle-de-bravo-murillo/
-shop: Optiker
+shop: óptico
 ---

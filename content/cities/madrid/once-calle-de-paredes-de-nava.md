@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
 url: /madrid/once-calle-de-paredes-de-nava/
-shop: Lotterie
+shop: lotería
 ---

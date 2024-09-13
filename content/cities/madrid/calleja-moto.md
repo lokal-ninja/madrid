@@ -1,5 +1,5 @@
 ---
 title: "Calleja Moto"
 url: /madrid/calleja-moto/
-shop: Outdoor
+shop: exterior
 ---

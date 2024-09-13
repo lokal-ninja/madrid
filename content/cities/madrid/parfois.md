@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
 url: /madrid/parfois/
-shop: Modehaus
+shop: tienda
 ---

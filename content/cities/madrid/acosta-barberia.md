@@ -1,5 +1,5 @@
 ---
 title: "Acosta Barberia"
 url: /madrid/acosta-barberia/
-shop: Friseur
+shop: peluquería
 ---

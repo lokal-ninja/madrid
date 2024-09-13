@@ -1,5 +1,5 @@
 ---
 title: "Delipapel"
 url: /madrid/delipapel/
-shop: Schreibwaren
+shop: material de oficina
 ---

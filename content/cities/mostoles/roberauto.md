@@ -1,5 +1,5 @@
 ---
 title: "RoberAuto"
 url: /mostoles/roberauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

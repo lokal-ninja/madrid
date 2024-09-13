@@ -1,5 +1,5 @@
 ---
 title: "Hiper Bazar"
 url: /madrid/hiper-bazar/
-shop: Kramladen
+shop: tienda de variedades
 ---

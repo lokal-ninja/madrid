@@ -1,5 +1,5 @@
 ---
 title: "Viajes Delicias"
 url: /madrid/viajes-delicias/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /madrid/clarel/
-shop: Drogerie
+shop: farmacia
 ---

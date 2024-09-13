@@ -1,5 +1,5 @@
 ---
 title: "Colchonerías Cuesta"
 url: /madrid/colchonerias-cuesta/
-shop: Möbel
+shop: muebles
 ---

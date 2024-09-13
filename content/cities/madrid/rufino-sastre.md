@@ -1,5 +1,5 @@
 ---
 title: "Rufino Sastre"
 url: /madrid/rufino-sastre/
-shop: Kleidung
+shop: ropa
 ---

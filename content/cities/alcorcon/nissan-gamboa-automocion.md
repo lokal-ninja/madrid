@@ -1,5 +1,5 @@
 ---
 title: "Nissan Gamboa Automoción"
 url: /alcorcon/nissan-gamboa-automocion/
-shop: Autohaus
+shop: coche
 ---

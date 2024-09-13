@@ -1,5 +1,5 @@
 ---
 title: "Julio Fernández"
 url: /madrid/julio-fernandez/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

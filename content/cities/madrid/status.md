@@ -1,5 +1,5 @@
 ---
 title: "Status"
 url: /madrid/status/
-shop: Friseur
+shop: peluquería
 ---

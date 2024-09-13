@@ -1,5 +1,5 @@
 ---
 title: "La Cata Alta de Extremadura"
 url: /madrid/la-cata-alta-de-extremadura/
-shop: Allgemein
+shop: general
 ---

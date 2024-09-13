@@ -1,5 +1,5 @@
 ---
 title: "meet,"
 url: /madrid/meet/
-shop: Kleidung
+shop: ropa
 ---

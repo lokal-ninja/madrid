@@ -1,5 +1,5 @@
 ---
 title: "La Boutique de la Oficina"
 url: /madrid/la-boutique-de-la-oficina/
-shop: Schreibwaren
+shop: material de oficina
 ---

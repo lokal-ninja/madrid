@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /madrid/alcampo-avenida-de-nuestra-senora-de-fatima/
-shop: Supermarkt
+shop: supermercado
 ---

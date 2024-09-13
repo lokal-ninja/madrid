@@ -1,5 +1,5 @@
 ---
 title: "Luis Castrillo"
 url: /madrid/luis-castrillo/
-shop: Kopieren
+shop: copyshop
 ---

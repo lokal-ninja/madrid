@@ -1,5 +1,5 @@
 ---
 title: "Delaviuda"
 url: /madrid/delaviuda/
-shop: Süßwaren
+shop: confitería
 ---

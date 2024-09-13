@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
 url: /madrid/bazar/
-shop: Lebensmittel
+shop: comodidad
 ---

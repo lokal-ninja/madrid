@@ -1,5 +1,5 @@
 ---
 title: "El Alberche"
 url: /madrid/el-alberche/
-shop: Metzgerei
+shop: carnicero
 ---

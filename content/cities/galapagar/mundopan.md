@@ -1,5 +1,5 @@
 ---
 title: "Mundopán"
 url: /galapagar/mundopan/
-shop: Bäckerei
+shop: panadería
 ---

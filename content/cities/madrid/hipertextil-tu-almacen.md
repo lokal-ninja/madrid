@@ -1,5 +1,5 @@
 ---
 title: "Hipertextil Tu Almacén"
 url: /madrid/hipertextil-tu-almacen/
-shop: Kleidung
+shop: ropa
 ---

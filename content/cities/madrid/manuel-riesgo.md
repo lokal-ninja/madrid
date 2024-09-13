@@ -1,5 +1,5 @@
 ---
 title: "Manuel Riesgo"
 url: /madrid/manuel-riesgo/
-shop: Drogerie
+shop: farmacia
 ---

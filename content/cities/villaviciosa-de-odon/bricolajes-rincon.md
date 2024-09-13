@@ -1,5 +1,5 @@
 ---
 title: "Bricolajes Rincón"
 url: /villaviciosa-de-odon/bricolajes-rincon/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

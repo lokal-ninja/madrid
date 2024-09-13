@@ -1,5 +1,5 @@
 ---
 title: "Olofane"
 url: /madrid/olofane/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

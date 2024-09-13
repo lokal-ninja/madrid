@@ -1,5 +1,5 @@
 ---
 title: "La Alhambra"
 url: /madrid/la-alhambra/
-shop: Metzgerei
+shop: carnicero
 ---

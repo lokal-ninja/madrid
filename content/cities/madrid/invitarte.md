@@ -1,5 +1,5 @@
 ---
 title: "Invitarte"
 url: /madrid/invitarte/
-shop: Brautkleider
+shop: vestido de novia
 ---

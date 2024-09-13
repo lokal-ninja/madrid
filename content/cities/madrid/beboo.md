@@ -1,5 +1,5 @@
 ---
 title: "beboo"
 url: /madrid/beboo/
-shop: Kosmetik
+shop: cosméticos
 ---
