@@ -4,8 +4,8 @@ latitude: 40.42879
 longitude: -3.60657
 postcode: "28022"
 city: Madrid
-street: "Calle de Mánchester"
-housenumber: 4
+street: Calle de Mánchester
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 07:30-15:00"
+opening_hours: Mo-Su 07:30-15:00
 website: ""

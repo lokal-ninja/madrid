@@ -4,8 +4,8 @@ latitude: 40.32935
 longitude: -3.83685
 postcode: "28922"
 city: Alcorcon
-street: "Calle Mediterráneo"
-housenumber: 9
-phone: "+34 900902466"
-opening_hours: "Mo-Sa 09:00-21:30;Su 10:00-21:00"
-website: "https://www.aldi.es/"
+street: Calle Mediterráneo
+housenumber: "9"
+phone: +34 900902466
+opening_hours: Mo-Sa 09:00-21:30;Su 10:00-21:00
+website: https://www.aldi.es/

@@ -4,8 +4,8 @@ latitude: 40.40406
 longitude: -3.6551
 postcode: "28038"
 city: Madrid
-street: "Calle de la Cerámica"
-housenumber: 88
+street: Calle de la Cerámica
+housenumber: "88"
 phone: ""
 opening_hours: ""
-website: "https://ferreteriaortiz.es"
+website: https://ferreteriaortiz.es

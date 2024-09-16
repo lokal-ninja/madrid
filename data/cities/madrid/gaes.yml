@@ -4,8 +4,8 @@ latitude: 40.40784
 longitude: -3.64628
 postcode: "28030"
 city: Madrid
-street: "Avenida de Moratalaz"
-housenumber: 181
+street: Avenida de Moratalaz
+housenumber: "181"
 phone: ""
-opening_hours: "Mo-Fr 09:30-14:00, 16:30-20:00"
+opening_hours: Mo-Fr 09:30-14:00, 16:30-20:00
 website: ""

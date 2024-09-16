@@ -1,11 +1,11 @@
 id: 373312865
-type: way
+type: node
 latitude: 40.38139
 longitude: -3.66445
 postcode: "28018"
 city: Madrid
-street: "Avenida de Pablo Neruda"
-housenumber: 91
-phone: "+34 91 507 97 20"
+street: Avenida de Pablo Neruda
+housenumber: "91"
+phone: +34 91 507 97 20
 opening_hours: ""
-website: "https://ccmadridsur.es/"
+website: https://ccmadridsur.es/

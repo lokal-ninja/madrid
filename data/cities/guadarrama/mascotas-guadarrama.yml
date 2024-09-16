@@ -1,11 +1,11 @@
 id: 765258743
-type: way
+type: node
 latitude: 40.67524
 longitude: -4.08704
 postcode: "28440"
 city: Guadarrama
-street: "Plaza Monteleón"
-housenumber: 1
-phone: "+34 918 54 75 20"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00"
-website: "https://mascotasguadarrama.com/"
+street: Plaza Monteleón
+housenumber: "1"
+phone: +34 918 54 75 20
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00
+website: https://mascotasguadarrama.com/

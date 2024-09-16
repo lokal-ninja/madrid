@@ -1,11 +1,11 @@
 id: 382474426
-type: way
+type: node
 latitude: 40.49343
 longitude: -3.34002
 postcode: "28805"
 city: Alcalá de Henares
-street: "Calle Melilla"
-housenumber: 55
+street: Calle Melilla
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

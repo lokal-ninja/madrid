@@ -1,11 +1,11 @@
 id: 35091106
-type: way
+type: node
 latitude: 40.28142
 longitude: -3.74822
 postcode: "28905"
 city: Getafe
-street: "Calle Islas Cíes"
-housenumber: 1
+street: Calle Islas Cíes
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://grupo4.eu/m50/"
+website: https://grupo4.eu/m50/

@@ -4,8 +4,8 @@ latitude: 40.40361
 longitude: -3.71475
 postcode: "28005"
 city: Madrid
-street: "Paseo de Juan Antonio Vallejo-Nájera Botas"
-housenumber: 55
-phone: "+34 911 542 054;+34 625 635 423"
-opening_hours: "Mo-Sa 09:00-14:00, 17:00-20:00"
-website: "https://vukbikes.com/"
+street: Paseo de Juan Antonio Vallejo-Nájera Botas
+housenumber: "55"
+phone: +34 911 542 054;+34 625 635 423
+opening_hours: Mo-Sa 09:00-14:00, 17:00-20:00
+website: https://vukbikes.com/

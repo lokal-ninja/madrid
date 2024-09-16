@@ -4,8 +4,8 @@ latitude: 40.41896
 longitude: -3.70095
 postcode: "28013"
 city: Madrid
-street: "Calle de los Jardines"
-housenumber: 11
+street: Calle de los Jardines
+housenumber: "11"
 phone: "+34914557537"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://lockandbefree.com/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://lockandbefree.com/

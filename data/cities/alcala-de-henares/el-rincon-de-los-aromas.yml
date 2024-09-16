@@ -4,8 +4,9 @@ latitude: 40.48462
 longitude: -3.35847
 postcode: "28805"
 city: Alcalá de Henares
-street: "Ronda Ancha"
-housenumber: 4
+street: Ronda Ancha
+housenumber: "4"
 phone: ""
-opening_hours: "May-Oct: Mo-Fr 10:00-14:00,17:30-20:30; May-Oct: Sa 10:30-14:00; Aug: 17:30-20:30 off; Nov-Apr: Mo-Fr 10:00-14:00,17:00-20:30; Nov-Apr: Sa 10:30-14:00"
+opening_hours: 'May-Oct: Mo-Fr 10:00-14:00,17:30-20:30; May-Oct: Sa 10:30-14:00; Aug:
+    17:30-20:30 off; Nov-Apr: Mo-Fr 10:00-14:00,17:00-20:30; Nov-Apr: Sa 10:30-14:00'
 website: ""

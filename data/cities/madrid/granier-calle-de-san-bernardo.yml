@@ -4,8 +4,8 @@ latitude: 40.42213
 longitude: -3.70766
 postcode: "28015"
 city: Madrid
-street: "Calle de San Bernardo"
-housenumber: 10
+street: Calle de San Bernardo
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://pansgranier.com/"
+website: https://pansgranier.com/

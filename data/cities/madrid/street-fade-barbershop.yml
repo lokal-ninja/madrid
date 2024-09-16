@@ -4,8 +4,8 @@ latitude: 40.41375
 longitude: -3.70683
 postcode: "28012"
 city: Madrid
-street: "Calle de la Concepción Jerónima"
-housenumber: 29
+street: Calle de la Concepción Jerónima
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Th,Fr,Sa 10:00-20:00,10:00-21:00,10:00-18:00"
+opening_hours: Mo-Th,Fr,Sa 10:00-20:00,10:00-21:00,10:00-18:00
 website: ""

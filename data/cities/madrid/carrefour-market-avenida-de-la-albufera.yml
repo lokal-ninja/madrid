@@ -4,8 +4,8 @@ latitude: 40.39784
 longitude: -3.66805
 postcode: "28038"
 city: Madrid
-street: "Avenida de la Albufera"
-housenumber: 9
+street: Avenida de la Albufera
+housenumber: "9"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.carrefour.es/_includes/redirect.aspx?tcmUri=tcm:5-4188"
+opening_hours: 24/7
+website: https://www.carrefour.es/_includes/redirect.aspx?tcmUri=tcm:5-4188

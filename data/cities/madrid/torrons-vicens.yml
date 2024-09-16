@@ -4,8 +4,8 @@ latitude: 40.41597
 longitude: -3.70833
 postcode: "28013"
 city: Madrid
-street: "Calle Mayor"
-housenumber: 43
+street: Calle Mayor
+housenumber: "43"
 phone: ""
-opening_hours: "PH,Mo-Su 10:00-22:00"
+opening_hours: PH,Mo-Su 10:00-22:00
 website: ""

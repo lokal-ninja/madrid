@@ -1,11 +1,11 @@
 id: 1022776097
-type: way
+type: node
 latitude: 40.45804
 longitude: -3.80054
 postcode: "28224"
 city: Pozuelo de Alarcón
-street: "Travesía de Peñalara"
-housenumber: 1
+street: Travesía de Peñalara
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

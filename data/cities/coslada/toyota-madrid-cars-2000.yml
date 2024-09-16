@@ -1,11 +1,11 @@
 id: 187923040
-type: way
+type: node
 latitude: 40.43788
 longitude: -3.53212
 postcode: ""
 city: Coslada
-street: "Avenida de San Pablo"
-housenumber: 33
+street: Avenida de San Pablo
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:30-14:00,16:30-20:00; Sa 10:00-14:00"
-website: "https://madridcars.toyota.es/"
+opening_hours: Mo-Fr 09:30-14:00,16:30-20:00; Sa 10:00-14:00
+website: https://madridcars.toyota.es/

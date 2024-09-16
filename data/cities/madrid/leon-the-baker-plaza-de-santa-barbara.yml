@@ -4,8 +4,8 @@ latitude: 40.42752
 longitude: -3.69636
 postcode: "28004"
 city: Madrid
-street: "Plaza de Santa Bárbara"
-housenumber: 4
-phone: "+34 722 85 37 21"
-opening_hours: "Mo-Su 08:30-21:00"
-website: "https://leonthebaker.com"
+street: Plaza de Santa Bárbara
+housenumber: "4"
+phone: +34 722 85 37 21
+opening_hours: Mo-Su 08:30-21:00
+website: https://leonthebaker.com

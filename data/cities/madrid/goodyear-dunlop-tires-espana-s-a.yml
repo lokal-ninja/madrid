@@ -4,8 +4,8 @@ latitude: 40.44845
 longitude: -3.57993
 postcode: "28022"
 city: Madrid
-street: "Calle de Campezo"
-housenumber: 1
+street: Calle de Campezo
+housenumber: "1"
 phone: "+34917461840"
 opening_hours: ""
-website: "http://www.goodyear.es"
+website: http://www.goodyear.es

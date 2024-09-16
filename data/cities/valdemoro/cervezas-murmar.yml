@@ -4,8 +4,8 @@ latitude: 40.19166
 longitude: -3.6765
 postcode: "28341"
 city: Valdemoro
-street: "Calle Alarcón"
-housenumber: 28
+street: Calle Alarcón
+housenumber: "28"
 phone: "+34911884533"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa, Su 10:00-14:00"
-website: "https://www.cervezasmurmar.com/"
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa, Su 10:00-14:00
+website: https://www.cervezasmurmar.com/

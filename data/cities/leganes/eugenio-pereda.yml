@@ -4,8 +4,8 @@ latitude: 40.32376
 longitude: -3.75622
 postcode: "28914"
 city: Leganés
-street: "Calle Severo Ochoa"
-housenumber: 1
-phone: "+34 91 688 04 00"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.pereda.com/"
+street: Calle Severo Ochoa
+housenumber: "1"
+phone: +34 91 688 04 00
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.pereda.com/

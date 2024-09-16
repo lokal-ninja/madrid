@@ -1,11 +1,11 @@
 id: 1040237307
-type: way
+type: node
 latitude: 40.39672
 longitude: -3.47701
 postcode: "28840"
 city: Mejorada del Campo
-street: "Calle Belgrado"
-housenumber: 
-phone: "+34 918 11 11 32"
-opening_hours: "24/7"
-website: "https://funerariaelrecuerdo.com"
+street: Calle Belgrado
+housenumber: ""
+phone: +34 918 11 11 32
+opening_hours: 24/7
+website: https://funerariaelrecuerdo.com

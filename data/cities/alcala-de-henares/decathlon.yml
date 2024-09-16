@@ -1,11 +1,11 @@
 id: 29289733
-type: way
+type: node
 latitude: 40.5038
 longitude: -3.32867
 postcode: ""
 city: Alcalá de Henares
-street: "Calle de Jadraque"
+street: Calle de Jadraque
 housenumber: 1D
-phone: "+34 91 887 00 00"
+phone: +34 91 887 00 00
 opening_hours: ""
-website: "https://www.decathlon.es"
+website: https://www.decathlon.es

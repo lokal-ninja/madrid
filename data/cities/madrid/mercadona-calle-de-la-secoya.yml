@@ -1,11 +1,11 @@
 id: 192325309
-type: way
+type: node
 latitude: 40.37216
 longitude: -3.74216
 postcode: "28054"
 city: Madrid
-street: "Calle de la Secoya"
-housenumber: 
+street: Calle de la Secoya
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

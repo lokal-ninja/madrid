@@ -1,11 +1,11 @@
 id: 446691593
-type: way
+type: node
 latitude: 40.37166
 longitude: -3.73109
 postcode: "28054"
 city: Madrid
-street: "Calle Juan Mieg"
-housenumber: 3
+street: Calle Juan Mieg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.39691
 longitude: -3.69999
 postcode: "28045"
 city: Madrid
-street: "Calle de Fernando Poo"
-housenumber: 32
-phone: "+34 914 73 05 35"
-opening_hours: "Mo-Th 10:00-19:00; Fr 09:30-19:00; Sa 09:30-13:00"
-website: "http://www.delapeñapeluqueros.com/"
+street: Calle de Fernando Poo
+housenumber: "32"
+phone: +34 914 73 05 35
+opening_hours: Mo-Th 10:00-19:00; Fr 09:30-19:00; Sa 09:30-13:00
+website: http://www.delapeñapeluqueros.com/

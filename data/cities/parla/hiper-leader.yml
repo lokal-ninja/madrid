@@ -1,11 +1,11 @@
 id: 1024287601
-type: way
+type: node
 latitude: 40.23638
 longitude: -3.7525
 postcode: "28983"
 city: Parla
-street: "Calle Turín"
-housenumber: 29
-phone: "+34 910 42 06 47"
+street: Calle Turín
+housenumber: "29"
+phone: +34 910 42 06 47
 opening_hours: ""
-website: "http://www.hiperleader.es/"
+website: http://www.hiperleader.es/

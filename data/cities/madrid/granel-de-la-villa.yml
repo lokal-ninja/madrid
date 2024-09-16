@@ -4,8 +4,8 @@ latitude: 40.43597
 longitude: -3.70468
 postcode: "28015"
 city: Madrid
-street: "Calle de Donoso Cortés"
-housenumber: 1
+street: Calle de Donoso Cortés
+housenumber: "1"
 phone: "+34640642132"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 10:00-15:00"
-website: "https://graneldelavilla.com/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 10:00-15:00
+website: https://graneldelavilla.com/

@@ -4,8 +4,8 @@ latitude: 40.38939
 longitude: -3.70042
 postcode: "28026"
 city: Madrid
-street: "Calle de Antonio López"
-housenumber: 113
+street: Calle de Antonio López
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

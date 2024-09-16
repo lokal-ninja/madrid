@@ -4,8 +4,8 @@ latitude: 40.4419
 longitude: -3.69654
 postcode: "28003"
 city: Madrid
-street: "Calle de Ríos Rosas"
+street: Calle de Ríos Rosas
 housenumber: 51, Bajo
-phone: "+34 915 35 42 66"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-14:00; Mo 10:00-14:00"
+phone: +34 915 35 42 66
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-14:00; Mo 10:00-14:00
 website: ""

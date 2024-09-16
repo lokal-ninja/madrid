@@ -1,11 +1,11 @@
 id: 382767337
-type: way
+type: node
 latitude: 40.4665
 longitude: -3.68547
 postcode: "28036"
 city: Madrid
-street: "Calle de Mateo Inurria"
-housenumber: 6
+street: Calle de Mateo Inurria
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

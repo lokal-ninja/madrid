@@ -4,8 +4,8 @@ latitude: 40.38685
 longitude: -3.74305
 postcode: "28025"
 city: Madrid
-street: "Paseo de Marcelino Camacho"
-housenumber: 37
+street: Paseo de Marcelino Camacho
+housenumber: "37"
 phone: "+34914621811"
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.16984
 longitude: -3.83207
 postcode: "28977"
 city: Casarrubuelos
-street: "Calle de Miguel Hernández"
-housenumber: 36
-phone: "+34 671 84 23 56"
-opening_hours: "Mo-Fr 09:30-14:30,18:00-21:00; Sa-Su 09:30-15:00"
-website: "https://www.coviran.es/"
+street: Calle de Miguel Hernández
+housenumber: "36"
+phone: +34 671 84 23 56
+opening_hours: Mo-Fr 09:30-14:30,18:00-21:00; Sa-Su 09:30-15:00
+website: https://www.coviran.es/

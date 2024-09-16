@@ -4,8 +4,8 @@ latitude: 40.42991
 longitude: -3.70533
 postcode: "28015"
 city: Madrid
-street: "Glorieta de Ruiz Jiménez"
-housenumber: 4
+street: Glorieta de Ruiz Jiménez
+housenumber: "4"
 phone: ""
-opening_hours: "Aug: Mo-Fr 10:00-14:30,17:00-20:30"
+opening_hours: 'Aug: Mo-Fr 10:00-14:30,17:00-20:30'
 website: ""

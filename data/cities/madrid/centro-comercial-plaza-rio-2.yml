@@ -1,11 +1,11 @@
 id: 245956265
-type: way
+type: node
 latitude: 40.39115
 longitude: -3.70261
 postcode: "28026"
 city: Madrid
-street: "Avenida del Manzanares"
-housenumber: 210
+street: Avenida del Manzanares
+housenumber: "210"
 phone: ""
 opening_hours: ""
-website: "https://www.plazario2.com/"
+website: https://www.plazario2.com/

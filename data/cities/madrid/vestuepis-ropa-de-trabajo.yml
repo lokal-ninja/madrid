@@ -4,8 +4,8 @@ latitude: 40.40079
 longitude: -3.69775
 postcode: "28045"
 city: Madrid
-street: "Calle del Ferrocarril"
-housenumber: 35
-phone: "+34 91 527 75 63"
-opening_hours: "Mo-Th 08:00-19:30; Fr 08:00-14:00, 17:00-20:00; Sa 10:00-14:00"
-website: "http://vestuepis.com"
+street: Calle del Ferrocarril
+housenumber: "35"
+phone: +34 91 527 75 63
+opening_hours: Mo-Th 08:00-19:30; Fr 08:00-14:00, 17:00-20:00; Sa 10:00-14:00
+website: http://vestuepis.com

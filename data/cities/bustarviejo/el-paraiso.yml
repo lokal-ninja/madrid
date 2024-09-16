@@ -1,11 +1,11 @@
 id: 1097769820
-type: way
+type: node
 latitude: 40.85845
 longitude: -3.7121
 postcode: "28720"
 city: Bustarviejo
-street: "Calle Cañada"
-housenumber: 
+street: Calle Cañada
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-14:30,17:30-20:30; Sa 09:30-14:30,17:30-20:30"
+opening_hours: Mo-Fr 09:00-14:30,17:30-20:30; Sa 09:30-14:30,17:30-20:30
 website: ""

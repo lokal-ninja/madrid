@@ -4,8 +4,8 @@ latitude: 40.44927
 longitude: -3.70383
 postcode: "28020"
 city: Madrid
-street: "Calle de Bravo Murillo"
-housenumber: 125
+street: Calle de Bravo Murillo
+housenumber: "125"
 phone: "+34915538505"
 opening_hours: ""
-website: "https://www.generaloptica.es/"
+website: https://www.generaloptica.es/

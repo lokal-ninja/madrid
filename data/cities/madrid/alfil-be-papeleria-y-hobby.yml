@@ -4,8 +4,8 @@ latitude: 40.40458
 longitude: -3.69563
 postcode: "28045"
 city: Madrid
-street: "Calle Batalla del Salado"
-housenumber: 1
-phone: "+34 917 55 41 47"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-21:00; Sa 10:00-14:00"
-website: "https://www.alfil.be/"
+street: Calle Batalla del Salado
+housenumber: "1"
+phone: +34 917 55 41 47
+opening_hours: Mo-Fr 10:00-14:00,17:00-21:00; Sa 10:00-14:00
+website: https://www.alfil.be/

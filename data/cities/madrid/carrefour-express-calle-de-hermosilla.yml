@@ -4,8 +4,8 @@ latitude: 40.42629
 longitude: -3.6849
 postcode: ""
 city: Madrid
-street: "Calle de Hermosilla"
-housenumber: 28
-phone: "+34 914908900"
-opening_hours: "Mo-Su 09:00-21:00"
+street: Calle de Hermosilla
+housenumber: "28"
+phone: +34 914908900
+opening_hours: Mo-Su 09:00-21:00
 website: ""

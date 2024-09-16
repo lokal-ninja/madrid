@@ -4,8 +4,8 @@ latitude: 40.4352
 longitude: -3.71218
 postcode: "28015"
 city: Madrid
-street: "Calle de Fernández de los Ríos"
-housenumber: 57
-phone: "+34 917 87 56 91"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://zacatrus.es/"
+street: Calle de Fernández de los Ríos
+housenumber: "57"
+phone: +34 917 87 56 91
+opening_hours: Mo-Sa 10:00-21:00
+website: https://zacatrus.es/

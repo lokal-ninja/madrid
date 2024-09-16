@@ -4,8 +4,8 @@ latitude: 40.42733
 longitude: -3.70123
 postcode: "28004"
 city: Madrid
-street: "Calle de Apodaca"
-housenumber: 3
+street: Calle de Apodaca
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

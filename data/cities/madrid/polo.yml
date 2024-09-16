@@ -4,8 +4,8 @@ latitude: 40.4169
 longitude: -3.70848
 postcode: "28013"
 city: Madrid
-street: "Calle de las Hileras"
-housenumber: 3
+street: Calle de las Hileras
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.44835
 longitude: -3.70131
 postcode: "28020"
 city: Madrid
-street: "Calle de Hernani"
-housenumber: 21
-phone: "+34 91 217 04 53"
+street: Calle de Hernani
+housenumber: "21"
+phone: +34 91 217 04 53
 opening_hours: ""
-website: "https://www.dia.es"
+website: https://www.dia.es

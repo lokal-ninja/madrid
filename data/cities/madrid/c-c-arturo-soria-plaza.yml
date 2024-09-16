@@ -1,11 +1,11 @@
 id: 23377779
-type: way
+type: node
 latitude: 40.4501
 longitude: -3.65132
 postcode: "28043"
 city: Madrid
-street: "Calle de Arturo Soria"
-housenumber: 126
-phone: "+34 917 59 76 33"
+street: Calle de Arturo Soria
+housenumber: "126"
+phone: +34 917 59 76 33
 opening_hours: ""
-website: "https://www.arturosoriaplaza.es/"
+website: https://www.arturosoriaplaza.es/

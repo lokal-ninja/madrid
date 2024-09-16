@@ -4,8 +4,8 @@ latitude: 40.4358
 longitude: -3.6979
 postcode: "28010"
 city: Madrid
-street: "Calle de Viriato"
-housenumber: 53
-phone: "+34 91 128 78 91"
-opening_hours: "Mo-Fr 10:00-14:00, 16:30-20:00"
-website: "https://www.studiozentro.es"
+street: Calle de Viriato
+housenumber: "53"
+phone: +34 91 128 78 91
+opening_hours: Mo-Fr 10:00-14:00, 16:30-20:00
+website: https://www.studiozentro.es

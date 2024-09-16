@@ -4,8 +4,8 @@ latitude: 40.40025
 longitude: -3.69937
 postcode: "28045"
 city: Madrid
-street: "Glorieta Santa Maria de la Cabeza"
-housenumber: 9
-phone: "+34 914 73 59 21"
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00; PH closed"
+street: Glorieta Santa Maria de la Cabeza
+housenumber: "9"
+phone: +34 914 73 59 21
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00; PH closed
 website: ""

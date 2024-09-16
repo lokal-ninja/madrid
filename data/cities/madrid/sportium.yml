@@ -4,8 +4,8 @@ latitude: 40.42738
 longitude: -3.69553
 postcode: "28004"
 city: Madrid
-street: "Plaza de Santa Bárbara"
-housenumber: 5
+street: Plaza de Santa Bárbara
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://sports.sportium.es/es/welcome"
+website: https://sports.sportium.es/es/welcome

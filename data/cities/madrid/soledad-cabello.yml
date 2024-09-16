@@ -4,8 +4,8 @@ latitude: 40.42089
 longitude: -3.70657
 postcode: "28013"
 city: Madrid
-street: "Gran Vía"
-housenumber: 50
-phone: "+34 915 59 21 68"
+street: Gran Vía
+housenumber: "50"
+phone: +34 915 59 21 68
 opening_hours: ""
-website: "https://www.soledadcabello.com/"
+website: https://www.soledadcabello.com/

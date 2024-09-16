@@ -4,8 +4,8 @@ latitude: 40.41081
 longitude: -3.70515
 postcode: "28005"
 city: Madrid
-street: "Calle de la Encomienda"
-housenumber: 5
+street: Calle de la Encomienda
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-15:00, 17:30-20:00; Sa, Su 10:00-14:30"
+opening_hours: Mo-Fr 10:00-15:00, 17:30-20:00; Sa, Su 10:00-14:30
 website: ""

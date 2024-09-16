@@ -1,11 +1,11 @@
 id: 92439591
-type: way
+type: node
 latitude: 40.45438
 longitude: -3.85902
 postcode: "28220"
 city: Majadahonda
-street: "Carretera de Pozuelo a Majadahonda"
-housenumber: 48
+street: Carretera de Pozuelo a Majadahonda
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Su 06:31-24:00"
-website: "https://centroscomercialessm.blogspot.com/"
+opening_hours: Mo-Su 06:31-24:00
+website: https://centroscomercialessm.blogspot.com/

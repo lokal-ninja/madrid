@@ -4,8 +4,8 @@ latitude: 40.43272
 longitude: -3.63987
 postcode: "28017"
 city: Madrid
-street: "Calle de Luis Ruiz"
-housenumber: 4
+street: Calle de Luis Ruiz
+housenumber: "4"
 phone: "+34913773021"
-opening_hours: "Mo-Su 10:00-13:30"
+opening_hours: Mo-Su 10:00-13:30
 website: ""

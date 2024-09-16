@@ -4,8 +4,8 @@ latitude: 40.49292
 longitude: -3.68966
 postcode: "28034"
 city: Madrid
-street: "Calle de Sandalio López"
-housenumber: 7
-phone: "+34 910 32 82 72"
-opening_hours: "Mo-Fr 09:00-14:00,17:30-20:30; Sa 09:00-14:00"
+street: Calle de Sandalio López
+housenumber: "7"
+phone: +34 910 32 82 72
+opening_hours: Mo-Fr 09:00-14:00,17:30-20:30; Sa 09:00-14:00
 website: ""

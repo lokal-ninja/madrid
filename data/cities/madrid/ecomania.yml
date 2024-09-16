@@ -1,11 +1,11 @@
 id: 691032708
-type: way
+type: node
 latitude: 40.41182
 longitude: -3.70734
 postcode: ""
 city: Madrid
-street: "Calle de los Estudios"
-housenumber: 10
+street: Calle de los Estudios
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

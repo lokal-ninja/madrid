@@ -4,8 +4,8 @@ latitude: 40.42588
 longitude: -3.70766
 postcode: "28015"
 city: Madrid
-street: "Calle del Norte"
-housenumber: 5
+street: Calle del Norte
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

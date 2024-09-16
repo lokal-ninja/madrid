@@ -1,11 +1,11 @@
 id: 162790674
-type: way
+type: node
 latitude: 40.46014
 longitude: -3.45782
 postcode: "28850"
 city: Torrejón de Ardoz
-street: "Avenida de la Constitución"
-housenumber: 172
-phone: "+34 91 677 32 01"
-opening_hours: "Mo-Fr 09:00-14:00, 16:00-19:00; Sa-Su off"
-website: "https://www.zonaplastica.com/"
+street: Avenida de la Constitución
+housenumber: "172"
+phone: +34 91 677 32 01
+opening_hours: Mo-Fr 09:00-14:00, 16:00-19:00; Sa-Su off
+website: https://www.zonaplastica.com/

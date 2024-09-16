@@ -4,8 +4,8 @@ latitude: 40.47035
 longitude: -3.87578
 postcode: "28220"
 city: Majadahonda
-street: "Calle de la Granadilla"
-housenumber: 24
-phone: "+34 91 634 50 90"
-opening_hours: "Mo-Fr 12:00-15:00,16:00-20:00; Sa 12:00-15:00,16:30-20:30; Su off"
-website: "https://www.growlobby.com/"
+street: Calle de la Granadilla
+housenumber: "24"
+phone: +34 91 634 50 90
+opening_hours: Mo-Fr 12:00-15:00,16:00-20:00; Sa 12:00-15:00,16:30-20:30; Su off
+website: https://www.growlobby.com/

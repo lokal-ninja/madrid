@@ -4,8 +4,8 @@ latitude: 40.23622
 longitude: -3.75558
 postcode: "28983"
 city: Parla
-street: "Calle Turín"
-housenumber: 15
-phone: "+34 916986820"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-19:30; Sa 09:00-13:30"
+street: Calle Turín
+housenumber: "15"
+phone: +34 916986820
+opening_hours: Mo-Fr 09:00-14:00,16:00-19:30; Sa 09:00-13:30
 website: ""

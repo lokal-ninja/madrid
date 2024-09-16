@@ -4,8 +4,8 @@ latitude: 40.42514
 longitude: -3.67452
 postcode: "28009"
 city: Madrid
-street: "Calle de Alcalá"
-housenumber: 102
+street: Calle de Alcalá
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.45008
 longitude: -3.87323
 postcode: "28222"
 city: Majadahonda
-street: "Calle Joaquín Rodrigo"
-housenumber: 1
-phone: "+34 91 398 41 77"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-15:00"
-website: "http://www.gustoysabor.com/"
+street: Calle Joaquín Rodrigo
+housenumber: "1"
+phone: +34 91 398 41 77
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-15:00
+website: http://www.gustoysabor.com/

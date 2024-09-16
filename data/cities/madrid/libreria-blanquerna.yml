@@ -4,8 +4,8 @@ latitude: 40.4185
 longitude: -3.69619
 postcode: "28014"
 city: Madrid
-street: "Calle de Alcalá"
-housenumber: 44
+street: Calle de Alcalá
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:30-21:00; Sa 11:30-19:00"
-website: "https://www.llibreriablanquerna.cat/es"
+opening_hours: Mo-Fr 09:30-21:00; Sa 11:30-19:00
+website: https://www.llibreriablanquerna.cat/es

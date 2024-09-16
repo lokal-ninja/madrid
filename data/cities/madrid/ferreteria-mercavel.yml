@@ -4,8 +4,8 @@ latitude: 40.39891
 longitude: -3.66813
 postcode: "28038"
 city: Madrid
-street: "Avenida de Peña Prieta"
-housenumber: 8
-phone: "+34 91 552 62 72"
-opening_hours: "Mo-Fr 08:00-14:00; Mo-Fr 16:30-20:15; Sa 09:30-14:00"
+street: Avenida de Peña Prieta
+housenumber: "8"
+phone: +34 91 552 62 72
+opening_hours: Mo-Fr 08:00-14:00; Mo-Fr 16:30-20:15; Sa 09:30-14:00
 website: ""

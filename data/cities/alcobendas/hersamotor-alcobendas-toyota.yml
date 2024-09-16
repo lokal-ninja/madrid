@@ -1,11 +1,11 @@
 id: 297556133
-type: way
+type: node
 latitude: 40.53738
 longitude: -3.64253
 postcode: "28108"
 city: Alcobendas
-street: "Avenida de Valdelaparra"
-housenumber: 3
+street: Avenida de Valdelaparra
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00- 14:00"
+opening_hours: Mo-Fr 10:00- 14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 509483308
-type: way
+type: node
 latitude: 40.33858
 longitude: -3.81303
 postcode: "28923"
 city: Alcorcón
-street: "Calle de Polvoranca"
-housenumber: 43
+street: Calle de Polvoranca
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 680634054
-type: way
+type: node
 latitude: 40.41326
 longitude: -3.70122
 postcode: "28012"
 city: Madrid
-street: "Calle de Atocha"
-housenumber: 32
+street: Calle de Atocha
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

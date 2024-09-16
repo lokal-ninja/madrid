@@ -1,11 +1,11 @@
 id: 507558671
-type: way
+type: node
 latitude: 40.35565
 longitude: -3.85808
 postcode: "28922"
 city: Alcorcón
-street: "Calle Ejército del Aire"
-housenumber: 
-phone: "+34 917 69 23 18"
+street: Calle Ejército del Aire
+housenumber: ""
+phone: +34 917 69 23 18
 opening_hours: ""
-website: "https://www.bauhaus.es/es/nuestros-centros"
+website: https://www.bauhaus.es/es/nuestros-centros

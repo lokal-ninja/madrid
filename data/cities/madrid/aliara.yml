@@ -4,8 +4,8 @@ latitude: 40.37748
 longitude: -3.69585
 postcode: "28041"
 city: Madrid
-street: "Avenida de Córdoba"
-housenumber: 49
+street: Avenida de Córdoba
+housenumber: "49"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

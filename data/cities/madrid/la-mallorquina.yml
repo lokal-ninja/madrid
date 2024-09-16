@@ -4,8 +4,8 @@ latitude: 40.41663
 longitude: -3.70477
 postcode: "28013"
 city: Madrid
-street: "Plaza de la Puerta del Sol"
-housenumber: 8
+street: Plaza de la Puerta del Sol
+housenumber: "8"
 phone: "+34915211201"
-opening_hours: "Mo-Su 08:30-21:15"
-website: "https://pastelerialamallorquina.es/"
+opening_hours: Mo-Su 08:30-21:15
+website: https://pastelerialamallorquina.es/

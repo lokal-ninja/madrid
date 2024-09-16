@@ -1,11 +1,11 @@
 id: 686207591
-type: way
+type: node
 latitude: 40.41225
 longitude: -3.70172
 postcode: ""
 city: Madrid
-street: "Calle de la Magdalena"
-housenumber: 14
+street: Calle de la Magdalena
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://www.lacataalta.com"
+website: http://www.lacataalta.com

@@ -4,8 +4,8 @@ latitude: 40.42006
 longitude: -3.69943
 postcode: "28004"
 city: Madrid
-street: "Calle del Clavel"
-housenumber: 4
+street: Calle del Clavel
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-20:00
 website: ""

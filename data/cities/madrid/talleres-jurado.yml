@@ -4,8 +4,8 @@ latitude: 40.45406
 longitude: -3.6808
 postcode: "28016"
 city: Madrid
-street: "Calle de la Infanta María Teresa"
-housenumber: 12
-phone: "+34 91 4577637"
-opening_hours: "Mo-Th 08:30-19:00; Fr 08:30-17:00"
+street: Calle de la Infanta María Teresa
+housenumber: "12"
+phone: +34 91 4577637
+opening_hours: Mo-Th 08:30-19:00; Fr 08:30-17:00
 website: ""

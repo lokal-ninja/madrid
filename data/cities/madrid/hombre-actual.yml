@@ -4,8 +4,8 @@ latitude: 40.43523
 longitude: -3.71282
 postcode: "28015"
 city: Madrid
-street: "Calle de Fernández de los Ríos"
-housenumber: 61
+street: Calle de Fernández de los Ríos
+housenumber: "61"
 phone: "+34915501412"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 10:00-14:00"
-website: "https://hombreactual.com/"
+opening_hours: Mo-Fr 10:00-20:30; Sa 10:00-14:00
+website: https://hombreactual.com/

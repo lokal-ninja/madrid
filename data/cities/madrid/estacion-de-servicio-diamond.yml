@@ -1,11 +1,11 @@
 id: 620935114
-type: way
+type: node
 latitude: 40.37372
 longitude: -3.77172
 postcode: "28044"
 city: Madrid
-street: "Avenida de la Aviación"
-housenumber: 32
-phone: "+34 91 705 79 48"
+street: Avenida de la Aviación
+housenumber: "32"
+phone: +34 91 705 79 48
 opening_hours: ""
 website: ""

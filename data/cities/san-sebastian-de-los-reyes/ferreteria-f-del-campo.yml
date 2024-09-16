@@ -4,8 +4,8 @@ latitude: 40.56087
 longitude: -3.61287
 postcode: "28703"
 city: San Sebastián de los Reyes
-street: "Calle María Moliner"
-housenumber: 7
+street: Calle María Moliner
+housenumber: "7"
 phone: "+34916671455"
-opening_hours: "09:00-14:00,16:30-20:30"
-website: "https://ferreteriafdelcampo.es"
+opening_hours: 09:00-14:00,16:30-20:30
+website: https://ferreteriafdelcampo.es

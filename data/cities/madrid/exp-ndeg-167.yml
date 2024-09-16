@@ -4,8 +4,8 @@ latitude: 40.42028
 longitude: -3.7015
 postcode: "28004"
 city: Madrid
-street: "Calle de Fuencarral"
-housenumber: 2
+street: Calle de Fuencarral
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 08:00-02:00"
+opening_hours: Mo-Su 08:00-02:00
 website: ""

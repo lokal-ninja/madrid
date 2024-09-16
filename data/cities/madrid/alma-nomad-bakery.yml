@@ -4,8 +4,8 @@ latitude: 40.43308
 longitude: -3.69947
 postcode: "28010"
 city: Madrid
-street: "Calle de Santa Feliciana"
-housenumber: 10
-phone: "+34 613 02 68 88"
-opening_hours: "Tu-Fr 08:00-20:00; Sa 09:00-17:30"
+street: Calle de Santa Feliciana
+housenumber: "10"
+phone: +34 613 02 68 88
+opening_hours: Tu-Fr 08:00-20:00; Sa 09:00-17:30
 website: ""

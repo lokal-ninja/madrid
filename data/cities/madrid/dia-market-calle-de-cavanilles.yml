@@ -4,8 +4,8 @@ latitude: 40.40473
 longitude: -3.67288
 postcode: "28007"
 city: Madrid
-street: "Calle de Cavanilles"
-housenumber: 47
+street: Calle de Cavanilles
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.dia.es/"
+website: https://www.dia.es/

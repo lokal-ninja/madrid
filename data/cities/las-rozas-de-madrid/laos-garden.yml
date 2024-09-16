@@ -4,8 +4,8 @@ latitude: 40.55245
 longitude: -3.89555
 postcode: "28290"
 city: Las Rozas de Madrid
-street: "Paseo de los Alemanes"
-housenumber: 6
-phone: "+34 916300415"
-opening_hours: "Mo-Th 10:00-14:00; Fr 10:0-14:00,15:30-19:00; Sa 10:00-14:00"
-website: "https://www.laosgarden.com/"
+street: Paseo de los Alemanes
+housenumber: "6"
+phone: +34 916300415
+opening_hours: Mo-Th 10:00-14:00; Fr 10:0-14:00,15:30-19:00; Sa 10:00-14:00
+website: https://www.laosgarden.com/

@@ -4,8 +4,8 @@ latitude: 40.41205
 longitude: -3.69958
 postcode: "28012"
 city: Madrid
-street: "Calle de Santa Isabel"
-housenumber: 6
-phone: "+34 910 37 89 42"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-15:00"
-website: "https://elsuperdelospastores.com"
+street: Calle de Santa Isabel
+housenumber: "6"
+phone: +34 910 37 89 42
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-15:00
+website: https://elsuperdelospastores.com

@@ -1,11 +1,11 @@
 id: 142705371
-type: way
+type: node
 latitude: 40.37453
 longitude: -3.62866
 postcode: "28031"
 city: Madrid
-street: "Calle de Tineo"
-housenumber: 5
+street: Calle de Tineo
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

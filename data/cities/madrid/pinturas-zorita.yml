@@ -4,8 +4,8 @@ latitude: 40.46487
 longitude: -3.70573
 postcode: "28039"
 city: Madrid
-street: "Paseo de la Dirección"
-housenumber: 164
+street: Paseo de la Dirección
+housenumber: "164"
 phone: ""
-opening_hours: "Mo-Fr 08:00-14:00,16:00-19:00"
+opening_hours: Mo-Fr 08:00-14:00,16:00-19:00
 website: ""

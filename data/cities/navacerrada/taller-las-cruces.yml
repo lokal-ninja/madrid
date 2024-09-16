@@ -1,11 +1,11 @@
 id: 199421445
-type: way
+type: node
 latitude: 40.7287
 longitude: -4.01351
 postcode: "28491"
 city: Navacerrada
-street: "Calle Barrio de las Peñas"
-housenumber: 1
-phone: "+34 91 856 05 93"
+street: Calle Barrio de las Peñas
+housenumber: "1"
+phone: +34 91 856 05 93
 opening_hours: ""
 website: ""

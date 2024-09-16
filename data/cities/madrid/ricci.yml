@@ -4,8 +4,8 @@ latitude: 40.41406
 longitude: -3.70088
 postcode: "28012"
 city: Madrid
-street: "Calle de las Huertas"
-housenumber: 9
+street: Calle de las Huertas
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.heladeriaricci.com/"
+website: https://www.heladeriaricci.com/

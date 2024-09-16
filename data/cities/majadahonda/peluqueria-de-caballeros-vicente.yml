@@ -4,8 +4,8 @@ latitude: 40.47245
 longitude: -3.87606
 postcode: "28220"
 city: Majadahonda
-street: "Calle de San Lucas"
-housenumber: 1
-phone: "+34 609 07 86 78"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa,Su off"
+street: Calle de San Lucas
+housenumber: "1"
+phone: +34 609 07 86 78
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa,Su off
 website: ""

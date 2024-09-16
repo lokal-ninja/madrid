@@ -4,8 +4,8 @@ latitude: 40.43946
 longitude: -3.64538
 postcode: "28027"
 city: Madrid
-street: "Calle de José del Hierro"
-housenumber: 44
-phone: "+34 914 90 89 18"
-opening_hours: "9:00-22:00"
+street: Calle de José del Hierro
+housenumber: "44"
+phone: +34 914 90 89 18
+opening_hours: 9:00-22:00
 website: ""

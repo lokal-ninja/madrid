@@ -1,11 +1,11 @@
 id: 576350022
-type: way
+type: node
 latitude: 40.34198
 longitude: -3.82776
 postcode: "28922"
 city: Alcorcón
-street: "Calle de Valladolid"
-housenumber: 1
+street: Calle de Valladolid
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

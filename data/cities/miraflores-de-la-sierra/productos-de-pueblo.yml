@@ -4,8 +4,8 @@ latitude: 40.8136
 longitude: -3.76687
 postcode: "28792"
 city: Miraflores de la Sierra
-street: "Calle de Jerónimo Sastre"
-housenumber: 1
-phone: "+34 644 17 62 29"
-opening_hours: "We-Fi 10:30-14:00,17:30-20:00; Sa 10:30-14:30,17:30-20:30; Su 10:30-14:00"
-website: "https://www.delasierra.es/"
+street: Calle de Jerónimo Sastre
+housenumber: "1"
+phone: +34 644 17 62 29
+opening_hours: We-Fi 10:30-14:00,17:30-20:00; Sa 10:30-14:30,17:30-20:30; Su 10:30-14:00
+website: https://www.delasierra.es/

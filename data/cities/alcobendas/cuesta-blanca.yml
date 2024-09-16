@@ -1,11 +1,11 @@
 id: 1033940624
-type: way
+type: node
 latitude: 40.51957
 longitude: -3.65363
 postcode: "28108"
 city: Alcobendas
-street: "Calle Cuestablanca"
-housenumber: 2
-phone: "+34 916501284"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-13:30"
+street: Calle Cuestablanca
+housenumber: "2"
+phone: +34 916501284
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-13:30
 website: ""

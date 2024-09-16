@@ -4,8 +4,8 @@ latitude: 40.44669
 longitude: -3.71189
 postcode: "28003"
 city: Madrid
-street: "Avenida de la Reina Victoria"
-housenumber: 52
+street: Avenida de la Reina Victoria
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00, 17:00-19:00; Sa 10:30-14:00; PH off"
-website: "https://www.cafetearte.es"
+opening_hours: Mo-Fr 10:00-14:00, 17:00-19:00; Sa 10:30-14:00; PH off
+website: https://www.cafetearte.es

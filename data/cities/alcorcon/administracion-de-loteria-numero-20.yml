@@ -1,11 +1,11 @@
 id: 1119858867
-type: way
+type: node
 latitude: 40.34556
 longitude: -3.85428
 postcode: "28922"
 city: Alcorcón
-street: "Avenida de Europa"
-housenumber: 
+street: Avenida de Europa
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

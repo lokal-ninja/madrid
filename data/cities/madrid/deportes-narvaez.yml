@@ -4,8 +4,8 @@ latitude: 40.41996
 longitude: -3.67629
 postcode: "28009"
 city: Madrid
-street: "Calle de Narváez"
-housenumber: 44
-phone: "+34 915 74 10 13"
-opening_hours: "Mo-Sa 10:30-14:00, 17:00-20:30"
-website: "https://www.deportesnarvaez.com/"
+street: Calle de Narváez
+housenumber: "44"
+phone: +34 915 74 10 13
+opening_hours: Mo-Sa 10:30-14:00, 17:00-20:30
+website: https://www.deportesnarvaez.com/

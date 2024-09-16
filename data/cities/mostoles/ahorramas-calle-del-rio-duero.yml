@@ -1,11 +1,11 @@
 id: 285181179
-type: way
+type: node
 latitude: 40.31664
 longitude: -3.87872
 postcode: ""
 city: Móstoles
-street: "Calle del Río Duero"
-housenumber: 2
+street: Calle del Río Duero
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

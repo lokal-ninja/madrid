@@ -1,11 +1,11 @@
 id: 626964497
-type: way
+type: node
 latitude: 40.43187
 longitude: -3.71736
 postcode: "28008"
 city: Madrid
-street: "Calle de la Princesa"
-housenumber: 
+street: Calle de la Princesa
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

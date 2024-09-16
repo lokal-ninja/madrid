@@ -4,8 +4,8 @@ latitude: 40.42107
 longitude: -3.70387
 postcode: "28004"
 city: Madrid
-street: "Calle del Desengaño"
-housenumber: 22
-phone: "+34902524001;+34 91 521 61 34"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-16:00"
-website: "https://www.manuelriesgo.com"
+street: Calle del Desengaño
+housenumber: "22"
+phone: +34902524001;+34 91 521 61 34
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-16:00
+website: https://www.manuelriesgo.com

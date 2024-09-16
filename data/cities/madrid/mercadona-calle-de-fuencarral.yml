@@ -4,8 +4,8 @@ latitude: 40.42518
 longitude: -3.70132
 postcode: "28004"
 city: Madrid
-street: "Calle de Fuencarral"
-housenumber: 77
+street: Calle de Fuencarral
+housenumber: "77"
 phone: "+34913809735"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "http://mercadona.es/"
+opening_hours: Mo-Sa 09:00-21:30
+website: http://mercadona.es/

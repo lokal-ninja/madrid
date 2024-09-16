@@ -4,8 +4,8 @@ latitude: 40.43232
 longitude: -3.71348
 postcode: "28015"
 city: Madrid
-street: "Calle de Guzmán el Bueno"
-housenumber: 23
-phone: "+34 910 184 254"
+street: Calle de Guzmán el Bueno
+housenumber: "23"
+phone: +34 910 184 254
 opening_hours: ""
-website: "https://www.interzoo.es/"
+website: https://www.interzoo.es/

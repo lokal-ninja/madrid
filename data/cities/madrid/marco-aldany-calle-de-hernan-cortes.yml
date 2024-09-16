@@ -4,8 +4,8 @@ latitude: 40.42334
 longitude: -3.69929
 postcode: "28004"
 city: Madrid
-street: "Calle de Hernán Cortés"
-housenumber: 21
+street: Calle de Hernán Cortés
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00
 website: ""

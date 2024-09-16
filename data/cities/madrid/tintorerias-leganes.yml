@@ -4,8 +4,8 @@ latitude: 40.41205
 longitude: -3.73243
 postcode: "28011"
 city: Madrid
-street: "Paseo de Extremadura"
-housenumber: 71
-phone: "+34 914639892"
-opening_hours: "Mo-Fr 10:00-13:30, 16:00-20:00; Sa 10:00-13:30; PH off"
+street: Paseo de Extremadura
+housenumber: "71"
+phone: +34 914639892
+opening_hours: Mo-Fr 10:00-13:30, 16:00-20:00; Sa 10:00-13:30; PH off
 website: ""

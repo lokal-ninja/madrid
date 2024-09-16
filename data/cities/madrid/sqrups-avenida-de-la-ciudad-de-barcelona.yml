@@ -4,8 +4,8 @@ latitude: 40.4
 longitude: -3.67284
 postcode: "28007"
 city: Madrid
-street: "Avenida de la Ciudad de Barcelona"
-housenumber: 204
+street: Avenida de la Ciudad de Barcelona
+housenumber: "204"
 phone: ""
 opening_hours: ""
-website: "https://www.sqrups.es/"
+website: https://www.sqrups.es/

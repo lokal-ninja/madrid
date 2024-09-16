@@ -1,11 +1,11 @@
 id: 500190638
-type: way
+type: node
 latitude: 40.34396
 longitude: -3.81009
 postcode: ""
 city: Alcorcón
-street: "Avenida de Leganés"
-housenumber: 56
+street: Avenida de Leganés
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

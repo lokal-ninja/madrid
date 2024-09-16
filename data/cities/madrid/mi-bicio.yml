@@ -4,8 +4,8 @@ latitude: 40.43459
 longitude: -3.65335
 postcode: "28027"
 city: Madrid
-street: "Calle de la Virgen de Lluc"
-housenumber: 24
+street: Calle de la Virgen de Lluc
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "http://mibicio.com"
+website: http://mibicio.com

@@ -4,8 +4,9 @@ latitude: 40.47293
 longitude: -3.87122
 postcode: "28220"
 city: Majadahonda
-street: "Calle de San Isidro"
-housenumber: 10
-phone: "+34 917824162"
-opening_hours: "Mo-Th 09:00-15:00,17:00-20:00; Fr 09:00-20:00; Sa 09:00-15:30,17:00-19:00; Su 09:00-16:00"
-website: "https://panediem.com/"
+street: Calle de San Isidro
+housenumber: "10"
+phone: +34 917824162
+opening_hours: Mo-Th 09:00-15:00,17:00-20:00; Fr 09:00-20:00; Sa 09:00-15:30,17:00-19:00;
+    Su 09:00-16:00
+website: https://panediem.com/

@@ -4,8 +4,8 @@ latitude: 40.42543
 longitude: -3.60581
 postcode: "28022"
 city: Madrid
-street: "Paseo de Ginebra"
-housenumber: 11
+street: Paseo de Ginebra
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:30,17:00-20:30"
+opening_hours: Mo-Sa 10:00-13:30,17:00-20:30
 website: ""

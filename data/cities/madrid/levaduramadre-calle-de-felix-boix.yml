@@ -4,8 +4,8 @@ latitude: 40.4635
 longitude: -3.68851
 postcode: "28036"
 city: Madrid
-street: "Calle de Félix Boix"
-housenumber: 3
-phone: "+34 913 507 642"
-opening_hours: "Mo-Sa 08:00-21:30; PH,Su 08:30-14:00"
-website: "https://levaduramadre.es/"
+street: Calle de Félix Boix
+housenumber: "3"
+phone: +34 913 507 642
+opening_hours: Mo-Sa 08:00-21:30; PH,Su 08:30-14:00
+website: https://levaduramadre.es/

@@ -1,11 +1,11 @@
 id: 994973508
-type: way
+type: node
 latitude: 40.32316
 longitude: -3.76355
 postcode: "28912"
 city: Leganés
-street: "Avenida del Doctor Fleming"
-housenumber: 3
+street: Avenida del Doctor Fleming
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

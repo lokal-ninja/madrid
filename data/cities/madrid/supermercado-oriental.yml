@@ -4,8 +4,8 @@ latitude: 40.4224
 longitude: -3.72139
 postcode: "28008"
 city: Madrid
-street: "Calle de Mozart"
-housenumber: 5
-phone: "+34 915417210"
-opening_hours: "Mo-Fr 10:00-15:00,16:30-21:00; Sa 10:00-21:00; Su 11:00-14:30,17:00-21:00"
+street: Calle de Mozart
+housenumber: "5"
+phone: +34 915417210
+opening_hours: Mo-Fr 10:00-15:00,16:30-21:00; Sa 10:00-21:00; Su 11:00-14:30,17:00-21:00
 website: ""

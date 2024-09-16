@@ -1,11 +1,11 @@
 id: 471722580
-type: way
+type: node
 latitude: 40.32975
 longitude: -3.88369
 postcode: "28935"
 city: Móstoles
-street: "Avenida Olímpica"
-housenumber: 25
+street: Avenida Olímpica
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

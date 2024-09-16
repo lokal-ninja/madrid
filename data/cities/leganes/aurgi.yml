@@ -1,11 +1,11 @@
 id: 719379481
-type: way
+type: node
 latitude: 40.32356
 longitude: -3.75056
 postcode: "28914"
 city: Leganés
-street: "Calle de Rey Pastor"
-housenumber: 2
+street: Calle de Rey Pastor
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

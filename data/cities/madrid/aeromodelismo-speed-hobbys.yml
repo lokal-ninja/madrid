@@ -4,8 +4,8 @@ latitude: 40.43236
 longitude: -3.7118
 postcode: "28015"
 city: Madrid
-street: "Calle de Blasco de Garay"
-housenumber: 19
-phone: "+34 91 543 69 67"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00"
-website: "http://www.aeromodelismospeedhobbys.com/"
+street: Calle de Blasco de Garay
+housenumber: "19"
+phone: +34 91 543 69 67
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00
+website: http://www.aeromodelismospeedhobbys.com/

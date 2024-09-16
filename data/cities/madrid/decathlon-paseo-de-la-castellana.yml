@@ -4,8 +4,8 @@ latitude: 40.44588
 longitude: -3.69061
 postcode: ""
 city: Madrid
-street: "Paseo de la Castellana"
-housenumber: 110
+street: Paseo de la Castellana
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.decathlon.es"
+website: https://www.decathlon.es

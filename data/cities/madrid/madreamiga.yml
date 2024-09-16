@@ -4,8 +4,8 @@ latitude: 40.4513
 longitude: -3.70119
 postcode: "28020"
 city: Madrid
-street: "Calle de Teruel"
-housenumber: 26
-phone: "+34 910 05 32 75"
-opening_hours: "Mo 09:00-15:00; Tu-Fr 09:00-20:00; Sa-Su 09:00-15:00"
-website: "https://www.madreamiga.com"
+street: Calle de Teruel
+housenumber: "26"
+phone: +34 910 05 32 75
+opening_hours: Mo 09:00-15:00; Tu-Fr 09:00-20:00; Sa-Su 09:00-15:00
+website: https://www.madreamiga.com

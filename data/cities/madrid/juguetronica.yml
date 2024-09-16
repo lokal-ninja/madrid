@@ -4,8 +4,8 @@ latitude: 40.42958
 longitude: -3.70696
 postcode: "28015"
 city: Madrid
-street: "Calle de Alberto Aguilera"
-housenumber: 1
+street: Calle de Alberto Aguilera
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:30-21:00; Sa 11:00-14:00, 16:00-21:00"
-website: "https://www.juguetronica.com/info/tienda-en-madrid"
+opening_hours: Mo-Fr 10:30-21:00; Sa 11:00-14:00, 16:00-21:00
+website: https://www.juguetronica.com/info/tienda-en-madrid

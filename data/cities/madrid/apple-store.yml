@@ -4,8 +4,8 @@ latitude: 40.41689
 longitude: -3.70226
 postcode: "28013"
 city: Madrid
-street: "Plaza de la Puerta del Sol"
-housenumber: 4
+street: Plaza de la Puerta del Sol
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:30; Su 11:00-20:00"
-website: "https://www.apple.com/es/retail/puertadelsol/"
+opening_hours: Mo-Sa 10:00-21:30; Su 11:00-20:00
+website: https://www.apple.com/es/retail/puertadelsol/

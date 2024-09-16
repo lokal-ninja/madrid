@@ -4,8 +4,9 @@ latitude: 40.47116
 longitude: -3.57118
 postcode: "28042"
 city: Madrid
-street: "Avenida de la Hispanidad"
-housenumber: 
-phone: "+34 910 327 218"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00; Apr 19,Jun 24,Jul 05,Jul 24 off; PH off"
+street: Avenida de la Hispanidad
+housenumber: ""
+phone: +34 910 327 218
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00; Apr 19,Jun 24,Jul 05,Jul 24 off;
+    PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.42276
 longitude: -3.70409
 postcode: "28004"
 city: Madrid
-street: "Calle del Pez"
-housenumber: 1
+street: Calle del Pez
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

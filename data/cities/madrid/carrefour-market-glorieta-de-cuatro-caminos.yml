@@ -4,8 +4,8 @@ latitude: 40.44733
 longitude: -3.70437
 postcode: "28020"
 city: Madrid
-street: "Glorieta de Cuatro Caminos"
-housenumber: 4
+street: Glorieta de Cuatro Caminos
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

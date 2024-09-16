@@ -1,11 +1,11 @@
 id: 686207615
-type: way
+type: node
 latitude: 40.41225
 longitude: -3.70007
 postcode: ""
 city: Madrid
-street: "Calle de la Magdalena"
-housenumber: 36
+street: Calle de la Magdalena
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.42219
 longitude: -3.69981
 postcode: "28004"
 city: Madrid
-street: "Calle de Hortaleza"
-housenumber: 35
-phone: "+34 911930006"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 10:00-20:00"
-website: "https://www.clinicadermasana.com/"
+street: Calle de Hortaleza
+housenumber: "35"
+phone: +34 911930006
+opening_hours: Mo-Fr 09:00-21:00; Sa 10:00-20:00
+website: https://www.clinicadermasana.com/

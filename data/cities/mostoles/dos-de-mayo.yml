@@ -1,11 +1,11 @@
 id: 272781822
-type: way
+type: node
 latitude: 40.32001
 longitude: -3.87055
 postcode: ""
 city: Móstoles
-street: "Avenida Dos de Mayo"
-housenumber: 27
+street: Avenida Dos de Mayo
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

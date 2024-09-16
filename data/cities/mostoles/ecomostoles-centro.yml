@@ -1,11 +1,11 @@
 id: 272790880
-type: way
+type: node
 latitude: 40.32565
 longitude: -3.85421
 postcode: ""
 city: Móstoles
-street: "Calle Libertad"
-housenumber: 38
+street: Calle Libertad
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

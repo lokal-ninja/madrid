@@ -4,8 +4,8 @@ latitude: 40.40987
 longitude: -3.70822
 postcode: "28005"
 city: Madrid
-street: "Calle de Santa Ana"
-housenumber: 9
+street: Calle de Santa Ana
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://latapicera.com/web/"
+website: https://latapicera.com/web/

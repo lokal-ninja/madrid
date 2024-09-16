@@ -4,8 +4,8 @@ latitude: 40.42527
 longitude: -3.68235
 postcode: "28001"
 city: Madrid
-street: "Calle de Goya"
-housenumber: 47
+street: Calle de Goya
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-21:00
 website: ""

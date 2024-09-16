@@ -1,11 +1,11 @@
 id: 1133133632
-type: way
+type: node
 latitude: 40.39912
 longitude: -3.6257
 postcode: "28032"
 city: Madrid
-street: "Calle de la Ladera de los Almendros"
-housenumber: 28
+street: Calle de la Ladera de los Almendros
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.42045
 longitude: -3.7054
 postcode: "28013"
 city: Madrid
-street: "Gran Vía"
-housenumber: 44
-phone: "+34 915222484"
+street: Gran Vía
+housenumber: "44"
+phone: +34 915222484
 opening_hours: ""
-website: "https://www.orange.es/"
+website: https://www.orange.es/

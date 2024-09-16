@@ -4,8 +4,8 @@ latitude: 40.55405
 longitude: -3.89697
 postcode: "28290"
 city: Las Rozas de Madrid
-street: "Calle del Pilar"
-housenumber: 6
-phone: "+34 913043232"
-opening_hours: "Mo-Fr 09:00-14:00, 15:00-18:00"
-website: "https://www.micromasaje.es/"
+street: Calle del Pilar
+housenumber: "6"
+phone: +34 913043232
+opening_hours: Mo-Fr 09:00-14:00, 15:00-18:00
+website: https://www.micromasaje.es/

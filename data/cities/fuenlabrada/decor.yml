@@ -1,11 +1,11 @@
 id: 174646529
-type: way
+type: node
 latitude: 40.2942
 longitude: -3.79
 postcode: "28945"
 city: Fuenlabrada
-street: "Calle de Leganés"
-housenumber: 56
+street: Calle de Leganés
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

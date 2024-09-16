@@ -4,8 +4,8 @@ latitude: 40.45688
 longitude: -3.67458
 postcode: "28016"
 city: Madrid
-street: "Calle de Puerto Rico"
-housenumber: 29
-phone: "+34 910587020"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-14:00; Su off"
+street: Calle de Puerto Rico
+housenumber: "29"
+phone: +34 910587020
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-14:00; Su off
 website: ""

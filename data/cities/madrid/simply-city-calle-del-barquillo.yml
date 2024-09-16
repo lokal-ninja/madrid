@@ -4,8 +4,8 @@ latitude: 40.4232
 longitude: -3.69553
 postcode: "28004"
 city: Madrid
-street: "Calle del Barquillo"
-housenumber: 36
+street: Calle del Barquillo
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/barquillo_-_s.aspx"
+website: https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/barquillo_-_s.aspx

@@ -4,8 +4,8 @@ latitude: 40.42732
 longitude: -3.70441
 postcode: "28004"
 city: Madrid
-street: "Plaza del Dos de Mayo"
-housenumber: 5
-phone: "+34 915 22 38 93"
+street: Plaza del Dos de Mayo
+housenumber: "5"
+phone: +34 915 22 38 93
 opening_hours: ""
-website: "https://rincondelectura.com/"
+website: https://rincondelectura.com/

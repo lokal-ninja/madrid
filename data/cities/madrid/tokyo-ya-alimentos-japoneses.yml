@@ -4,8 +4,8 @@ latitude: 40.45463
 longitude: -3.69741
 postcode: "28020"
 city: Madrid
-street: "Avenida del Presidente Carmona"
-housenumber: 9
-phone: "+34 915 792 311"
-opening_hours: "Mo-Sa 10:00-14:00; Mo-Sa 17:00-20:00"
-website: "https://www.tokyo-ya.es/"
+street: Avenida del Presidente Carmona
+housenumber: "9"
+phone: +34 915 792 311
+opening_hours: Mo-Sa 10:00-14:00; Mo-Sa 17:00-20:00
+website: https://www.tokyo-ya.es/

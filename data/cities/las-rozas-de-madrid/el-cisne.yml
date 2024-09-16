@@ -4,8 +4,8 @@ latitude: 40.55266
 longitude: -3.8963
 postcode: "28290"
 city: Las Rozas de Madrid
-street: "Plaza del Ferrocarril"
-housenumber: 2
-phone: "+34 914508765"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-19:00; Sa-Su 10:00-13:30"
-website: "http://www.el-cisne.es/"
+street: Plaza del Ferrocarril
+housenumber: "2"
+phone: +34 914508765
+opening_hours: Mo-Fr 10:00-13:30,17:00-19:00; Sa-Su 10:00-13:30
+website: http://www.el-cisne.es/

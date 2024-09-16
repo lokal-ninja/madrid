@@ -4,8 +4,8 @@ latitude: 40.40434
 longitude: -3.69566
 postcode: "28045"
 city: Madrid
-street: "Calle Batalla del Salado"
-housenumber: 3
-phone: "+34 919 28 13 54"
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 09:00-14:30"
-website: "https://www.lamagdalenadeproust.com/"
+street: Calle Batalla del Salado
+housenumber: "3"
+phone: +34 919 28 13 54
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 09:00-14:30
+website: https://www.lamagdalenadeproust.com/

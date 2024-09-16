@@ -4,8 +4,8 @@ latitude: 40.41063
 longitude: -3.70596
 postcode: "28012"
 city: Madrid
-street: "Calle de la Encomienda"
-housenumber: 19
-phone: "+34 910 291300"
-opening_hours: "Mo-Sa 13:30-00:30; Su 11:00-00:30"
-website: "https://laencomienda.es"
+street: Calle de la Encomienda
+housenumber: "19"
+phone: +34 910 291300
+opening_hours: Mo-Sa 13:30-00:30; Su 11:00-00:30
+website: https://laencomienda.es

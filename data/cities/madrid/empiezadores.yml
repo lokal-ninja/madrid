@@ -4,8 +4,8 @@ latitude: 40.40165
 longitude: -3.66054
 postcode: "28038"
 city: Madrid
-street: "Calle de la Sierra Toledana"
-housenumber: 25
+street: Calle de la Sierra Toledana
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.empiezadores.com/"
+website: https://www.empiezadores.com/

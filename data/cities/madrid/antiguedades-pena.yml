@@ -4,8 +4,8 @@ latitude: 40.4147
 longitude: -3.69949
 postcode: "28014"
 city: Madrid
-street: "Calle del Prado"
-housenumber: 5
+street: Calle del Prado
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

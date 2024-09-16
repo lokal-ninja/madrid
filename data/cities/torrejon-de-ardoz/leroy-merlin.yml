@@ -1,11 +1,11 @@
 id: 699935134
-type: way
+type: node
 latitude: 40.45743
 longitude: -3.47062
 postcode: "28850"
 city: Torrejón de Ardoz
-street: "Avenida de la Constitución"
-housenumber: 102
+street: Avenida de la Constitución
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 11:00-20:00"
-website: "https://www.leroymerlin.es/tiendas/compact-torrejon.html"
+opening_hours: Mo-Sa 09:00-22:00; Su 11:00-20:00
+website: https://www.leroymerlin.es/tiendas/compact-torrejon.html

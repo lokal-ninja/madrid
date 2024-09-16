@@ -4,8 +4,8 @@ latitude: 40.18608
 longitude: -3.80409
 postcode: "28991"
 city: Torrejón de la Calzada
-street: "Calle Segunda Avenida"
-housenumber: 30
-phone: "+34  916 05 26 15"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00"
-website: "https://www.wonduu.com/"
+street: Calle Segunda Avenida
+housenumber: "30"
+phone: +34  916 05 26 15
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00
+website: https://www.wonduu.com/

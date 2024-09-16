@@ -4,8 +4,8 @@ latitude: 40.63794
 longitude: -4.00572
 postcode: "28400"
 city: Collado Villalba
-street: "Calle Anastasio Nieto"
-housenumber: 29
-phone: "+34 918 50 86 10"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-20:00; Sa 09:00-14:00"
-website: "https://neumaticosamoreno.es/"
+street: Calle Anastasio Nieto
+housenumber: "29"
+phone: +34 918 50 86 10
+opening_hours: Mo-Fr 09:00-14:00,16:00-20:00; Sa 09:00-14:00
+website: https://neumaticosamoreno.es/

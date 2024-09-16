@@ -1,11 +1,11 @@
 id: 1265717705
-type: way
+type: node
 latitude: 40.85777
 longitude: -3.71033
 postcode: "28720"
 city: Bustarviejo
-street: "Calle Real"
-housenumber: 22
+street: Calle Real
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

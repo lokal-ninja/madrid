@@ -4,8 +4,8 @@ latitude: 40.4268
 longitude: -3.70249
 postcode: "28004"
 city: Madrid
-street: "Calle de Velarde"
-housenumber: 12
+street: Calle de Velarde
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://espaciofiera.com/"
+website: https://espaciofiera.com/

@@ -4,8 +4,8 @@ latitude: 40.30971
 longitude: -3.47634
 postcode: "28500"
 city: Arganda del Rey
-street: "Avenida de Madrid"
-housenumber: 100
-phone: "+34 91 872 90 71"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Avenida de Madrid
+housenumber: "100"
+phone: +34 91 872 90 71
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

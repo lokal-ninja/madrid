@@ -4,8 +4,8 @@ latitude: 40.45667
 longitude: -3.70541
 postcode: "28039"
 city: Madrid
-street: "Calle de Francos Rodríguez"
-housenumber: 42
-phone: "+34 674 89 84 42"
-opening_hours: "Mo-Sa 10:00-21:30"
+street: Calle de Francos Rodríguez
+housenumber: "42"
+phone: +34 674 89 84 42
+opening_hours: Mo-Sa 10:00-21:30
 website: ""

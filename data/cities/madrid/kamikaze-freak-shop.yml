@@ -4,8 +4,8 @@ latitude: 40.47529
 longitude: -3.71325
 postcode: "28029"
 city: Madrid
-street: "Calle de Ponferrada"
-housenumber: 11
-phone: "+34 91 821 34 31"
-opening_hours: "Tu-Sa 11:00-14:00, 17:00-21:00"
-website: "https://www.kamikazefreakshop.es/"
+street: Calle de Ponferrada
+housenumber: "11"
+phone: +34 91 821 34 31
+opening_hours: Tu-Sa 11:00-14:00, 17:00-21:00
+website: https://www.kamikazefreakshop.es/

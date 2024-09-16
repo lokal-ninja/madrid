@@ -4,8 +4,8 @@ latitude: 40.54489
 longitude: -3.6388
 postcode: "28100"
 city: Alcobendas
-street: "Calle Tajo"
-housenumber: 5
-phone: "+34 916 542 223"
-opening_hours: "Mo-Fr 10:00-20:00"
-website: "https://www.vicalo.com/cem/"
+street: Calle Tajo
+housenumber: "5"
+phone: +34 916 542 223
+opening_hours: Mo-Fr 10:00-20:00
+website: https://www.vicalo.com/cem/

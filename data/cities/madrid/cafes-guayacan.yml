@@ -4,8 +4,8 @@ latitude: 40.4351
 longitude: -3.70713
 postcode: "28015"
 city: Madrid
-street: "Calle de Fernández de los Ríos"
-housenumber: 26
-phone: "+34 610 51 05 10"
-opening_hours: "Mo-Sa"
-website: "https://www.cafesguayacan.com/"
+street: Calle de Fernández de los Ríos
+housenumber: "26"
+phone: +34 610 51 05 10
+opening_hours: Mo-Sa
+website: https://www.cafesguayacan.com/

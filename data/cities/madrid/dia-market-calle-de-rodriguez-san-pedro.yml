@@ -4,8 +4,8 @@ latitude: 40.43148
 longitude: -3.70804
 postcode: "28015"
 city: Madrid
-street: "Calle de Rodríguez San Pedro"
-housenumber: 5
+street: Calle de Rodríguez San Pedro
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.dia.es"
+website: https://www.dia.es

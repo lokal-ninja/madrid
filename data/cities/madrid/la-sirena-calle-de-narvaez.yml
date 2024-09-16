@@ -4,8 +4,8 @@ latitude: 40.41613
 longitude: -3.67661
 postcode: "28009"
 city: Madrid
-street: "Calle de Narváez"
-housenumber: 84
-phone: "+34 915 56 40 70"
-opening_hours: "Mo-Sa 09:00-21:30; Su 10:00-15:00"
-website: "https://www.lasirena.es/"
+street: Calle de Narváez
+housenumber: "84"
+phone: +34 915 56 40 70
+opening_hours: Mo-Sa 09:00-21:30; Su 10:00-15:00
+website: https://www.lasirena.es/

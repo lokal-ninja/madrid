@@ -1,11 +1,11 @@
 id: 507558659
-type: way
+type: node
 latitude: 40.34969
 longitude: -3.85921
 postcode: "28922"
 city: Alcorcón
-street: "Calle Armada Española"
-housenumber: 
-phone: "+34 913 57 89 60"
+street: Calle Armada Española
+housenumber: ""
+phone: +34 913 57 89 60
 opening_hours: ""
-website: "https://www.bricomart.es"
+website: https://www.bricomart.es

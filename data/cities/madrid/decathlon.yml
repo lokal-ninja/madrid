@@ -4,8 +4,8 @@ latitude: 40.44664
 longitude: -3.69576
 postcode: "28020"
 city: Madrid
-street: "Calle de Orense"
-housenumber: 1
-phone: "+34 916003843"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://www.decathlon.es"
+street: Calle de Orense
+housenumber: "1"
+phone: +34 916003843
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://www.decathlon.es

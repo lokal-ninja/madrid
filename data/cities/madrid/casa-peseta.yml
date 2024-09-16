@@ -4,8 +4,8 @@ latitude: 40.42291
 longitude: -3.69911
 postcode: "28004"
 city: Madrid
-street: "Calle de Hortaleza"
-housenumber: 64
-phone: "+34 919 40 52 53"
-opening_hours: "Mo-Sa 11:00-21:00; Su 12:00-20:00"
-website: "https://www.peseta.org"
+street: Calle de Hortaleza
+housenumber: "64"
+phone: +34 919 40 52 53
+opening_hours: Mo-Sa 11:00-21:00; Su 12:00-20:00
+website: https://www.peseta.org

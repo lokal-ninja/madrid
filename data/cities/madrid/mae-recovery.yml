@@ -4,8 +4,8 @@ latitude: 40.47253
 longitude: -3.70903
 postcode: "28029"
 city: Madrid
-street: "Calle de Ribadavia"
-housenumber: 25
-phone: "+34 910590160"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.maerecovery.es"
+street: Calle de Ribadavia
+housenumber: "25"
+phone: +34 910590160
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.maerecovery.es

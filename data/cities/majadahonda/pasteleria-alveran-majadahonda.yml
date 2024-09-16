@@ -4,8 +4,8 @@ latitude: 40.44916
 longitude: -3.87307
 postcode: "28222"
 city: Majadahonda
-street: "Calle Joaquín Rodrigo"
-housenumber: 1
-phone: "+34 91 398 41 71"
-opening_hours: "Mo-Fr 08:30-20:30; Sa,Su 09:00-20:30; PH,Mo-Su 08:30-19:30"
-website: "https://www.pasteleriaalveran.com/"
+street: Calle Joaquín Rodrigo
+housenumber: "1"
+phone: +34 91 398 41 71
+opening_hours: Mo-Fr 08:30-20:30; Sa,Su 09:00-20:30; PH,Mo-Su 08:30-19:30
+website: https://www.pasteleriaalveran.com/

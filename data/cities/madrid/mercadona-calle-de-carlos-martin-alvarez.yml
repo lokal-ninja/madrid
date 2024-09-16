@@ -4,8 +4,8 @@ latitude: 40.38758
 longitude: -3.66465
 postcode: "28018"
 city: Madrid
-street: "Calle de Carlos Martín Álvarez"
-housenumber: 45
-phone: "+34 917 16 56 69"
+street: Calle de Carlos Martín Álvarez
+housenumber: "45"
+phone: +34 917 16 56 69
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

@@ -4,8 +4,8 @@ latitude: 40.44513
 longitude: -3.67285
 postcode: "28002"
 city: Madrid
-street: "Calle de López de Hoyos"
-housenumber: 95
+street: Calle de López de Hoyos
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://www.peaton.es/"
+website: https://www.peaton.es/

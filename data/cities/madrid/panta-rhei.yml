@@ -4,8 +4,8 @@ latitude: 40.42352
 longitude: -3.7001
 postcode: "28004"
 city: Madrid
-street: "Calle de Hernán Cortés"
-housenumber: 7
-phone: "+34 913 19 89 02"
-opening_hours: "Mo-Su 11:00-20:00"
-website: "https://panta-rhei.es/"
+street: Calle de Hernán Cortés
+housenumber: "7"
+phone: +34 913 19 89 02
+opening_hours: Mo-Su 11:00-20:00
+website: https://panta-rhei.es/

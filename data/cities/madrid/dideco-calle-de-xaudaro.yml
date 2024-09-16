@@ -1,11 +1,11 @@
 id: 289295109
-type: way
+type: node
 latitude: 40.48981
 longitude: -3.69377
 postcode: "28034"
 city: Madrid
-street: "Calle de Xaudaró"
-housenumber: 36
-phone: "+34 91 358 0423"
+street: Calle de Xaudaró
+housenumber: "36"
+phone: +34 91 358 0423
 opening_hours: ""
-website: "https://www.dideco.es/"
+website: https://www.dideco.es/

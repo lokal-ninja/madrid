@@ -1,11 +1,11 @@
 id: 699407423
-type: way
+type: node
 latitude: 40.3462
 longitude: -3.75901
 postcode: "28918"
 city: Leganés
-street: "Avenida Puerta del Sol"
-housenumber: 2
+street: Avenida Puerta del Sol
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.decathlon.es"
+website: https://www.decathlon.es

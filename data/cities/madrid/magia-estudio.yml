@@ -4,8 +4,8 @@ latitude: 40.42609
 longitude: -3.69826
 postcode: "28004"
 city: Madrid
-street: "Calle de San Mateo"
-housenumber: 19
+street: Calle de San Mateo
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://magiaestudio.com/"
+website: https://magiaestudio.com/

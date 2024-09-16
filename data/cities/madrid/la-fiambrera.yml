@@ -4,8 +4,8 @@ latitude: 40.42328
 longitude: -3.70483
 postcode: "28004"
 city: Madrid
-street: "Calle del Pez"
-housenumber: 7
+street: Calle del Pez
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.lafiambrera.net/"
+website: https://www.lafiambrera.net/

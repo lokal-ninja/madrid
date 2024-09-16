@@ -4,8 +4,8 @@ latitude: 40.53439
 longitude: -3.94218
 postcode: "28232"
 city: Las Rozas de Madrid
-street: "Camino Real"
-housenumber: 1
-phone: "+34 663204107"
-opening_hours: "Mo-Fr 10:30-14:45, 16:00-19:30; Sa 10:30-14:00, 17:30-19:30; Su 11:00-14:00"
-website: "https://lasrozasmarket.es/comercios/capri/"
+street: Camino Real
+housenumber: "1"
+phone: +34 663204107
+opening_hours: Mo-Fr 10:30-14:45, 16:00-19:30; Sa 10:30-14:00, 17:30-19:30; Su 11:00-14:00
+website: https://lasrozasmarket.es/comercios/capri/

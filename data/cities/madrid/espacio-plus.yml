@@ -1,11 +1,11 @@
 id: 209055428
-type: way
+type: node
 latitude: 40.48624
 longitude: -3.66182
 postcode: "28050"
 city: Madrid
-street: "Camino de la Fuente de la Mora"
-housenumber: 7
+street: Camino de la Fuente de la Mora
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 280487798
-type: way
+type: node
 latitude: 40.31649
 longitude: -3.84723
 postcode: ""
 city: Móstoles
-street: "Calle Simón Hernández"
-housenumber: 71
+street: Calle Simón Hernández
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

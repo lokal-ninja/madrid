@@ -4,8 +4,8 @@ latitude: 40.37766
 longitude: -3.76828
 postcode: ""
 city: Madrid
-street: "Calle de Blas Cabrera"
-housenumber: 125
-phone: "+34 917 05 81 74"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00"
-website: "https://cafedromedario.com/"
+street: Calle de Blas Cabrera
+housenumber: "125"
+phone: +34 917 05 81 74
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00
+website: https://cafedromedario.com/

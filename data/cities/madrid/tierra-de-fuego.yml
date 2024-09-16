@@ -4,8 +4,8 @@ latitude: 40.42569
 longitude: -3.70969
 postcode: "28015"
 city: Madrid
-street: "Travesía del Conde Duque"
-housenumber: 3
-phone: "+34 915 215 240"
-opening_hours: "Mo-Fr 10:00-14:00; Mo-Fr 17:00-20:00; Sa 10:00-14:00"
-website: "https://tierradefuego.es/"
+street: Travesía del Conde Duque
+housenumber: "3"
+phone: +34 915 215 240
+opening_hours: Mo-Fr 10:00-14:00; Mo-Fr 17:00-20:00; Sa 10:00-14:00
+website: https://tierradefuego.es/

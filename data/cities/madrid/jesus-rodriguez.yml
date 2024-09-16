@@ -4,8 +4,8 @@ latitude: 40.42146
 longitude: -3.68358
 postcode: "28001"
 city: Madrid
-street: "Calle de Alcalá"
-housenumber: 99
+street: Calle de Alcalá
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

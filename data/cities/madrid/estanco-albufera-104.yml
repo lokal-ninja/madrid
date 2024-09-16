@@ -4,8 +4,8 @@ latitude: 40.39364
 longitude: -3.6606
 postcode: "28038"
 city: Madrid
-street: "Avenida de la Albufera"
-housenumber: 104
-phone: "+34 912 230 333"
-opening_hours: "Mo-Fr 09:00-14:00,17:00-21:00; Sa 09:00-14:00"
+street: Avenida de la Albufera
+housenumber: "104"
+phone: +34 912 230 333
+opening_hours: Mo-Fr 09:00-14:00,17:00-21:00; Sa 09:00-14:00
 website: ""

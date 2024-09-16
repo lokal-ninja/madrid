@@ -4,8 +4,8 @@ latitude: 40.45469
 longitude: -3.68934
 postcode: "28036"
 city: Madrid
-street: "Calle Doctor Fleming"
-housenumber: 1
-phone: "+34 91 458 32 54"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://naturasi.es/bernabeu.html"
+street: Calle Doctor Fleming
+housenumber: "1"
+phone: +34 91 458 32 54
+opening_hours: Mo-Sa 09:00-21:00
+website: https://naturasi.es/bernabeu.html

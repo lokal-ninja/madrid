@@ -1,11 +1,11 @@
 id: 30764289
-type: way
+type: node
 latitude: 40.44652
 longitude: -3.69326
 postcode: "28003"
 city: Madrid
-street: "Calle de Raimundo Fernández Villaverde"
-housenumber: 65
-phone: "+34 914 188 800"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.elcorteingles.es/"
+street: Calle de Raimundo Fernández Villaverde
+housenumber: "65"
+phone: +34 914 188 800
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.elcorteingles.es/

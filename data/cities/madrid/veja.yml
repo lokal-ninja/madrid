@@ -4,8 +4,8 @@ latitude: 40.42437
 longitude: -3.69542
 postcode: "28004"
 city: Madrid
-street: "Calle del Barquillo"
-housenumber: 44
-phone: "+34 911 63 19 23"
-opening_hours: "Mo-Sa 10:30-20:30"
-website: "https://www.veja-store.com/en_eu/store-madrid"
+street: Calle del Barquillo
+housenumber: "44"
+phone: +34 911 63 19 23
+opening_hours: Mo-Sa 10:30-20:30
+website: https://www.veja-store.com/en_eu/store-madrid

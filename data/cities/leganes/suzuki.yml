@@ -1,11 +1,11 @@
 id: 715146783
-type: way
+type: node
 latitude: 40.31582
 longitude: -3.76933
 postcode: ""
 city: Leganés
-street: "Avenida de Carlos Sainz"
-housenumber: 35
+street: Avenida de Carlos Sainz
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

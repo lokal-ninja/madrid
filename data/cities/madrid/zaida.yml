@@ -4,8 +4,8 @@ latitude: 40.40127
 longitude: -3.75191
 postcode: "28047"
 city: Madrid
-street: "Calle de la Latina"
-housenumber: 26
-phone: "+34 91 755 06 31"
-opening_hours: "Mo-Fr 09:00-14:00,17:00-20:30; Sa 10:00-14:00"
-website: "http://fruteriaszaida.es/"
+street: Calle de la Latina
+housenumber: "26"
+phone: +34 91 755 06 31
+opening_hours: Mo-Fr 09:00-14:00,17:00-20:30; Sa 10:00-14:00
+website: http://fruteriaszaida.es/

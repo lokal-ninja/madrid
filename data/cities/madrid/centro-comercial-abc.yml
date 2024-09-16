@@ -1,11 +1,11 @@
 id: 118513025
-type: way
+type: node
 latitude: 40.43234
 longitude: -3.6881
 postcode: "28006"
 city: Madrid
-street: "Calle de Serrano"
-housenumber: 61
-phone: "+34 915 775 031"
-opening_hours: "Mo-Sa 09:30-21:30"
-website: "https://www.abcserrano.com/"
+street: Calle de Serrano
+housenumber: "61"
+phone: +34 915 775 031
+opening_hours: Mo-Sa 09:30-21:30
+website: https://www.abcserrano.com/

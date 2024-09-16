@@ -1,11 +1,11 @@
 id: 218690470
-type: way
+type: node
 latitude: 40.27596
 longitude: -3.80442
 postcode: "28944"
 city: Fuenlabrada
-street: "Luis Sauquillo"
-housenumber: 88
+street: Luis Sauquillo
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

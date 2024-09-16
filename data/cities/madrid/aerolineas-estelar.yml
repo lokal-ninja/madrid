@@ -4,8 +4,8 @@ latitude: 40.43568
 longitude: -3.68347
 postcode: "28006"
 city: Madrid
-street: "Calle de Velázquez"
-housenumber: 105
-phone: "+34-910327218"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Calle de Velázquez
+housenumber: "105"
+phone: +34-910327218
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

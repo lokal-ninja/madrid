@@ -4,8 +4,8 @@ latitude: 40.4735
 longitude: -3.87387
 postcode: "28220"
 city: Majadahonda
-street: "Callejón del Gato"
-housenumber: 2
-phone: "+34 675 09 70 19"
-opening_hours: "Mo-Sa 10:00-14:00, 17:00-20:30; Su off"
-website: "https://vaperhouse.es/"
+street: Callejón del Gato
+housenumber: "2"
+phone: +34 675 09 70 19
+opening_hours: Mo-Sa 10:00-14:00, 17:00-20:30; Su off
+website: https://vaperhouse.es/

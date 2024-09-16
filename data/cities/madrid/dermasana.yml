@@ -4,8 +4,8 @@ latitude: 40.4294
 longitude: -3.66568
 postcode: "28028"
 city: Madrid
-street: "Calle de Alcalá"
-housenumber: 180
-phone: "+34 913610225"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 10:00-20:00"
-website: "https://www.clinicadermasana.com/"
+street: Calle de Alcalá
+housenumber: "180"
+phone: +34 913610225
+opening_hours: Mo-Fr 09:00-21:00; Sa 10:00-20:00
+website: https://www.clinicadermasana.com/

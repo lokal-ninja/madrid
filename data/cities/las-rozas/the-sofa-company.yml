@@ -1,11 +1,11 @@
 id: 622054355
-type: way
+type: node
 latitude: 40.50104
 longitude: -3.89015
 postcode: "28232"
 city: Las Rozas
-street: "Calle de Turín"
-housenumber: 20
-phone: "+34 916 373 059"
+street: Calle de Turín
+housenumber: "20"
+phone: +34 916 373 059
 opening_hours: ""
-website: "https://www.thesofacompany.es"
+website: https://www.thesofacompany.es

@@ -4,8 +4,8 @@ latitude: 40.41824
 longitude: -3.67845
 postcode: "28009"
 city: Madrid
-street: "Calle de Ibiza"
-housenumber: 2
-phone: "+34 91 826 5070"
-opening_hours: "Mo-Fr 10:00-18:30"
-website: "http://www.avantumcompanystore.com.es"
+street: Calle de Ibiza
+housenumber: "2"
+phone: +34 91 826 5070
+opening_hours: Mo-Fr 10:00-18:30
+website: http://www.avantumcompanystore.com.es

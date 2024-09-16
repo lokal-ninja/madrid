@@ -4,8 +4,8 @@ latitude: 40.41239
 longitude: -3.70314
 postcode: "28012"
 city: Madrid
-street: "Calle de la Magdalena"
-housenumber: 2
+street: Calle de la Magdalena
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

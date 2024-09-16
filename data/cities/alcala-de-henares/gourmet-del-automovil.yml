@@ -1,11 +1,11 @@
 id: 978067950
-type: way
+type: node
 latitude: 40.49545
 longitude: -3.34767
 postcode: "28805"
 city: Alcalá de Henares
-street: "Calle Colmenar de Oreja"
-housenumber: 9
+street: Calle Colmenar de Oreja
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

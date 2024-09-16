@@ -1,11 +1,11 @@
 id: 459055659
-type: way
+type: node
 latitude: 40.47307
 longitude: -3.87431
 postcode: "28220"
 city: Majadahonda
-street: "Calle de la Flor"
-housenumber: 18
-phone: "+34 620 04 53 53"
-opening_hours: "Mo-Sa 09:00-15:00; Su off"
+street: Calle de la Flor
+housenumber: "18"
+phone: +34 620 04 53 53
+opening_hours: Mo-Sa 09:00-15:00; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.40418
 longitude: -3.67521
 postcode: "28007"
 city: Madrid
-street: "Calle de Valderribas"
-housenumber: 32
-phone: "+34 91 551 90 42"
+street: Calle de Valderribas
+housenumber: "32"
+phone: +34 91 551 90 42
 opening_hours: ""
-website: "https://www.carnesmoran.com/"
+website: https://www.carnesmoran.com/

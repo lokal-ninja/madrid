@@ -4,8 +4,8 @@ latitude: 40.41281
 longitude: -3.69689
 postcode: "28014"
 city: Madrid
-street: "Calle de Santa María"
-housenumber: 34
+street: Calle de Santa María
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00, 16:00-20:00; Sa 11:00-14:00"
+opening_hours: Mo-Fr 10:00-14:00, 16:00-20:00; Sa 11:00-14:00
 website: ""

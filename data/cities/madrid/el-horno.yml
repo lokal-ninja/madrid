@@ -4,8 +4,8 @@ latitude: 40.46109
 longitude: -3.69388
 postcode: "28020"
 city: Madrid
-street: "Calle de Orense"
-housenumber: 64
+street: Calle de Orense
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://www.elhorno.com/"
+website: https://www.elhorno.com/

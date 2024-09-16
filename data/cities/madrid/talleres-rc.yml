@@ -4,8 +4,8 @@ latitude: 40.40228
 longitude: -3.66895
 postcode: "28007"
 city: Madrid
-street: "Calle Martínez Corrochano"
-housenumber: 14
-phone: "+34 91 433 64 64"
-opening_hours: "Tu-Fr 09:00-14:00, 16:00-19:00"
+street: Calle Martínez Corrochano
+housenumber: "14"
+phone: +34 91 433 64 64
+opening_hours: Tu-Fr 09:00-14:00, 16:00-19:00
 website: ""

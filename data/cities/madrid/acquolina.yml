@@ -4,8 +4,8 @@ latitude: 40.42681
 longitude: -3.70363
 postcode: "28004"
 city: Madrid
-street: "Calle de Velarde"
-housenumber: 15
-phone: "+34 915 23 30 36"
+street: Calle de Velarde
+housenumber: "15"
+phone: +34 915 23 30 36
 opening_hours: ""
-website: "http://www.acquolina.es/"
+website: http://www.acquolina.es/

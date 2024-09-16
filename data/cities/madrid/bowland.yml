@@ -4,8 +4,8 @@ latitude: 40.46029
 longitude: -3.69484
 postcode: "28020"
 city: Madrid
-street: "Calle del General Margallo"
-housenumber: 24
-phone: "+34 91 515 05 18"
-opening_hours: "Mo-Fr 10:00-14:00,16:00-20:00; Sa 10:00-14:00"
-website: "https://bowland.es/"
+street: Calle del General Margallo
+housenumber: "24"
+phone: +34 91 515 05 18
+opening_hours: Mo-Fr 10:00-14:00,16:00-20:00; Sa 10:00-14:00
+website: https://bowland.es/

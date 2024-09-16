@@ -1,11 +1,11 @@
 id: 380681401
-type: way
+type: node
 latitude: 40.49243
 longitude: -3.35116
 postcode: ""
 city: Alcalá de Henares
-street: "Vía Complutense"
-housenumber: 113
-phone: "+34 918 801 012"
-opening_hours: "Mo-Fr 10:00-14:00, 16:00-20:00; Sa 10:00-14:00; Su off"
-website: "https://redoficial.citroen.es/alcala-de-henares-automocion"
+street: Vía Complutense
+housenumber: "113"
+phone: +34 918 801 012
+opening_hours: Mo-Fr 10:00-14:00, 16:00-20:00; Sa 10:00-14:00; Su off
+website: https://redoficial.citroen.es/alcala-de-henares-automocion

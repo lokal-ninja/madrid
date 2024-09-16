@@ -4,8 +4,8 @@ latitude: 40.43141
 longitude: -3.71566
 postcode: "28015"
 city: Madrid
-street: "Calle de Gaztambide"
-housenumber: 6
-phone: "+34 915 49 88 21"
+street: Calle de Gaztambide
+housenumber: "6"
+phone: +34 915 49 88 21
 opening_hours: ""
-website: "https://libreriagaztambide.com/"
+website: https://libreriagaztambide.com/

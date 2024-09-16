@@ -4,8 +4,8 @@ latitude: 40.28769
 longitude: -3.78732
 postcode: "28945"
 city: Fuenlabrada
-street: "Paseo de Puerto Rico"
-housenumber: 8
-phone: "+34 910 411424"
-opening_hours: "Mo-Sa 10:00-20:30"
-website: "https://piojitosfuera.es/"
+street: Paseo de Puerto Rico
+housenumber: "8"
+phone: +34 910 411424
+opening_hours: Mo-Sa 10:00-20:30
+website: https://piojitosfuera.es/

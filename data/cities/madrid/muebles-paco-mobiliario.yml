@@ -4,8 +4,8 @@ latitude: 40.35425
 longitude: -3.68599
 postcode: "28021"
 city: Madrid
-street: "Calle de María Barrientos"
-housenumber: 13
-phone: "+34 915 051 589"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30"
-website: "https://www.mueblespaco.com"
+street: Calle de María Barrientos
+housenumber: "13"
+phone: +34 915 051 589
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30
+website: https://www.mueblespaco.com

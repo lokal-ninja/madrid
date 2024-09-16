@@ -4,8 +4,8 @@ latitude: 40.47857
 longitude: -3.70474
 postcode: "28029"
 city: Madrid
-street: "Plaza de Mondariz"
-housenumber: 6
-phone: "+34 911690738"
-opening_hours: "Mo-Fr 10:00-14:00,16:00-19:00"
-website: "https://cucutoys.es"
+street: Plaza de Mondariz
+housenumber: "6"
+phone: +34 911690738
+opening_hours: Mo-Fr 10:00-14:00,16:00-19:00
+website: https://cucutoys.es

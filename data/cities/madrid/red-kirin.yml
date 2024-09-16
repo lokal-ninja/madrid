@@ -4,8 +4,8 @@ latitude: 40.42377
 longitude: -3.70124
 postcode: "28004"
 city: Madrid
-street: "Calle de Colón"
-housenumber: 5
+street: Calle de Colón
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

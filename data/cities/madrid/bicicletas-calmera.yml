@@ -4,8 +4,8 @@ latitude: 40.41053
 longitude: -3.6958
 postcode: "28012"
 city: Madrid
-street: "Calle de Atocha"
-housenumber: 98
+street: Calle de Atocha
+housenumber: "98"
 phone: ""
 opening_hours: ""
-website: "https://www.calmera.es/"
+website: https://www.calmera.es/

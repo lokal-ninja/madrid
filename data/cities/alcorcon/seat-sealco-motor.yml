@@ -1,11 +1,11 @@
 id: 500111960
-type: way
+type: node
 latitude: 40.35631
 longitude: -3.82731
 postcode: "28922"
 city: Alcorcón
-street: "Avenida San Martín de Valdeiglesias"
-housenumber: 13
+street: Avenida San Martín de Valdeiglesias
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

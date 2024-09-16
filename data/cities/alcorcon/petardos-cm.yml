@@ -1,11 +1,11 @@
 id: 500141104
-type: way
+type: node
 latitude: 40.33547
 longitude: -3.81941
 postcode: "28923"
 city: Alcorcón
-street: "Calle del Parque Ferial"
-housenumber: 13
+street: Calle del Parque Ferial
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.petardoscm.com/"
+website: https://www.petardoscm.com/

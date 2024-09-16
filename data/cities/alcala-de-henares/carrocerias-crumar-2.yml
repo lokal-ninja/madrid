@@ -1,11 +1,11 @@
 id: 502787587
-type: way
+type: node
 latitude: 40.48171
 longitude: -3.3832
 postcode: "28802"
 city: Alcalá de Henares
-street: "Calle de Noruega"
-housenumber: 25
+street: Calle de Noruega
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

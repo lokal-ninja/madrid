@@ -1,11 +1,11 @@
 id: 477100223
-type: way
+type: node
 latitude: 40.55581
 longitude: -3.61074
 postcode: "28702"
 city: San Sebastián de Los Reyes
-street: "Avenida de los Pirineos"
-housenumber: 29
-phone: "+34 916 51 97 24"
+street: Avenida de los Pirineos
+housenumber: "29"
+phone: +34 916 51 97 24
 opening_hours: ""
-website: "https://www.aldautomotor.es/"
+website: https://www.aldautomotor.es/

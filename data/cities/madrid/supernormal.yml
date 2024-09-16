@@ -4,8 +4,8 @@ latitude: 40.43224
 longitude: -3.69726
 postcode: "28010"
 city: Madrid
-street: "Plaza de Chamberí"
-housenumber: 11
-phone: "+34 914 355 477"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 10:00-14:30"
-website: "https://supernormal.es/"
+street: Plaza de Chamberí
+housenumber: "11"
+phone: +34 914 355 477
+opening_hours: Mo-Fr 10:00-20:30; Sa 10:00-14:30
+website: https://supernormal.es/

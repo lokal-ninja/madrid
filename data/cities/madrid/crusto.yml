@@ -4,8 +4,8 @@ latitude: 40.42348
 longitude: -3.69871
 postcode: "28004"
 city: Madrid
-street: "Calle de Hortaleza"
-housenumber: 78
+street: Calle de Hortaleza
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 07:30-21:00; PH,Sa,Su 08:30-21:00"
+opening_hours: Mo-Fr 07:30-21:00; PH,Sa,Su 08:30-21:00
 website: ""

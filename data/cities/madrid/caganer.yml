@@ -4,8 +4,8 @@ latitude: 40.41534
 longitude: -3.71197
 postcode: "28013"
 city: Madrid
-street: "Calle Mayor"
-housenumber: 82
+street: Calle Mayor
+housenumber: "82"
 phone: "+34650371077"
 opening_hours: ""
-website: "https://caganer.com/es/info/encuentranos-43"
+website: https://caganer.com/es/info/encuentranos-43

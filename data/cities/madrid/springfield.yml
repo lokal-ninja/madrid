@@ -4,8 +4,8 @@ latitude: 40.42041
 longitude: -3.70493
 postcode: "28013"
 city: Madrid
-street: "Gran Vía"
-housenumber: 40
-phone: "+34 91 521 37 63"
+street: Gran Vía
+housenumber: "40"
+phone: +34 91 521 37 63
 opening_hours: ""
-website: "https://spf.com/"
+website: https://spf.com/

@@ -4,8 +4,8 @@ latitude: 40.4848
 longitude: -3.3609
 postcode: "28805"
 city: Alcalá de Henares
-street: "Calle del Teniente Ruiz"
-housenumber: 2
-phone: "+34 91 265 78 67"
-opening_hours: "Mo-Sa 10:00-14:00, 17:30-20:30"
-website: "http://www.alcalabikes.es"
+street: Calle del Teniente Ruiz
+housenumber: "2"
+phone: +34 91 265 78 67
+opening_hours: Mo-Sa 10:00-14:00, 17:30-20:30
+website: http://www.alcalabikes.es

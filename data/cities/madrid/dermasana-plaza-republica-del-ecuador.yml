@@ -4,8 +4,8 @@ latitude: 40.45486
 longitude: -3.67797
 postcode: "28016"
 city: Madrid
-street: "Plaza República del Ecuador"
-housenumber: 2
-phone: "+34 910881400"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 10:00-20:00"
-website: "https://www.clinicadermasana.com/"
+street: Plaza República del Ecuador
+housenumber: "2"
+phone: +34 910881400
+opening_hours: Mo-Fr 09:00-21:00; Sa 10:00-20:00
+website: https://www.clinicadermasana.com/

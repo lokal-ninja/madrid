@@ -4,8 +4,8 @@ latitude: 40.54501
 longitude: -3.92735
 postcode: "28232"
 city: Las Rozas de Madrid
-street: "Calle Borni"
-housenumber: 4
-phone: "+34 667262292"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mybike.bike/"
+street: Calle Borni
+housenumber: "4"
+phone: +34 667262292
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mybike.bike/

@@ -1,11 +1,11 @@
 id: 616252179
-type: way
+type: node
 latitude: 40.61579
 longitude: -4.02445
 postcode: ""
 city: Galapagar
-street: "Carretera de Guadarrama"
-housenumber: 3
-phone: "+34 91 161 8001;+34 696 728 930;+34 629 116 900"
+street: Carretera de Guadarrama
+housenumber: "3"
+phone: +34 91 161 8001;+34 696 728 930;+34 629 116 900
 opening_hours: ""
-website: "https://www.viverosrucat.es/"
+website: https://www.viverosrucat.es/

@@ -4,8 +4,8 @@ latitude: 40.45285
 longitude: -3.69946
 postcode: "28020"
 city: Madrid
-street: "Calle de la Infanta Mercedes"
-housenumber: 5
+street: Calle de la Infanta Mercedes
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-15:00,17:00-20:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:30-15:00,17:00-20:30; Sa 10:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.43349
 longitude: -3.68644
 postcode: "28006"
 city: Madrid
-street: "Calle de Serrano"
-housenumber: 98
-phone: "+34 914 26 28 37"
+street: Calle de Serrano
+housenumber: "98"
+phone: +34 914 26 28 37
 opening_hours: ""
-website: "https://ibermaison.com/"
+website: https://ibermaison.com/

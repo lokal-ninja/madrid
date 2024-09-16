@@ -4,8 +4,8 @@ latitude: 40.42096
 longitude: -3.70811
 postcode: "28013"
 city: Madrid
-street: "Calle de San Bernardo"
-housenumber: 4
+street: Calle de San Bernardo
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.tikbooks.com/"
+website: https://www.tikbooks.com/

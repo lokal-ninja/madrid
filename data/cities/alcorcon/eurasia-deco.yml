@@ -1,11 +1,11 @@
 id: 500190652
-type: way
+type: node
 latitude: 40.34078
 longitude: -3.81276
 postcode: ""
 city: Alcorcón
-street: "Calle Industrias"
-housenumber: 8
+street: Calle Industrias
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

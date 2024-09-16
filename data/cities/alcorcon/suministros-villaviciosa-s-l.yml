@@ -1,11 +1,11 @@
 id: 500122810
-type: way
+type: node
 latitude: 40.3597
 longitude: -3.82706
 postcode: "28922"
 city: Alcorcón
-street: "Avenida de América"
-housenumber: 16
+street: Avenida de América
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.40956
 longitude: -3.70823
 postcode: "28005"
 city: Madrid
-street: "Plaza General Vara del Rey"
-housenumber: 11
+street: Plaza General Vara del Rey
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.tailak.com/es/"
+website: https://www.tailak.com/es/

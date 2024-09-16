@@ -4,8 +4,8 @@ latitude: 40.41326
 longitude: -3.70084
 postcode: "28012"
 city: Madrid
-street: "Calle de Atocha"
-housenumber: 45
-phone: "+34 911 38 54 72"
-opening_hours: "Mo-Fr 10:30-14:00, 16:30-20:30; Sa 10:30-14:00"
-website: "https://realcash.es/"
+street: Calle de Atocha
+housenumber: "45"
+phone: +34 911 38 54 72
+opening_hours: Mo-Fr 10:30-14:00, 16:30-20:30; Sa 10:30-14:00
+website: https://realcash.es/

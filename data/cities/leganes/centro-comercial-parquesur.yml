@@ -1,11 +1,11 @@
 id: 125235653
-type: way
+type: node
 latitude: 40.34064
 longitude: -3.73677
 postcode: "28916"
 city: Leganés
-street: "Av. de Gran Bretaña"
-housenumber: 
-phone: "+34 916 87 36 00"
+street: Av. de Gran Bretaña
+housenumber: ""
+phone: +34 916 87 36 00
 opening_hours: ""
-website: "https://es.westfield.com/parquesur"
+website: https://es.westfield.com/parquesur

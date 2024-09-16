@@ -4,8 +4,8 @@ latitude: 40.42961
 longitude: -3.54107
 postcode: "28823"
 city: Coslada
-street: "Calle Venezuela"
-housenumber: 9
+street: Calle Venezuela
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.bloomestlaundry.es/store/bloomest-coslada/"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.bloomestlaundry.es/store/bloomest-coslada/

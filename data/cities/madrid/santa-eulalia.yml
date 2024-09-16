@@ -4,8 +4,8 @@ latitude: 40.4172
 longitude: -3.70969
 postcode: "28013"
 city: Madrid
-street: "Calle del Espejo"
-housenumber: 12
+street: Calle del Espejo
+housenumber: "12"
 phone: ""
-opening_hours: "08:30-20:00"
+opening_hours: 08:30-20:00
 website: ""

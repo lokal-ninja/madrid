@@ -1,11 +1,11 @@
 id: 124901049
-type: way
+type: node
 latitude: 40.47218
 longitude: -3.84946
 postcode: "28221"
 city: Majadahonda
-street: "Calle Las Norias"
-housenumber: 92
-phone: "+34 916 383 461"
+street: Calle Las Norias
+housenumber: "92"
+phone: +34 916 383 461
 opening_hours: ""
-website: "https://ccmontedelpilar.com/"
+website: https://ccmontedelpilar.com/

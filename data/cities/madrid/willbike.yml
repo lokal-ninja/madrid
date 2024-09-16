@@ -4,8 +4,8 @@ latitude: 40.40043
 longitude: -3.66413
 postcode: "28038"
 city: Madrid
-street: "Camino de Valderribas"
-housenumber: 41
+street: Camino de Valderribas
+housenumber: "41"
 phone: ""
-opening_hours: "Sa 10:00-14:00; Mo, We, Fr 10:00-14:00, 17:00-20:30; Tu, Th 10:00-20:30"
+opening_hours: Sa 10:00-14:00; Mo, We, Fr 10:00-14:00, 17:00-20:30; Tu, Th 10:00-20:30
 website: ""

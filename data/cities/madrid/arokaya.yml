@@ -4,8 +4,8 @@ latitude: 40.42395
 longitude: -3.70853
 postcode: "28015"
 city: Madrid
-street: "Calle de la Manzana"
-housenumber: 15
+street: Calle de la Manzana
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

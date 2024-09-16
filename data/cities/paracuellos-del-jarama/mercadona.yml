@@ -4,8 +4,8 @@ latitude: 40.5089
 longitude: -3.51256
 postcode: "28860"
 city: Paracuellos del Jarama
-street: "Avenida de los Hoyos"
-housenumber: 2
+street: Avenida de los Hoyos
+housenumber: "2"
 phone: "+34910688559"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es/"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es/

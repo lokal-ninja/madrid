@@ -1,11 +1,11 @@
 id: 151385209
-type: way
+type: node
 latitude: 40.49026
 longitude: -3.87681
 postcode: "28231"
 city: Las Rozas
-street: "Calle de la Comunidad de Madrid"
-housenumber: 37
+street: Calle de la Comunidad de Madrid
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

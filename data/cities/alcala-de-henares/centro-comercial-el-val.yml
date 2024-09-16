@@ -1,11 +1,11 @@
 id: 221087009
-type: way
+type: node
 latitude: 40.48548
 longitude: -3.34796
 postcode: "28804"
 city: Alcalá de Henares
-street: "Avenida de Valladolid"
-housenumber: 2
+street: Avenida de Valladolid
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

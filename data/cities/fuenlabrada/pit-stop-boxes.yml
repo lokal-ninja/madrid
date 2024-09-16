@@ -1,11 +1,11 @@
 id: 970139360
-type: way
+type: node
 latitude: 40.29303
 longitude: -3.81313
 postcode: "28942"
 city: Fuenlabrada
-street: "Calle del Embalse"
-housenumber: 12
+street: Calle del Embalse
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

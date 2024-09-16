@@ -4,8 +4,8 @@ latitude: 40.42885
 longitude: -3.67679
 postcode: "28001"
 city: Madrid
-street: "Calle de Don Ramón de la Cruz"
-housenumber: 69
-phone: "+34 910 45 93 63"
-opening_hours: "Mo-Fr 10:30-14:00,17:00-20:00; Sa 10:00-15:00"
-website: "https://elsuperdelospastores.com"
+street: Calle de Don Ramón de la Cruz
+housenumber: "69"
+phone: +34 910 45 93 63
+opening_hours: Mo-Fr 10:30-14:00,17:00-20:00; Sa 10:00-15:00
+website: https://elsuperdelospastores.com

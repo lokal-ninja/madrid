@@ -4,8 +4,8 @@ latitude: 40.38584
 longitude: -3.71151
 postcode: "28026"
 city: Madrid
-street: "Calle María Antonia"
-housenumber: 8
-phone: "+34 910401887"
-opening_hours: "Mo-Su 10:00-22:00"
+street: Calle María Antonia
+housenumber: "8"
+phone: +34 910401887
+opening_hours: Mo-Su 10:00-22:00
 website: ""

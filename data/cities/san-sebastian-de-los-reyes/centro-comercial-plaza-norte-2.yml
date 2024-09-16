@@ -1,11 +1,11 @@
 id: 26208976
-type: way
+type: node
 latitude: 40.54154
 longitude: -3.61592
 postcode: "28703"
 city: San Sebastián de los Reyes
-street: "Plaza del Comercio"
-housenumber: 11
+street: Plaza del Comercio
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

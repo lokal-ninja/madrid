@@ -4,8 +4,8 @@ latitude: 40.4257
 longitude: -3.60625
 postcode: "28022"
 city: Madrid
-street: "Avenida de Niza"
-housenumber: 5
-phone: "+34 917756554"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://floresmariadelprado.es/"
+street: Avenida de Niza
+housenumber: "5"
+phone: +34 917756554
+opening_hours: Mo-Sa 10:00-19:00
+website: https://floresmariadelprado.es/

@@ -4,8 +4,8 @@ latitude: 40.41592
 longitude: -3.67573
 postcode: "28009"
 city: Madrid
-street: "Calle del Doce de Octubre"
-housenumber: 11
+street: Calle del Doce de Octubre
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:30-22:00; Su 09:00-22:00"
+opening_hours: Mo-Sa 08:30-22:00; Su 09:00-22:00
 website: ""

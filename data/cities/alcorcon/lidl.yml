@@ -1,11 +1,11 @@
 id: 499510232
-type: way
+type: node
 latitude: 40.33748
 longitude: -3.83474
 postcode: ""
 city: Alcorcón
-street: "Avenida las Retamas"
-housenumber: 16
+street: Avenida las Retamas
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-15:00"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-15:00
 website: ""

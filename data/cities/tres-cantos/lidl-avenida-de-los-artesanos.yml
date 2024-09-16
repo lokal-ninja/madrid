@@ -1,11 +1,11 @@
 id: 868615656
-type: way
+type: node
 latitude: 40.61412
 longitude: -3.70724
 postcode: "28760"
 city: Tres Cantos
-street: "Avenida de los Artesanos"
-housenumber: 56
-phone: "+34 900 958 311"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://lidl.es/"
+street: Avenida de los Artesanos
+housenumber: "56"
+phone: +34 900 958 311
+opening_hours: Mo-Su 09:00-22:00
+website: https://lidl.es/

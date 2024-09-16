@@ -1,11 +1,11 @@
 id: 382118872
-type: way
+type: node
 latitude: 40.49524
 longitude: -3.34896
 postcode: "28805"
 city: Alcalá de Henares
-street: "Calle Villaconejos"
-housenumber: 13
+street: Calle Villaconejos
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

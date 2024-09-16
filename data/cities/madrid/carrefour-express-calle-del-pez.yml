@@ -4,8 +4,8 @@ latitude: 40.4239
 longitude: -3.70564
 postcode: "28004"
 city: Madrid
-street: "Calle del Pez"
-housenumber: 24
-phone: "+34 902202000"
+street: Calle del Pez
+housenumber: "24"
+phone: +34 902202000
 opening_hours: ""
-website: "https://www.carrefour.es/"
+website: https://www.carrefour.es/

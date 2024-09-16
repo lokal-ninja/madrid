@@ -4,8 +4,8 @@ latitude: 40.55998
 longitude: -4.01583
 postcode: "28270"
 city: Colmenarejo
-street: "Calle Madrid"
-housenumber: 15
-phone: "+34 91 140 90 36"
-opening_hours: "Mo-Fr 08:00-14:00, 17:00-19:00; Sa-Su 07:00-14:30"
+street: Calle Madrid
+housenumber: "15"
+phone: +34 91 140 90 36
+opening_hours: Mo-Fr 08:00-14:00, 17:00-19:00; Sa-Su 07:00-14:30
 website: ""

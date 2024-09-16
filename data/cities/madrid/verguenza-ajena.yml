@@ -4,8 +4,8 @@ latitude: 40.43486
 longitude: -3.71009
 postcode: "28015"
 city: Madrid
-street: "Calle de Galileo"
-housenumber: 56
-phone: "+34 912977034"
-opening_hours: "Tu-Su 13:00-00:00"
-website: "http://www.verguenzajena.es"
+street: Calle de Galileo
+housenumber: "56"
+phone: +34 912977034
+opening_hours: Tu-Su 13:00-00:00
+website: http://www.verguenzajena.es

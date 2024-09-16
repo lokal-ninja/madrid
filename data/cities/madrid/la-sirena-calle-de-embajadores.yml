@@ -4,8 +4,8 @@ latitude: 40.40368
 longitude: -3.70122
 postcode: "28012"
 city: Madrid
-street: "Calle de Embajadores"
-housenumber: 67
+street: Calle de Embajadores
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www.lasirena.es/"
+website: https://www.lasirena.es/

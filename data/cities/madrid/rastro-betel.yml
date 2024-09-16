@@ -4,8 +4,8 @@ latitude: 40.40429
 longitude: -3.69489
 postcode: "28045"
 city: Madrid
-street: "Calle de las Delicias"
-housenumber: 7
-phone: "+34 915 30 13 57"
-opening_hours: "Mo-Fr 09:00-14:00,16:30-20:00; Sa 09:00-14:00"
-website: "https://www.rastrobetel.org/"
+street: Calle de las Delicias
+housenumber: "7"
+phone: +34 915 30 13 57
+opening_hours: Mo-Fr 09:00-14:00,16:30-20:00; Sa 09:00-14:00
+website: https://www.rastrobetel.org/

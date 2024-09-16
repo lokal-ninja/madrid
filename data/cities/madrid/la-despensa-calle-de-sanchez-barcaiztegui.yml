@@ -4,8 +4,8 @@ latitude: 40.40644
 longitude: -3.67278
 postcode: "28007"
 city: Madrid
-street: "Calle de Sánchez Barcáiztegui"
-housenumber: 43
+street: Calle de Sánchez Barcáiztegui
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-15:00; PH closed"
-website: "https://ladespensasupermercados.es/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-15:00; PH closed
+website: https://ladespensasupermercados.es/

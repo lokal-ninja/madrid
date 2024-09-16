@@ -4,8 +4,8 @@ latitude: 40.44054
 longitude: -3.67907
 postcode: "28002"
 city: Madrid
-street: "Calle del Príncipe de Vergara"
-housenumber: 115
-phone: "+34 619262500"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-14:00"
-website: "https://www.kvik.es/busca-tienda/kvik-madrid-principe-de-vergara"
+street: Calle del Príncipe de Vergara
+housenumber: "115"
+phone: +34 619262500
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-14:00
+website: https://www.kvik.es/busca-tienda/kvik-madrid-principe-de-vergara

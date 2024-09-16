@@ -1,11 +1,11 @@
 id: 319193126
-type: way
+type: node
 latitude: 40.5063
 longitude: -3.5494
 postcode: "28860"
 city: Paracuellos de Jarama
-street: "Calle del Cardenal Cisneros"
-housenumber: 8
-phone: "+34 91 658 11 40"
-opening_hours: "Mo-Fr 08:00-19:00; Sa-Su off"
+street: Calle del Cardenal Cisneros
+housenumber: "8"
+phone: +34 91 658 11 40
+opening_hours: Mo-Fr 08:00-19:00; Sa-Su off
 website: ""

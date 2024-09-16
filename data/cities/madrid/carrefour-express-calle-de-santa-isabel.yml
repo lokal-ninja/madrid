@@ -4,8 +4,8 @@ latitude: 40.41096
 longitude: -3.69851
 postcode: "28012"
 city: Madrid
-street: "Calle de Santa Isabel"
+street: Calle de Santa Isabel
 housenumber: 28-30
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-21:00"
-website: "https://www.carrefour.es/_includes/redirect.aspx?tcmUri=tcm:5-41365"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-21:00
+website: https://www.carrefour.es/_includes/redirect.aspx?tcmUri=tcm:5-41365

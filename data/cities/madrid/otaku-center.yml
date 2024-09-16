@@ -4,8 +4,8 @@ latitude: 40.42264
 longitude: -3.70648
 postcode: "28004"
 city: Madrid
-street: "Calle de la Luna"
-housenumber: 24
-phone: "+34 91 523 00 42"
-opening_hours: "Mo-Sa 11:00-14:30, Mo-Th 16:00-20:30, Fr,Sa 16:00-21:00"
-website: "https://www.omegacenter.es/"
+street: Calle de la Luna
+housenumber: "24"
+phone: +34 91 523 00 42
+opening_hours: Mo-Sa 11:00-14:30, Mo-Th 16:00-20:30, Fr,Sa 16:00-21:00
+website: https://www.omegacenter.es/

@@ -4,8 +4,8 @@ latitude: 40.41715
 longitude: -3.71079
 postcode: "28013"
 city: Madrid
-street: "Calle de la Amnistía"
-housenumber: 5
-phone: "+34 91 805 38 99"
-opening_hours: "Mo-Sa 11:00-14:00, 17:00-20:00"
-website: "http://www.laquintademahler.com"
+street: Calle de la Amnistía
+housenumber: "5"
+phone: +34 91 805 38 99
+opening_hours: Mo-Sa 11:00-14:00, 17:00-20:00
+website: http://www.laquintademahler.com

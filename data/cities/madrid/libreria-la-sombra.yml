@@ -4,8 +4,8 @@ latitude: 40.41142
 longitude: -3.6949
 postcode: "28014"
 city: Madrid
-street: "Calle San Pedro"
-housenumber: 20
-phone: "+34 91 137 5609"
+street: Calle San Pedro
+housenumber: "20"
+phone: +34 91 137 5609
 opening_hours: ""
-website: "https://www.librerialasombra.com/"
+website: https://www.librerialasombra.com/

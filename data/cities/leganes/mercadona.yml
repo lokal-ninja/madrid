@@ -4,8 +4,8 @@ latitude: 40.32946
 longitude: -3.76911
 postcode: "28911"
 city: Leganés
-street: "Calle del Charco"
-housenumber: 44
+street: Calle del Charco
+housenumber: "44"
 phone: ""
-opening_hours: "09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: 09:00-21:30
+website: https://www.mercadona.es

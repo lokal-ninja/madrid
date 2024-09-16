@@ -1,11 +1,11 @@
 id: 30177896
-type: way
+type: node
 latitude: 40.46671
 longitude: -3.86666
 postcode: "28220"
 city: Majadahonda
-street: "Avenida de España"
-housenumber: 51
+street: Avenida de España
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Su 10:00-24:00"
+opening_hours: Mo-Su 10:00-24:00
 website: ""

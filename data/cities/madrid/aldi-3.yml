@@ -1,11 +1,11 @@
 id: 104121135
-type: way
+type: node
 latitude: 40.44448
 longitude: -3.58543
 postcode: "28022"
 city: Madrid
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00; Su 10:00-22:00"
+opening_hours: Mo-Sa 10:00-22:00; Su 10:00-22:00
 website: ""

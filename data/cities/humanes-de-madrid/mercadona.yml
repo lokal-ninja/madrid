@@ -1,11 +1,11 @@
 id: 393319322
-type: way
+type: node
 latitude: 40.25939
 longitude: -3.82097
 postcode: "28970"
 city: Humanes de Madrid
-street: "CTRA. FUENLABRADA-HUMANES S/N"
-housenumber: 
+street: CTRA. FUENLABRADA-HUMANES S/N
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

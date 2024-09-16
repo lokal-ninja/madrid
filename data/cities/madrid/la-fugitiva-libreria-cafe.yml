@@ -4,8 +4,8 @@ latitude: 40.41126
 longitude: -3.69857
 postcode: "28012"
 city: Madrid
-street: "Calle de Santa Isabel"
-housenumber: 7
+street: Calle de Santa Isabel
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.lafugitiva.es/"
+website: https://www.lafugitiva.es/

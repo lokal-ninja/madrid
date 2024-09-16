@@ -4,8 +4,8 @@ latitude: 40.43169
 longitude: -3.70334
 postcode: "28010"
 city: Madrid
-street: "Calle de Fuencarral"
-housenumber: 138
-phone: "+34 916 227 932"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:30-20:30"
-website: "https://www.herbolarionavarro.es/tiendas/herbolario-navarro-fuencarral"
+street: Calle de Fuencarral
+housenumber: "138"
+phone: +34 916 227 932
+opening_hours: Mo-Sa 10:00-21:00; Su 11:30-20:30
+website: https://www.herbolarionavarro.es/tiendas/herbolario-navarro-fuencarral

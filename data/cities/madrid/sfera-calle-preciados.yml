@@ -4,8 +4,8 @@ latitude: 40.41749
 longitude: -3.70421
 postcode: "28013"
 city: Madrid
-street: "Calle Preciados"
-housenumber: 4
-phone: "+34 915238370"
-opening_hours: "Mo-Sa 10:00-22:00; Su 11:00-21:00"
-website: "https://www.sfera.com"
+street: Calle Preciados
+housenumber: "4"
+phone: +34 915238370
+opening_hours: Mo-Sa 10:00-22:00; Su 11:00-21:00
+website: https://www.sfera.com

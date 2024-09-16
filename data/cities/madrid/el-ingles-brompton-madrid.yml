@@ -4,8 +4,8 @@ latitude: 40.41198
 longitude: -3.70016
 postcode: "28012"
 city: Madrid
-street: "Calle del Ave María"
-housenumber: 3
+street: Calle del Ave María
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

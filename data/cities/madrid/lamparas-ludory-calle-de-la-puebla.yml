@@ -4,8 +4,8 @@ latitude: 40.4221
 longitude: -3.70233
 postcode: "28004"
 city: Madrid
-street: "Calle de la Puebla"
-housenumber: 6
+street: Calle de la Puebla
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

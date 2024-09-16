@@ -4,8 +4,8 @@ latitude: 40.41799
 longitude: -3.70474
 postcode: "28013"
 city: Madrid
-street: "Calle Preciados"
-housenumber: 7
+street: Calle Preciados
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00; Su 11:00-21:00"
+opening_hours: Mo-Sa 10:00-22:00; Su 11:00-21:00
 website: ""

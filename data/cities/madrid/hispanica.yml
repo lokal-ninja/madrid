@@ -4,8 +4,8 @@ latitude: 40.40768
 longitude: -3.67725
 postcode: "28007"
 city: Madrid
-street: "Avenida del Mediterráneo"
-housenumber: 5
+street: Avenida del Mediterráneo
+housenumber: "5"
 phone: "+34915020303"
-opening_hours: "Mo-Th 10:00-14:30,17:00-20:00; Fr 10:00-14:30"
-website: "https://www.orohispanica.es/"
+opening_hours: Mo-Th 10:00-14:30,17:00-20:00; Fr 10:00-14:30
+website: https://www.orohispanica.es/

@@ -4,8 +4,8 @@ latitude: 40.41716
 longitude: -3.70584
 postcode: "28013"
 city: Madrid
-street: "Calle del Arenal"
-housenumber: 10
+street: Calle del Arenal
+housenumber: "10"
 phone: "+34636022467"
 opening_hours: ""
-website: "https://corchospain.com/index.php"
+website: https://corchospain.com/index.php

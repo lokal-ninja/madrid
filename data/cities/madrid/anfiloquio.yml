@@ -4,8 +4,8 @@ latitude: 40.4103
 longitude: -3.70794
 postcode: "28005"
 city: Madrid
-street: "Calle de Santa Ana"
-housenumber: 2
+street: Calle de Santa Ana
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

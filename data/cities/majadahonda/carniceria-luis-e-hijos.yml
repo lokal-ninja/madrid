@@ -4,8 +4,8 @@ latitude: 40.46909
 longitude: -3.87486
 postcode: "28220"
 city: Majadahonda
-street: "Calle Luna"
-housenumber: 3
-phone: "+34 916 39 60 94"
-opening_hours: "Mo-Fr 09:00-14:00,17:00-20:30; Sa 09:00-14:30"
+street: Calle Luna
+housenumber: "3"
+phone: +34 916 39 60 94
+opening_hours: Mo-Fr 09:00-14:00,17:00-20:30; Sa 09:00-14:30
 website: ""

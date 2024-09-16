@@ -1,11 +1,11 @@
 id: 277281607
-type: way
+type: node
 latitude: 40.38248
 longitude: -3.64916
 postcode: "28018"
 city: Madrid
-street: "Avenida de Pablo Neruda"
-housenumber: 59
+street: Avenida de Pablo Neruda
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

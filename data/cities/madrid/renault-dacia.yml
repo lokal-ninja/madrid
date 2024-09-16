@@ -1,11 +1,11 @@
 id: 247340262
-type: way
+type: node
 latitude: 40.44161
 longitude: -3.62385
 postcode: "28027"
 city: Madrid
-street: "Calle de Alcalá"
-housenumber: 520
+street: Calle de Alcalá
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

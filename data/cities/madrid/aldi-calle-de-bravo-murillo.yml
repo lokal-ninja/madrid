@@ -4,8 +4,8 @@ latitude: 40.45598
 longitude: -3.7021
 postcode: "28020"
 city: Madrid
-street: "Calle de Bravo Murillo"
-housenumber: 200
+street: Calle de Bravo Murillo
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-22:00
 website: ""

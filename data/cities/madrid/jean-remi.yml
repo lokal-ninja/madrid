@@ -4,8 +4,8 @@ latitude: 40.40722
 longitude: -3.6688
 postcode: "28007"
 city: Madrid
-street: "Calle Cruz del Sur"
-housenumber: 31
+street: Calle Cruz del Sur
+housenumber: "31"
 phone: "+34914334296"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00
 website: ""

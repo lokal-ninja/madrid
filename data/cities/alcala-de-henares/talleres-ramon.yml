@@ -1,11 +1,11 @@
 id: 382496865
-type: way
+type: node
 latitude: 40.49353
 longitude: -3.34148
 postcode: "28805"
 city: Alcalá de Henares
-street: "Calle Ceuta"
-housenumber: 8
+street: Calle Ceuta
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

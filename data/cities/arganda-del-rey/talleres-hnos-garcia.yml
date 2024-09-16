@@ -4,8 +4,8 @@ latitude: 40.30105
 longitude: -3.4605
 postcode: "28500"
 city: Arganda del Rey
-street: "Calle Río Ebro"
-housenumber: 9
-phone: "+34 918 713 541"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:30-14:00"
+street: Calle Río Ebro
+housenumber: "9"
+phone: +34 918 713 541
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:30-14:00
 website: ""

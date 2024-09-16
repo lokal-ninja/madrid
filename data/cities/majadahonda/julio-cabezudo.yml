@@ -4,8 +4,8 @@ latitude: 40.47428
 longitude: -3.87434
 postcode: "28220"
 city: Majadahonda
-street: "Calle Doctor Calero"
-housenumber: 3
-phone: "+34 916387132"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-20:00; Sa 09:00-14:30,17:00-20:00"
+street: Calle Doctor Calero
+housenumber: "3"
+phone: +34 916387132
+opening_hours: Mo-Fr 09:00-14:00,16:00-20:00; Sa 09:00-14:30,17:00-20:00
 website: ""

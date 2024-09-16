@@ -1,11 +1,11 @@
 id: 221028264
-type: way
+type: node
 latitude: 40.47568
 longitude: -3.3936
 postcode: "28802"
 city: Alcalá de Henares
-street: "Calle de Antonio Suárez"
-housenumber: 6
+street: Calle de Antonio Suárez
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:30"
+opening_hours: Mo-Su 09:00-21:30
 website: ""

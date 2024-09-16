@@ -4,8 +4,8 @@ latitude: 40.45232
 longitude: -3.7093
 postcode: "28039"
 city: Madrid
-street: "Calle de Jerónima Llorente"
-housenumber: 76
-phone: "+34 914 50 89 62"
-opening_hours: "Mo-Sa 09:00-21:30"
+street: Calle de Jerónima Llorente
+housenumber: "76"
+phone: +34 914 50 89 62
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

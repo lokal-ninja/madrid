@@ -4,8 +4,8 @@ latitude: 40.40651
 longitude: -3.70192
 postcode: "28012"
 city: Madrid
-street: "Calle del Mesón de Paredes"
-housenumber: 80
+street: Calle del Mesón de Paredes
+housenumber: "80"
 phone: "+34915278096"
-opening_hours: "Mo-Fr 09:30-15:00, 16:00-20:30; Sa 10:30-14:00"
+opening_hours: Mo-Fr 09:30-15:00, 16:00-20:30; Sa 10:30-14:00
 website: ""

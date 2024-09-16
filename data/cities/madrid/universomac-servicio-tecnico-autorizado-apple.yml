@@ -4,8 +4,8 @@ latitude: 40.43818
 longitude: -3.67372
 postcode: "28028"
 city: Madrid
-street: "Calle de Coslada"
-housenumber: 15
-phone: "+34 911 88 88 20"
+street: Calle de Coslada
+housenumber: "15"
+phone: +34 911 88 88 20
 opening_hours: ""
-website: "http://www.universomac.es/"
+website: http://www.universomac.es/

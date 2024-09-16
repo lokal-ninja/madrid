@@ -1,11 +1,11 @@
 id: 1151506367
-type: way
+type: node
 latitude: 40.42031
 longitude: -3.55633
 postcode: "28822"
 city: Coslada
-street: "Avenida de España"
-housenumber: 116
-phone: "+34 916692926"
+street: Avenida de España
+housenumber: "116"
+phone: +34 916692926
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

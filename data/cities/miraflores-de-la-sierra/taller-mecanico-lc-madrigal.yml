@@ -1,11 +1,11 @@
 id: 1124514642
-type: way
+type: node
 latitude: 40.8108
 longitude: -3.76954
 postcode: "28792"
 city: Miraflores de la Sierra
-street: "Carretera de Madrid"
-housenumber: 
-phone: "+34 918 443 201"
-opening_hours: "Tu-Fr 08:00-14:00,16:00-20:00"
+street: Carretera de Madrid
+housenumber: ""
+phone: +34 918 443 201
+opening_hours: Tu-Fr 08:00-14:00,16:00-20:00
 website: ""

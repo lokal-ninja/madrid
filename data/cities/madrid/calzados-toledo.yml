@@ -1,11 +1,11 @@
 id: 692427537
-type: way
+type: node
 latitude: 40.41415
 longitude: -3.70763
 postcode: ""
 city: Madrid
-street: "Calle de Toledo"
-housenumber: 20
+street: Calle de Toledo
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

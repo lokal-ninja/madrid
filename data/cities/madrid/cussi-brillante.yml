@@ -1,11 +1,11 @@
 id: 686362088
-type: way
+type: node
 latitude: 40.4121
 longitude: -3.70411
 postcode: "28012"
 city: Madrid
-street: "Plaza de Tirso de Molina"
-housenumber: 5
+street: Plaza de Tirso de Molina
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

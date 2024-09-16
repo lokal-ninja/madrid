@@ -1,11 +1,11 @@
 id: 119181159
-type: way
+type: node
 latitude: 40.42131
 longitude: -3.71922
 postcode: "28008"
 city: Madrid
-street: "Paseo de la Florida"
-housenumber: 2
+street: Paseo de la Florida
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

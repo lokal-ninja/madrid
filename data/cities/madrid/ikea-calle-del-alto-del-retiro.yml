@@ -1,11 +1,11 @@
 id: 32424328
-type: way
+type: node
 latitude: 40.37053
 longitude: -3.59583
 postcode: "28051"
 city: Madrid
-street: "Calle del Alto del Retiro"
-housenumber: 33
-phone: "+34 900 400 922"
-opening_hours: "10:00-22:00"
-website: "https://www.ikea.com/es/es"
+street: Calle del Alto del Retiro
+housenumber: "33"
+phone: +34 900 400 922
+opening_hours: 10:00-22:00
+website: https://www.ikea.com/es/es

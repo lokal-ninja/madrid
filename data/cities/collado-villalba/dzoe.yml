@@ -4,8 +4,8 @@ latitude: 40.62656
 longitude: -4.00524
 postcode: "28400"
 city: Collado Villalba
-street: "Calle Rafael Alberti"
-housenumber: 13
+street: Calle Rafael Alberti
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:30,15:30-21:00"
-website: "https://www.dzoe.es/"
+opening_hours: Mo-Sa 10:00-13:30,15:30-21:00
+website: https://www.dzoe.es/

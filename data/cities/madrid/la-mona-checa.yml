@@ -4,8 +4,8 @@ latitude: 40.42675
 longitude: -3.70192
 postcode: "28004"
 city: Madrid
-street: "Calle de Velarde"
-housenumber: 2
+street: Calle de Velarde
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 12:00-15:00, 16:30-20:30"
-website: "https://lamonacheca.com"
+opening_hours: Mo-Sa 12:00-15:00, 16:30-20:30
+website: https://lamonacheca.com

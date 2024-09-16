@@ -4,8 +4,8 @@ latitude: 40.41314
 longitude: -3.70734
 postcode: "28005"
 city: Madrid
-street: "Calle de Toledo"
-housenumber: 35
-phone: "+34 91 365 18 38"
-opening_hours: "Mo-Fr 09:30-14:00,17:00-20:30; Sa 09:30-14:00"
-website: "https://elbotijo1754.es/"
+street: Calle de Toledo
+housenumber: "35"
+phone: +34 91 365 18 38
+opening_hours: Mo-Fr 09:30-14:00,17:00-20:30; Sa 09:30-14:00
+website: https://elbotijo1754.es/

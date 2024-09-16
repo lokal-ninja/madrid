@@ -4,8 +4,8 @@ latitude: 40.43892
 longitude: -3.71478
 postcode: "28003"
 city: Madrid
-street: "Calle de Cea Bermúdez"
-housenumber: 53
-phone: "+34 914908900"
-opening_hours: "Mo-Sa 09:00-23:00; Su 10:00-15:00"
-website: "https://www.carrefour.es/"
+street: Calle de Cea Bermúdez
+housenumber: "53"
+phone: +34 914908900
+opening_hours: Mo-Sa 09:00-23:00; Su 10:00-15:00
+website: https://www.carrefour.es/

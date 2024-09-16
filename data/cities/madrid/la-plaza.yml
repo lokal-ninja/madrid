@@ -4,8 +4,8 @@ latitude: 40.4414
 longitude: -3.65464
 postcode: "28027"
 city: Madrid
-street: "Calle de Martínez de Villergas"
-housenumber: 21
+street: Calle de Martínez de Villergas
+housenumber: "21"
 phone: ""
-opening_hours: "9:30-21:30"
+opening_hours: 9:30-21:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.42106
 longitude: -3.70755
 postcode: "28013"
 city: Madrid
-street: "Gran Vía"
-housenumber: 47
-phone: "+34 91 548 28 28"
-opening_hours: "Mo-Th 10:00-21:30; Fr,Sa 10:00-22:00; PH,Su 11:00-20:00"
+street: Gran Vía
+housenumber: "47"
+phone: +34 91 548 28 28
+opening_hours: Mo-Th 10:00-21:30; Fr,Sa 10:00-22:00; PH,Su 11:00-20:00
 website: ""

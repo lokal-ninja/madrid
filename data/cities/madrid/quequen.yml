@@ -4,8 +4,8 @@ latitude: 40.42613
 longitude: -3.7071
 postcode: "28015"
 city: Madrid
-street: "Calle de San Bernardo"
-housenumber: 59
+street: Calle de San Bernardo
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "http://www.pasteleriaquequen.com/"
+website: http://www.pasteleriaquequen.com/

@@ -4,8 +4,8 @@ latitude: 40.40113
 longitude: -3.70969
 postcode: "28005"
 city: Madrid
-street: "Calle de Melilla"
-housenumber: 21
+street: Calle de Melilla
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://jamoncito.net/"
+website: https://jamoncito.net/

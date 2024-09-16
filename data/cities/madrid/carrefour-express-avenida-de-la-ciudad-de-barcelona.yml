@@ -4,8 +4,8 @@ latitude: 40.40238
 longitude: -3.67586
 postcode: "28007"
 city: Madrid
-street: "Avenida de la Ciudad de Barcelona"
-housenumber: 61
+street: Avenida de la Ciudad de Barcelona
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 06:00-23:00; Sa,Su 07:00-23:00"
-website: "https://www.carrefour.es/_includes/redirect.aspx?tcmUri=tcm:5-49042"
+opening_hours: Mo-Fr 06:00-23:00; Sa,Su 07:00-23:00
+website: https://www.carrefour.es/_includes/redirect.aspx?tcmUri=tcm:5-49042

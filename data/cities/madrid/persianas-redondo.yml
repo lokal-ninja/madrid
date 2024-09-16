@@ -4,8 +4,8 @@ latitude: 40.45704
 longitude: -3.70278
 postcode: "28039"
 city: Madrid
-street: "Calle de Lope de Haro"
-housenumber: 7
-phone: "+34915712819;+34699029965"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00"
+street: Calle de Lope de Haro
+housenumber: "7"
+phone: +34915712819;+34699029965
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00
 website: ""

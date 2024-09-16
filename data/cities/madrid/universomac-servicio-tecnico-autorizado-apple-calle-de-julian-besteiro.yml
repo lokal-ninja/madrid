@@ -4,8 +4,8 @@ latitude: 40.45891
 longitude: -3.69491
 postcode: "28020"
 city: Madrid
-street: "Calle de Julián Besteiro"
-housenumber: 38
-phone: "+34 911 88 88 23"
+street: Calle de Julián Besteiro
+housenumber: "38"
+phone: +34 911 88 88 23
 opening_hours: ""
-website: "http://www.universomac.es/"
+website: http://www.universomac.es/

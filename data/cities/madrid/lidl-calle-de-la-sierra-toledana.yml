@@ -1,11 +1,11 @@
 id: 410270188
-type: way
+type: node
 latitude: 40.40249
 longitude: -3.66079
 postcode: "28038"
 city: Madrid
-street: "Calle de la Sierra Toledana"
-housenumber: 33
+street: Calle de la Sierra Toledana
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

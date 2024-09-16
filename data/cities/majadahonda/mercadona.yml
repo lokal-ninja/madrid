@@ -4,8 +4,8 @@ latitude: 40.46723
 longitude: -3.87629
 postcode: "28220"
 city: Majadahonda
-street: "Calle Alcalde Julio Labradero"
-housenumber: 2
-phone: "+34 916 39 08 43"
-opening_hours: "Mo-Sa 09:00-21:30; PH,Su off"
-website: "https://www.mercadona.es"
+street: Calle Alcalde Julio Labradero
+housenumber: "2"
+phone: +34 916 39 08 43
+opening_hours: Mo-Sa 09:00-21:30; PH,Su off
+website: https://www.mercadona.es

@@ -4,8 +4,8 @@ latitude: 40.41858
 longitude: -3.7045
 postcode: "28013"
 city: Madrid
-street: "Calle del Carmen"
-housenumber: 16
+street: Calle del Carmen
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; PH,Su 11:00-20:00"
+opening_hours: Mo-Sa 10:00-21:00; PH,Su 11:00-20:00
 website: ""

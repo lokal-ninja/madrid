@@ -1,11 +1,11 @@
 id: 73542008
-type: way
+type: node
 latitude: 40.2962
 longitude: -3.80128
 postcode: "28941"
 city: Fuenlabrada
-street: "Avenida de las Provincias"
-housenumber: 13
+street: Avenida de las Provincias
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

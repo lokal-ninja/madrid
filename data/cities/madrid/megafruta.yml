@@ -4,8 +4,8 @@ latitude: 40.40641
 longitude: -3.56191
 postcode: "28052"
 city: Madrid
-street: "Avenida Miguel Delibes"
-housenumber: 25
-phone: "+34 624 283 567"
-opening_hours: "Mo-Su 09:00-22:00"
+street: Avenida Miguel Delibes
+housenumber: "25"
+phone: +34 624 283 567
+opening_hours: Mo-Su 09:00-22:00
 website: ""

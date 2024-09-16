@@ -1,11 +1,11 @@
 id: 364710379
-type: way
+type: node
 latitude: 40.4974
 longitude: -3.66946
 postcode: "28050"
 city: Madrid
-street: "Calle Quintanavides"
-housenumber: 7
+street: Calle Quintanavides
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

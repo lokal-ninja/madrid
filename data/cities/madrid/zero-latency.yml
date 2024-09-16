@@ -1,11 +1,11 @@
 id: 480302876
-type: way
+type: node
 latitude: 40.44918
 longitude: -3.66913
 postcode: "28002"
 city: Madrid
-street: "Calle de Pradillo"
-housenumber: 54
-phone: "+34 91 052 0671"
+street: Calle de Pradillo
+housenumber: "54"
+phone: +34 91 052 0671
 opening_hours: ""
-website: "https://zerolatencyvr.es/"
+website: https://zerolatencyvr.es/

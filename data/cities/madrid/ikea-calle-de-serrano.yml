@@ -4,8 +4,8 @@ latitude: 40.43164
 longitude: -3.68701
 postcode: "28006"
 city: Madrid
-street: "Calle de Serrano"
-housenumber: 55
+street: Calle de Serrano
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-21:00"
-website: "https://www.ikea.com/es/es/ikea/tienda-serrano/"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-21:00
+website: https://www.ikea.com/es/es/ikea/tienda-serrano/

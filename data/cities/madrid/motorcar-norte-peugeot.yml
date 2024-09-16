@@ -4,8 +4,8 @@ latitude: 40.49028
 longitude: -3.69451
 postcode: "28034"
 city: Madrid
-street: "Avenida del Cardenal Herrera Oria"
-housenumber: 63
-phone: "+34 91 729 0455"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-14:00"
-website: "https://redcomercial.peugeot.es/motorcar-herreraoria"
+street: Avenida del Cardenal Herrera Oria
+housenumber: "63"
+phone: +34 91 729 0455
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-14:00
+website: https://redcomercial.peugeot.es/motorcar-herreraoria

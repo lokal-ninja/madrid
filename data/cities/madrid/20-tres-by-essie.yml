@@ -4,8 +4,8 @@ latitude: 40.42843
 longitude: -3.69868
 postcode: ""
 city: Madrid
-street: "Calle de Sagasta"
-housenumber: 23
+street: Calle de Sagasta
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00;PH closed"
+opening_hours: Mo-Sa 09:00-21:00;PH closed
 website: ""

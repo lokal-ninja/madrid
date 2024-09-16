@@ -1,11 +1,11 @@
 id: 263303604
-type: way
+type: node
 latitude: 40.41789
 longitude: -3.67715
 postcode: "28009"
 city: Madrid
-street: "Calle de Ibiza"
-housenumber: 8
+street: Calle de Ibiza
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

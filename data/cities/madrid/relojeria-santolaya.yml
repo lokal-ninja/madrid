@@ -4,8 +4,8 @@ latitude: 40.4334
 longitude: -3.70046
 postcode: "28010"
 city: Madrid
-street: "Calle de Murillo"
-housenumber: 8
+street: Calle de Murillo
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

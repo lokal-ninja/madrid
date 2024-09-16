@@ -4,8 +4,8 @@ latitude: 40.42857
 longitude: -3.69838
 postcode: "28010"
 city: Madrid
-street: "Calle de Manuel Silvela"
-housenumber: 1
-phone: "+34 915 01 84 20"
-opening_hours: "Mo-Fr 10:00-20:15; Sa 10:00-14:00"
-website: "https://www.oohlala.es"
+street: Calle de Manuel Silvela
+housenumber: "1"
+phone: +34 915 01 84 20
+opening_hours: Mo-Fr 10:00-20:15; Sa 10:00-14:00
+website: https://www.oohlala.es

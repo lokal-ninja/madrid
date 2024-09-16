@@ -1,11 +1,11 @@
 id: 618904694
-type: way
+type: node
 latitude: 40.358
 longitude: -3.83945
 postcode: "28922"
 city: Alcorcón
-street: "Avenida San Martín de Valdeiglesias"
-housenumber: 32
-phone: "+34 916 21 18 30"
-opening_hours: "Mo-Fr 09:30-13:30,16:00-20:00; Sa 10:00-13:30"
-website: "https://volkswagensealcomotor.com/"
+street: Avenida San Martín de Valdeiglesias
+housenumber: "32"
+phone: +34 916 21 18 30
+opening_hours: Mo-Fr 09:30-13:30,16:00-20:00; Sa 10:00-13:30
+website: https://volkswagensealcomotor.com/

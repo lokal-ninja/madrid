@@ -4,8 +4,8 @@ latitude: 40.40054
 longitude: -3.62168
 postcode: "28032"
 city: Madrid
-street: "Bulevar de Indalecio Prieto"
-housenumber: 24
-phone: "+34 684244873"
-opening_hours: "Mo-Fr 10:00-14:00, 17:00-20:00; Sa 10:00-13:00"
-website: "https://biciados.net/"
+street: Bulevar de Indalecio Prieto
+housenumber: "24"
+phone: +34 684244873
+opening_hours: Mo-Fr 10:00-14:00, 17:00-20:00; Sa 10:00-13:00
+website: https://biciados.net/

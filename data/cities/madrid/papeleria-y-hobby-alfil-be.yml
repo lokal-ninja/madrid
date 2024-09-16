@@ -4,8 +4,8 @@ latitude: 40.40931
 longitude: -3.6483
 postcode: "28030"
 city: Madrid
-street: "Calle del Camino de los Vinateros"
-housenumber: 99
+street: Calle del Camino de los Vinateros
+housenumber: "99"
 phone: "+34910692651"
-opening_hours: "Mo-Fr 09:00-14:30,17:00-20:30; Sa 09:00-13:00"
-website: "https://www.alfil.be/"
+opening_hours: Mo-Fr 09:00-14:30,17:00-20:30; Sa 09:00-13:00
+website: https://www.alfil.be/

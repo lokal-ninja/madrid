@@ -4,8 +4,8 @@ latitude: 40.44765
 longitude: -3.6993
 postcode: "28020"
 city: Madrid
-street: "Calle de Don Quijote"
-housenumber: 7
+street: Calle de Don Quijote
+housenumber: "7"
 phone: "+34625120549"
-opening_hours: "Tu-Fr 11:00-13:00"
-website: "https://www.ruuudo.es"
+opening_hours: Tu-Fr 11:00-13:00
+website: https://www.ruuudo.es

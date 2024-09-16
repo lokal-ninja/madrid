@@ -1,11 +1,11 @@
 id: 364551414
-type: way
+type: node
 latitude: 40.38151
 longitude: -3.62529
 postcode: "28031"
 city: Madrid
-street: "Calle de San Jaime"
-housenumber: 31
+street: Calle de San Jaime
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1243468868
-type: way
+type: node
 latitude: 40.42015
 longitude: -3.57691
 postcode: "28821"
 city: Coslada
-street: "Avenida de la Constitución"
-housenumber: 3
-phone: "+34 913359550"
+street: Avenida de la Constitución
+housenumber: "3"
+phone: +34 913359550
 opening_hours: ""
-website: "https://www.loxamhune.com/"
+website: https://www.loxamhune.com/

@@ -1,11 +1,11 @@
 id: 106223134
-type: way
+type: node
 latitude: 40.54068
 longitude: -3.62442
 postcode: "28703"
 city: San Sebastián de los Reyes
-street: "Avenida del Juncal"
-housenumber: 5
+street: Avenida del Juncal
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

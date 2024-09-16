@@ -4,8 +4,8 @@ latitude: 40.41155
 longitude: -3.6941
 postcode: "28014"
 city: Madrid
-street: "Calle de la Alameda"
-housenumber: 12
+street: Calle de la Alameda
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-15:00"
-website: "https://www.carrefour.es/_includes/redirect.aspx?tcmUri=tcm:5-16705"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-15:00
+website: https://www.carrefour.es/_includes/redirect.aspx?tcmUri=tcm:5-16705

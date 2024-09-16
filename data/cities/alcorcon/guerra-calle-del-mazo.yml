@@ -1,11 +1,11 @@
 id: 541522150
-type: way
+type: node
 latitude: 40.34399
 longitude: -3.80568
 postcode: ""
 city: Alcorcón
-street: "Calle del Mazo"
-housenumber: 1
+street: Calle del Mazo
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

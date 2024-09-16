@@ -1,11 +1,11 @@
 id: 1184627303
-type: way
+type: node
 latitude: 40.56072
 longitude: -3.61862
 postcode: "28703"
 city: San Sebastián de los Reyes
-street: "Avenida de Tenerife"
-housenumber: 22
+street: Avenida de Tenerife
+housenumber: "22"
 phone: "+34900113213"
-opening_hours: "Mo-Sa 09:00-21:30; Su 09:00-13:00; PH off || Según que festivo"
-website: "https://www.ahorramas.com/"
+opening_hours: Mo-Sa 09:00-21:30; Su 09:00-13:00; PH off || "Según que festivo"
+website: https://www.ahorramas.com/

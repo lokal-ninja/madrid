@@ -4,8 +4,8 @@ latitude: 40.43421
 longitude: -3.69822
 postcode: "28010"
 city: Madrid
-street: "Calle de Santa Engracia"
-housenumber: 52
+street: Calle de Santa Engracia
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.casa-elias.com/"
+website: https://www.casa-elias.com/

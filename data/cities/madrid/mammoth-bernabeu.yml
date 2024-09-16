@@ -4,8 +4,8 @@ latitude: 40.45484
 longitude: -3.68057
 postcode: "28016"
 city: Madrid
-street: "Plaza de Valparaíso"
-housenumber: 7
+street: Plaza de Valparaíso
+housenumber: "7"
 phone: "+34917377770"
-opening_hours: "Mo-Fr 10:00-14:00, 17:00-20:30; Sa 10:00-14:00"
-website: "https://www.mammothbikes.com"
+opening_hours: Mo-Fr 10:00-14:00, 17:00-20:30; Sa 10:00-14:00
+website: https://www.mammothbikes.com

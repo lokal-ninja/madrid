@@ -1,11 +1,11 @@
 id: 682240934
-type: way
+type: node
 latitude: 40.35493
 longitude: -3.90106
 postcode: ""
 city: Villaviciosa de Odón
-street: "Avenida del Príncipe de Asturias"
-housenumber: 101
+street: Avenida del Príncipe de Asturias
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

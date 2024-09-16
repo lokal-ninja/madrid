@@ -4,8 +4,8 @@ latitude: 40.42732
 longitude: -3.70131
 postcode: "28004"
 city: Madrid
-street: "Calle de Apodaca"
-housenumber: 1
+street: Calle de Apodaca
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.lesalondapodaca.com/"
+website: https://www.lesalondapodaca.com/

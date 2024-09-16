@@ -4,8 +4,8 @@ latitude: 40.55712
 longitude: -3.62265
 postcode: "28702"
 city: San Sebastián de los Reyes
-street: "Calle de la Isla Alegranza"
-housenumber: 6
+street: Calle de la Isla Alegranza
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:30-14:00,17:30-20:30"
-website: "https://www.gugutata.net/"
+opening_hours: Mo-Sa 10:30-14:00,17:30-20:30
+website: https://www.gugutata.net/

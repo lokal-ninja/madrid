@@ -1,11 +1,11 @@
 id: 504249456
-type: way
+type: node
 latitude: 40.49699
 longitude: -3.33805
 postcode: "28805"
 city: Alcalá de Henares
-street: "Calle Milán"
-housenumber: 6
+street: Calle Milán
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

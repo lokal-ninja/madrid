@@ -4,8 +4,8 @@ latitude: 40.42722
 longitude: -3.55475
 postcode: "28822"
 city: Coslada
-street: "Avenida de la Constitución"
-housenumber: 85
+street: Avenida de la Constitución
+housenumber: "85"
 phone: "+34914956289"
-opening_hours: "09:00-20:00"
-website: "http://www.peluqueriayesteticazyc.es"
+opening_hours: 09:00-20:00
+website: http://www.peluqueriayesteticazyc.es

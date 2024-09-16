@@ -1,11 +1,11 @@
 id: 500190654
-type: way
+type: node
 latitude: 40.34107
 longitude: -3.81307
 postcode: ""
 city: Alcorcón
-street: "Calle las Fraguas"
-housenumber: 3
+street: Calle las Fraguas
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

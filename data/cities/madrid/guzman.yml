@@ -4,8 +4,8 @@ latitude: 40.4207
 longitude: -3.6884
 postcode: "28001"
 city: Madrid
-street: "Calle de Serrano"
-housenumber: 2
+street: Calle de Serrano
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

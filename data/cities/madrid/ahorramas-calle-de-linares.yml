@@ -1,11 +1,11 @@
 id: 371349069
-type: way
+type: node
 latitude: 40.38832
 longitude: -3.73458
 postcode: "28025"
 city: Madrid
-street: "Calle de Linares"
-housenumber: 
+street: Calle de Linares
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:15-21:00"
+opening_hours: Mo-Sa 09:15-21:00
 website: ""

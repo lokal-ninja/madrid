@@ -1,11 +1,11 @@
 id: 359651868
-type: way
+type: node
 latitude: 40.40438
 longitude: -3.67012
 postcode: "28007"
 city: Madrid
-street: "Calle de las Adelfas"
-housenumber: 38
+street: Calle de las Adelfas
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

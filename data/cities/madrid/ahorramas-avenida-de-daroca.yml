@@ -1,11 +1,11 @@
 id: 132613865
-type: way
+type: node
 latitude: 40.40768
 longitude: -3.61618
 postcode: "28032"
 city: Madrid
-street: "Avenida de Daroca"
-housenumber: 300
+street: Avenida de Daroca
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

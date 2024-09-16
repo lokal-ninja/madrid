@@ -4,8 +4,8 @@ latitude: 40.39693
 longitude: -3.66685
 postcode: "28038"
 city: Madrid
-street: "Avenida de la Albufera"
-housenumber: 34
-phone: "+34 911930077"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 10:00-20:00"
-website: "https://www.clinicadermasana.com/"
+street: Avenida de la Albufera
+housenumber: "34"
+phone: +34 911930077
+opening_hours: Mo-Fr 09:00-21:00; Sa 10:00-20:00
+website: https://www.clinicadermasana.com/

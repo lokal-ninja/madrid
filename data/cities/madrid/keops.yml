@@ -4,8 +4,8 @@ latitude: 40.42612
 longitude: -3.67826
 postcode: "28001"
 city: Madrid
-street: "Calle de Hermosilla"
-housenumber: 75
-phone: "+34 915777262"
+street: Calle de Hermosilla
+housenumber: "75"
+phone: +34 915777262
 opening_hours: ""
-website: "https://ceramicaskeops.es/"
+website: https://ceramicaskeops.es/

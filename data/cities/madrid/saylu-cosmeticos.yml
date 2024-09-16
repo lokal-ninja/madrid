@@ -4,8 +4,8 @@ latitude: 40.45898
 longitude: -3.70038
 postcode: "28039"
 city: Madrid
-street: "Calle de María Zayas"
-housenumber: 2
+street: Calle de María Zayas
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:30; Sa 10:00-14:00,17:15-20:30"
+opening_hours: Mo-Fr 10:00-20:30; Sa 10:00-14:00,17:15-20:30
 website: ""

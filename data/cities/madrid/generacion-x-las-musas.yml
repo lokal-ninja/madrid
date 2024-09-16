@@ -4,8 +4,8 @@ latitude: 40.42934
 longitude: -3.61058
 postcode: "28022"
 city: Madrid
-street: "Avenida de Canillejas a Vicálvaro"
-housenumber: 113
-phone: "+34 91 277 10 57"
-opening_hours: "Mo-Fr 10:30-21:00; Sa 11:00-21:00"
+street: Avenida de Canillejas a Vicálvaro
+housenumber: "113"
+phone: +34 91 277 10 57
+opening_hours: Mo-Fr 10:30-21:00; Sa 11:00-21:00
 website: ""

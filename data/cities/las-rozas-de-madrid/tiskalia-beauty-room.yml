@@ -4,8 +4,8 @@ latitude: 40.55346
 longitude: -3.89666
 postcode: "28290"
 city: Las Rozas de Madrid
-street: "Calle Isaac Peral"
-housenumber: 2
-phone: "+34 677262754"
-opening_hours: "Mo-Fr 11:00-20:00"
-website: "http://www.tiskalia.es/"
+street: Calle Isaac Peral
+housenumber: "2"
+phone: +34 677262754
+opening_hours: Mo-Fr 11:00-20:00
+website: http://www.tiskalia.es/

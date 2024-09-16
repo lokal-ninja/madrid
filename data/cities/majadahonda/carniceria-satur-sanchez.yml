@@ -4,8 +4,8 @@ latitude: 40.47158
 longitude: -3.87527
 postcode: "28220"
 city: Majadahonda
-street: "Calle de la Mina"
-housenumber: 4
-phone: "+34 91 638 21 69"
-opening_hours: "Mo-Fr 09:00-14:00,17:00-20:30; Sa 09:00-14:00; Su off"
-website: "https://www.carniceriasatursanchez.es/es/"
+street: Calle de la Mina
+housenumber: "4"
+phone: +34 91 638 21 69
+opening_hours: Mo-Fr 09:00-14:00,17:00-20:30; Sa 09:00-14:00; Su off
+website: https://www.carniceriasatursanchez.es/es/

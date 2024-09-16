@@ -4,8 +4,8 @@ latitude: 40.45228
 longitude: -3.67898
 postcode: "28002"
 city: Madrid
-street: "Calle de Rodríguez Marín"
-housenumber: 63
-phone: "+34 911 51 62 46"
-opening_hours: "Mo-Sa 09:00-21:30"
+street: Calle de Rodríguez Marín
+housenumber: "63"
+phone: +34 911 51 62 46
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

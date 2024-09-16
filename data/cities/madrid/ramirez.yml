@@ -4,8 +4,8 @@ latitude: 40.40914
 longitude: -3.70716
 postcode: "28005"
 city: Madrid
-street: "Calle San Cayetano"
-housenumber: 10
+street: Calle San Cayetano
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

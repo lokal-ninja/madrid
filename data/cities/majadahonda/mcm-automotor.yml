@@ -1,11 +1,11 @@
 id: 1013235074
-type: way
+type: node
 latitude: 40.46892
 longitude: -3.87364
 postcode: "28220"
 city: Majadahonda
-street: "Calle de San Andrés"
-housenumber: 14
-phone: "+34 916 39 73 52"
-opening_hours: "Mo-Fr 09:00-14:00,15:30-19:00"
-website: "https://mcmautomotor.com/"
+street: Calle de San Andrés
+housenumber: "14"
+phone: +34 916 39 73 52
+opening_hours: Mo-Fr 09:00-14:00,15:30-19:00
+website: https://mcmautomotor.com/

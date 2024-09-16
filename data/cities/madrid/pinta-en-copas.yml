@@ -4,8 +4,8 @@ latitude: 40.42669
 longitude: -3.70213
 postcode: "28004"
 city: Madrid
-street: "Calle de Velarde"
-housenumber: 3
+street: Calle de Velarde
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://pintaencopas.com/"
+website: https://pintaencopas.com/

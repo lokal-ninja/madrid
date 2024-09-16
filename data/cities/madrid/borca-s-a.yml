@@ -4,8 +4,8 @@ latitude: 40.41579
 longitude: -3.70498
 postcode: "28012"
 city: Madrid
-street: "Calle del Marqués Viudo de Pontejos"
-housenumber: 2
-phone: "+34 915 326 153"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.borca.es/"
+street: Calle del Marqués Viudo de Pontejos
+housenumber: "2"
+phone: +34 915 326 153
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.borca.es/

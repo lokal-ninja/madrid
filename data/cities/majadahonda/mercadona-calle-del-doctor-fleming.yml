@@ -1,11 +1,11 @@
 id: 124115881
-type: way
+type: node
 latitude: 40.4749
 longitude: -3.87756
 postcode: "28220"
 city: Majadahonda
-street: "Calle del Doctor Fleming"
-housenumber: 16
+street: Calle del Doctor Fleming
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30; Su off"
+opening_hours: Mo-Sa 09:00-21:30; Su off
 website: ""

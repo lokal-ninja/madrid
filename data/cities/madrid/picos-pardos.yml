@@ -4,8 +4,8 @@ latitude: 40.42638
 longitude: -3.70411
 postcode: "28004"
 city: Madrid
-street: "Calle del Dos de Mayo"
-housenumber: 10
+street: Calle del Dos de Mayo
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

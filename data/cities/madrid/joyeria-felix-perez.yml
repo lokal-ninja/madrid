@@ -4,8 +4,8 @@ latitude: 40.42414
 longitude: -3.70731
 postcode: "28015"
 city: Madrid
-street: "Calle de San Bernardo"
-housenumber: 42
+street: Calle de San Bernardo
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

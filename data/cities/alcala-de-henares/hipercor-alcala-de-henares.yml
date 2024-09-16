@@ -1,11 +1,11 @@
 id: 22909472
-type: way
+type: node
 latitude: 40.4797
 longitude: -3.40103
 postcode: "28806"
 city: Alcalá de Henares
-street: "Avenida Juan Carlos I"
-housenumber: 
+street: Avenida Juan Carlos I
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

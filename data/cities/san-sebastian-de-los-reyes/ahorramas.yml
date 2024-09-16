@@ -1,11 +1,11 @@
 id: 106223138
-type: way
+type: node
 latitude: 40.54123
 longitude: -3.62517
 postcode: "28703"
 city: San Sebastián de los Reyes
-street: "Avenida del Juncal"
-housenumber: 2
+street: Avenida del Juncal
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

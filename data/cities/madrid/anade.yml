@@ -4,8 +4,8 @@ latitude: 40.42344
 longitude: -3.70737
 postcode: "28015"
 city: Madrid
-street: "Calle de San Bernardo"
-housenumber: 32
-phone: "+34 915218871"
-opening_hours: "Mo-Fr 09:29-14:00,16:30-20:00; Sa 10:15-14:00"
-website: "https://anadeshop.com/"
+street: Calle de San Bernardo
+housenumber: "32"
+phone: +34 915218871
+opening_hours: Mo-Fr 09:29-14:00,16:30-20:00; Sa 10:15-14:00
+website: https://anadeshop.com/

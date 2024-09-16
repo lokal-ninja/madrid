@@ -4,8 +4,8 @@ latitude: 40.42987
 longitude: -3.70696
 postcode: "28015"
 city: Madrid
-street: "Calle de Alberto Aguilera"
-housenumber: 8
+street: Calle de Alberto Aguilera
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30; PH,Su 09:00-14:30"
-website: "https://www.panariapanaderias.es/"
+opening_hours: Mo-Sa 08:00-20:30; PH,Su 09:00-14:30
+website: https://www.panariapanaderias.es/

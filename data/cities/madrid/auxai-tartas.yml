@@ -4,8 +4,8 @@ latitude: 40.45811
 longitude: -3.78239
 postcode: "28023"
 city: Madrid
-street: "Plaza de San Anacleto"
-housenumber: 4
-phone: "677 76 59 10"
-opening_hours: "Mo-Fr 10:30-14:00,17:30-20:00; Sa 11:30-14:00"
-website: "https://www.auxaitartas.com/"
+street: Plaza de San Anacleto
+housenumber: "4"
+phone: 677 76 59 10
+opening_hours: Mo-Fr 10:30-14:00,17:30-20:00; Sa 11:30-14:00
+website: https://www.auxaitartas.com/

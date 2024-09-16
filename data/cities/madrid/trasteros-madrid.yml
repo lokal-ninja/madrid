@@ -1,11 +1,11 @@
 id: 242357759
-type: way
+type: node
 latitude: 40.40069
 longitude: -3.67009
 postcode: "28007"
 city: Madrid
-street: "Calle Francisco Abril"
-housenumber: 4
+street: Calle Francisco Abril
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.40745
 longitude: -3.69981
 postcode: "28012"
 city: Madrid
-street: "Calle de la Sombrerería"
-housenumber: 6
-phone: "91 350 636"
+street: Calle de la Sombrerería
+housenumber: "6"
+phone: 91 350 636
 opening_hours: ""
-website: "https://www.traficodelibros.es/"
+website: https://www.traficodelibros.es/

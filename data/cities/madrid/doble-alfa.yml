@@ -4,8 +4,8 @@ latitude: 40.43664
 longitude: -3.69878
 postcode: "28010"
 city: Madrid
-street: "Calle de García de Paredes"
-housenumber: 36
-phone: "+34 619 545 464"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-15:00"
+street: Calle de García de Paredes
+housenumber: "36"
+phone: +34 619 545 464
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 316456517
-type: way
+type: node
 latitude: 40.38413
 longitude: -3.62452
 postcode: "28031"
 city: Madrid
-street: "Avenida de la Democracia"
-housenumber: 10
+street: Avenida de la Democracia
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

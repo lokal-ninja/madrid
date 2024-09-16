@@ -4,8 +4,8 @@ latitude: 40.42111
 longitude: -3.70085
 postcode: "28004"
 city: Madrid
-street: "Calle de las Infantas"
-housenumber: 
+street: Calle de las Infantas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 11:00-21:00; Su 12:00-20:00"
+opening_hours: Mo-Sa 11:00-21:00; Su 12:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 160565328
-type: way
+type: node
 latitude: 40.49285
 longitude: -3.89989
 postcode: "28222"
 city: Majadahonda
-street: "Calle de los químicos"
-housenumber: 2
+street: Calle de los químicos
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su,PH 10:00-24:00"
-website: "https://www.centrocomercialgranplaza2.com/"
+opening_hours: Mo-Su,PH 10:00-24:00
+website: https://www.centrocomercialgranplaza2.com/

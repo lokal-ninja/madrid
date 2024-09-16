@@ -1,11 +1,11 @@
 id: 699408009
-type: way
+type: node
 latitude: 40.34359
 longitude: -3.75797
 postcode: "28918"
 city: Leganés
-street: "Avenida Puerta del Sol"
-housenumber: 2
+street: Avenida Puerta del Sol
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

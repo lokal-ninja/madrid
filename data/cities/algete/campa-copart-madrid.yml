@@ -1,11 +1,11 @@
 id: 1041138574
-type: way
+type: node
 latitude: 40.5907
 longitude: -3.52585
 postcode: "28110"
 city: Algete
-street: "Carretera de Algete M-106 Km 1.6"
-housenumber: 
+street: Carretera de Algete M-106 Km 1.6
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.copart.es/locations/madrid-m-5101/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.copart.es/locations/madrid-m-5101/

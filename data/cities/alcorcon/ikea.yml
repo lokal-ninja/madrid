@@ -1,11 +1,11 @@
 id: 507554860
-type: way
+type: node
 latitude: 40.35137
 longitude: -3.85667
 postcode: "28922"
 city: Alcorcón
-street: "Calle Ejército del Aire"
-housenumber: 1
-phone: "+34 900 400 922"
+street: Calle Ejército del Aire
+housenumber: "1"
+phone: +34 900 400 922
 opening_hours: ""
 website: ""

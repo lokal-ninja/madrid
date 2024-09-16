@@ -4,8 +4,8 @@ latitude: 40.409
 longitude: -3.71165
 postcode: "28005"
 city: Madrid
-street: "Calle de la Paloma"
-housenumber: 5
+street: Calle de la Paloma
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""
