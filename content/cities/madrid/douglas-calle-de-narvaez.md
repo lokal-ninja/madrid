@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /alcala-de-henares/douglas/
+url: /madrid/douglas-calle-de-narvaez/
 shop: perfumería
 ---
