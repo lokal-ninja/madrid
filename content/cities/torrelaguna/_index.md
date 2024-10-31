@@ -1,6 +1,6 @@
 ---
 title: Torrelaguna
 url: /torrelaguna/
-latitude: 40.827
-longitude: -3.53
+latitude: 40.829
+longitude: -3.529
 ---
