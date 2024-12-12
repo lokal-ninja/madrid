@@ -1,6 +1,6 @@
 ---
 title: Casarrubuelos
 url: /casarrubuelos/
-latitude: 40.171
-longitude: -3.83
+latitude: 40.17
+longitude: -3.832
 ---
