@@ -1,5 +1,5 @@
 ---
-title: "La Casa de Las Carcasas"
+title: "La Casa de las Carcasas"
 url: /madrid/la-casa-de-las-carcasas-calle-preciados/
-shop: teléfono móvil
+shop: general
 ---
