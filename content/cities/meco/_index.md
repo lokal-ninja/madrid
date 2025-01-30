@@ -1,6 +1,6 @@
 ---
 title: Meco
 url: /meco/
-latitude: 40.554
-longitude: -3.324
+latitude: 40.555
+longitude: -3.327
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
-url: /madrid/orange-calle-de-antonio-lopez/
+url: /madrid/orange-gran-via/
 shop: teléfono móvil
 ---
