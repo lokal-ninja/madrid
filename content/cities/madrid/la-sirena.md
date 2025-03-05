@@ -1,5 +1,5 @@
 ---
-title: "la Sirena"
+title: "La Sirena"
 url: /madrid/la-sirena/
-shop: supermercado
+shop: alimentos congelados
 ---
