@@ -1,5 +1,5 @@
 ---
 title: "Natura"
 url: /madrid/natura/
-shop: ropa
+shop: tienda rural
 ---

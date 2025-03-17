@@ -1,5 +1,5 @@
 ---
 title: "Natur House"
 url: /madrid/natur-house/
-shop: herbolario
+shop: suplementos nutricionales
 ---

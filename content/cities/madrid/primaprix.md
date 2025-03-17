@@ -1,5 +1,5 @@
 ---
-title: "PrimaPrix"
+title: "Primaprix"
 url: /madrid/primaprix/
 shop: supermercado
 ---
