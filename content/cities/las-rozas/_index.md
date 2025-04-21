@@ -1,6 +1,6 @@
 ---
 title: Las Rozas
 url: /las-rozas/
-latitude: 40.504
-longitude: -3.892
+latitude: 40.551
+longitude: -3.896
 ---
