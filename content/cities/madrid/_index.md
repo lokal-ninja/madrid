@@ -1,6 +1,6 @@
 ---
 title: Madrid
 url: /madrid/
-latitude: 40.47
-longitude: -3.686
+latitude: 40.486
+longitude: -3.688
 ---
