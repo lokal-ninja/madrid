@@ -1,5 +1,5 @@
 ---
-title: "Zapateria.com"
+title: "zapateria.com"
 url: /madrid/zapateria-com/
 shop: zapatos
 ---
