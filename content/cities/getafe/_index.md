@@ -1,6 +1,6 @@
 ---
 title: Getafe
 url: /getafe/
-latitude: 40.316
-longitude: -3.721
+latitude: 40.312
+longitude: -3.717
 ---
