@@ -1,5 +1,5 @@
 ---
 title: "La Despensa"
-url: /madrid/la-despensa-calle-tera/
+url: /villaviciosa-de-odon/la-despensa/
 shop: supermercado
 ---
