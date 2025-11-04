@@ -1,5 +1,5 @@
 ---
-title: "KATEL"
+title: "Katel"
 url: /madrid/katel/
 shop: electrónica
 ---
