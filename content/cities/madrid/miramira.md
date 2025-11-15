@@ -1,5 +1,5 @@
 ---
-title: "miramira"
+title: "Miramira"
 url: /madrid/miramira/
-shop: general
+shop: joyería
 ---
