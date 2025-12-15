@@ -1,6 +1,6 @@
 ---
 title: Fuenlabrada
 url: /fuenlabrada/
-latitude: 40.281
-longitude: -3.798
+latitude: 40.285
+longitude: -3.81
 ---
