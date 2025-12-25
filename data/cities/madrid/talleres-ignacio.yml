@@ -7,5 +7,5 @@ city: Madrid
 street: Calle de Mateo García
 housenumber: "41"
 phone: +34 913 26 21 11
-opening_hours: Mo-Su 08:00-13:00 15:00-18:00
+opening_hours: Mo-Su 08:00-13:00,15:00-18:00
 website: ""
