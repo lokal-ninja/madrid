@@ -1,5 +1,5 @@
 ---
-title: "BRITISH CONCEPT"
+title: "British Concept"
 url: /madrid/british-concept/
 shop: zapatos
 ---

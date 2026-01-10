@@ -1,5 +1,5 @@
 ---
-title: "ÓPTICA MERINO"
+title: "Óptica Merino"
 url: /madrid/optica-merino/
 shop: óptico
 ---
