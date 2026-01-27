@@ -1,5 +1,5 @@
 ---
-title: "MATTUÎ Collection"
+title: "Mattuî Collection"
 url: /madrid/mattui-collection/
 shop: ropa
 ---
