@@ -7,5 +7,5 @@ city: Madrid
 street: Calle del Arenal
 housenumber: "8"
 phone: +34 915232393
-opening_hours: Mo-Sa 11:00-14:00; Mo-Sa 16:00-20:00
+opening_hours: Mo-Sa 11:00-14:00,16:00-20:00
 website: https://www.chollogames.es/
