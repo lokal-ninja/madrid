@@ -1,5 +1,5 @@
 ---
 title: "Aerolineas Estelar"
-url: /madrid/aerolineas-estelar-avenida-de-la-hispanidad/
+url: /madrid/aerolineas-estelar-calle-de-velazquez/
 shop: agencia de viajes
 ---
