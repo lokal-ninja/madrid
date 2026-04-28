@@ -1,5 +1,5 @@
 ---
 title: "La Sirena"
-url: /madrid/la-sirena-calle-de-jose-del-hierro/
+url: /madrid/la-sirena-calle-de-embajadores/
 shop: alimentos congelados
 ---
