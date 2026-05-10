@@ -1,5 +1,5 @@
 ---
 title: "Bodybell"
-url: /madrid/bodybell-gran-via/
+url: /madrid/bodybell-calle-de-ponciano/
 shop: perfumería
 ---
