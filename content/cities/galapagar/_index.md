@@ -1,6 +1,6 @@
 ---
 title: Galapagar
 url: /galapagar/
-latitude: 40.577
-longitude: -4.003
+latitude: 40.578
+longitude: -4.007
 ---
