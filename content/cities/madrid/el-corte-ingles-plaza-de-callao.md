@@ -1,5 +1,5 @@
 ---
 title: "El Corte Inglés"
-url: /madrid/el-corte-ingles-calle-de-la-princesa/
+url: /madrid/el-corte-ingles-plaza-de-callao/
 shop: grandes almacenes
 ---
