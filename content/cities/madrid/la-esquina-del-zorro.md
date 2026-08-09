@@ -1,5 +1,5 @@
 ---
-title: "La esquina del Zorro"
+title: "La Esquina del Zorro"
 url: /madrid/la-esquina-del-zorro/
 shop: libros
 ---
