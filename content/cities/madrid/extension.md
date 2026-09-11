@@ -1,5 +1,5 @@
 ---
-title: "extensión"
+title: "Extensión"
 url: /madrid/extension/
 shop: peluquería
 ---
