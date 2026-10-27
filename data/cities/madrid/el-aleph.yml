@@ -7,5 +7,6 @@ city: Madrid
 street: Calle de Ferraz
 housenumber: "22"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu 07:30-14:30; We-Fr 07:30-14:30,17:30-20:30; Sa 08:00-14:30,17:30-20:30;
+    Su 08:00-14:30
 website: ""
