@@ -1,5 +1,5 @@
 ---
-title: "La Antoja"
+title: "La Antojá"
 url: /madrid/la-antoja/
 shop: vino
 ---
